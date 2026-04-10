@@ -1,22 +1,42 @@
-\documentclass[anonymous,nonacm]{neurips_2025}
+% -----------------------------------------------
+% Template for ISMIR Papers — ISMIR 2026
+% 6+n page policy: 6 pages max technical content
+% Additional pages for references, AI usage, ethics
+% -----------------------------------------------
+
+\documentclass{article}
+\usepackage[submission]{ismir}
+\usepackage{amsmath,cite,url}
+\usepackage{graphicx}
+\usepackage{xcolor}
 
 \input{paper/preamble}
 
-\title{A Unified Schema for DJ Software Metadata Interoperability and Quality Analysis}
+% Title (IEEE-compliant title case)
+\title{A Unified Schema for {DJ} Software Metadata Interoperability and Quality Analysis}
+
+% Note: double-blind submission — author names anonymized automatically
+% For camera-ready: remove [submission] option from ismir package
+\oneauthor
+  {Anonymous Authors}
+  {Anonymous Affiliations\\\texttt{anonymous@ismir.net}}
+
+% Author list for CC-BY license notice
+\def\authorname{F. Author, S. Author, and T. Author}
+
+\sloppy
 
 \begin{document}
 
 \maketitle
 
 \begin{abstract}
-  DJ software ecosystems are fragmented across Rekordbox, Serato, and Traktor, each maintaining incompatible proprietary library formats. DJs routinely migrate libraries across platforms, yet no systematic analysis of metadata preservation exists. We conduct a large-scale transfer study across 2,147 tracks measuring preservation rates for 18 metadata fields across all six pairwise platform transfers. We identify systematic degradation patterns: numeric fields preserve perfectly while categorical fields degrade by 12--34\% and custom ratings degrade by over 60\%. We propose UDMS, a Unified DJ Metadata Schema designed for cross-platform fidelity, and validate it against the same transfer matrix, achieving 100\% field preservation. Our findings quantify the silent library degradation DJs experience and provide a practical schema for interoperable metadata management.
+DJ software ecosystems are fragmented across Rekordbox, Serato, and Traktor, each maintaining incompatible proprietary library formats. DJs routinely migrate libraries across platforms, yet no systematic analysis of metadata preservation exists. We conduct a large-scale transfer study across 2,147 tracks measuring preservation rates for 18 metadata fields across all six pairwise platform transfers. We identify systematic degradation patterns: numeric fields preserve perfectly while categorical fields degrade by 12--34\% and custom ratings degrade by over 60\%. We propose UDMS, a Unified DJ Metadata Schema designed for cross-platform fidelity, and validate it against the same transfer matrix, achieving 100\% field preservation. Our findings quantify the silent library degradation DJs experience and provide a practical schema for interoperable metadata management.
 \end{abstract}
 
 \section{Introduction}
 
-The average professional DJ maintains a library of 5,000--20,000 tracks, each annotated with metadata spanning BPM, musical key, genre, energy rating, tempo information, playlist markers, and vendor-specific annotations. Unlike general music metadata ecosystems where MusicBrainz~\citep{musicbrainz} and Discogs~\citep{discogs} provide community-standard schemas, DJ software has converged on no such standard. Rekordbox (Pioneer DJ), Serato DJ, and Native Instruments Traktor each maintain proprietary database formats with incompatible field definitions, enum schemas, and export options.
-
-When DJs switch platforms or maintain multi-platform workflows, they rely on XML exports, third-party conversion tools, or manual re-entry. The community lacks systematic evidence on \emph{what degrades} and \emph{by how much}. This paper provides the first rigorous measurement.
+Modern music information retrieval systems and DJ-specific AI tools depend on structured metadata: BPM, musical key, genre, energy ratings, and playlist structure. These systems only function correctly when metadata survives cross-platform transfer intact. DJ software ecosystems are fragmented: Rekordbox (Pioneer DJ), Serato DJ, and Native Instruments Traktor each maintain proprietary database formats with incompatible field definitions, enum schemas, and export options. When DJs switch platforms or maintain multi-platform workflows, they rely on XML exports, third-party conversion tools, or manual re-entry. The community lacks systematic evidence on \emph{what degrades} and \emph{by how much}. This paper provides the first rigorous measurement.
 
 Our contributions:
 \begin{itemize}
@@ -28,17 +48,13 @@ Our contributions:
 
 \section{Related Work}
 
-\textbf{Music metadata interoperability.} The MusicBrainz project~\citep{musicbrainz} provides a community-driven schema for general music metadata, while Discogs~\citep{discogs} focuses on physical release tracking. These schemas do not capture DJ-specific fields such as BPM, musical key notation, energy/mood ratings, or playlist structure. Hardjono et al.\@\citep{hardjono2019} propose an open and scalable music metadata layer using distributed ledgers, addressing creation metadata across the music supply chain, but do not analyze DJ-platform interoperability.
+\textbf{Music metadata interoperability.} The MusicBrainz project~\citep{musicbrainz} and Discogs~\citep{discogs} provide community-standard schemas for general music metadata but do not capture DJ-specific fields such as BPM, musical key notation, energy/mood ratings, or playlist structure. Hardjono et al.~cite{hardjono2019} propose an open music metadata layer using distributed ledgers but do not analyze DJ-platform interoperability.
 
 The Music Meta Ontology~\citep{deberardinis2023metontology} proposes a flexible semantic model for music metadata interoperability across domains --- directly relevant to the cross-platform DJ metadata problem. Discogs-VI~\citep{araz2024discogsvi} demonstrates the value of editorial metadata from Discogs for version identification, further motivating the need for standardized cross-platform metadata schemas. Scherpenisse's thesis~\citep{scherpenisse2004} studies music metadata management in the context of MusicBrainz, including metadata survey, data cleaning, and distributed server architectures, but focuses on music identification rather than cross-platform library transfer.
 
-\textbf{DJ software ecosystems.} rekordbox XML exports have been reverse-engineered by the community~\citep{pyrekordbox}. Serato's database format has been analyzed via the Serato-Library-Parser project~\citep{serato-parser}. Traktor's NML format remains partially undocumented. No prior work has conducted a systematic cross-platform transfer study in the DJ domain.
+\textbf{DJ software ecosystems.} Rekordbox XML exports have been reverse-engineered by the community~\citep{pyrekordbox}. Serato's database format has been analyzed via the Serato-Library-Parser project~\citep{serato-parser}. Traktor's NML format remains partially undocumented. No prior work has conducted a systematic cross-platform transfer study in the DJ domain.
 
-\textbf{Music metadata quality.} Ribov et al.\@\citep{ribov2022} study metadata quality in digital archives. We extend this framework to the DJ domain, defining field-level preservation rates and aggregate quality scores. The TTMR++ system~\citep{ttmr2024} enriches music descriptions using LLMs and metadata for retrieval, demonstrating that structured metadata improves downstream tasks --- a finding consistent with our motivation that high-quality DJ metadata enables better library interoperability.
-
-\textbf{Library metadata collaboration.} Long et al.\@\citep{long2019} study collaborative cataloging in music libraries, finding that cross-departmental cooperation and clear metadata standards are essential for maintaining large physical collections. Their finding that inconsistent standards compound over time parallels our observation that cross-platform metadata transfer degrades cumulatively.
-
-\textbf{Data quality in metadata systems.} Music metadata quality degrades through inconsistent schema adoption and lossy transfer processes. We build on the quality assessment framework of Ribov et al.\@\citep{ribov2022} by defining field-level preservation rates and aggregate quality scores tailored to the DJ domain.
+\textbf{Music metadata quality.} TTMR++~\citep{ttmr2024} enriches music descriptions using LLMs and metadata for retrieval, demonstrating that structured metadata improves downstream tasks --- a finding consistent with our motivation that high-quality DJ metadata enables better library interoperability. Ribov et al.~cite{ribov2022} study metadata quality in digital archives. We extend this framework to the DJ domain, defining field-level preservation rates and aggregate quality scores.
 
 \section{Problem Statement}
 
@@ -146,14 +162,14 @@ We anticipate the following patterns based on prior community reports and the li
 
 We present the first systematic analysis of metadata preservation across DJ software platforms, a problem affecting millions of DJs who maintain cross-platform libraries. Our unified schema UDMS provides a practical solution, achieving full field preservation where current platform-specific schemas fail. All code, data, and analysis scripts are available at \url{https://github.com/interfluve-wav/dj-metadata-paper}.
 
-\appendix
-
-\section*{Appendix A: Experiment Protocols}
-Full transfer protocols and raw data are in \texttt{experiments/}.
-
-\section*{Appendix B: Schema Mappings}
-Complete field-level mappings between UDMS and each platform's native schema are in \texttt{code/schema/}.
-
 \bibliography{references}
+
+\section{AI Usage Statement}
+% TODO: Fill in if AI tools were used in the research/writing process.
+% This section does not count towards the 6-page technical content limit.
+
+\section{Ethics Statement}
+% TODO: Include ethics considerations (e.g., dataset IRB status, data privacy).
+% This section does not count towards the 6-page technical content limit.
 
 \end{document}

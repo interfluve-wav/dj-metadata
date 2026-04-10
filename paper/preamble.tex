@@ -1,17 +1,16 @@
-% Professional LaTeX preamble additions
+% Professional LaTeX preamble — ISMIR 2026 compatible
+% Contains custom commands and TikZ styles used by main.tex
+% ISMIR style file (ismir.sty) handles base packages: amsmath, cite, url, graphicx, xcolor
+
 \usepackage{microtype}
 \usepackage{booktabs}
 \usepackage{siunitx}
-\usepackage{graphicx}
 \usepackage{subcaption}
-\usepackage{tikz}
-\usetikzlibrary{arrows.meta, positioning, shapes.geometric, calc, fit, backgrounds}
+\usepackage{amssymb,mathtools}
 \usepackage[ruled,vlined]{algorithm2e}
 \usepackage{cleveref}
-\usepackage{amsmath,amssymb,mathtools}
-\usepackage{xcolor}
 
-% Okabe-Ito colorblind-safe palette
+% Okabe-Ito colorblind-safe palette (recommended by ISMIR style guide)
 \definecolor{okblue}{HTML}{0072B2}
 \definecolor{okorange}{HTML}{E69F00}
 \definecolor{okgreen}{HTML}{009E73}
@@ -20,7 +19,7 @@
 \definecolor{okcyan}{HTML}{56B4E9}
 \definecolor{okyellow}{HTML}{F0E442}
 
-% UDMS diagram node style
+% UDMS diagram node style (used in paper figures)
 \tikzset{
   platform/.style={rectangle, draw, rounded corners, minimum height=0.9cm,
                    minimum width=1.8cm, align=center, font=\small\bfseries},
