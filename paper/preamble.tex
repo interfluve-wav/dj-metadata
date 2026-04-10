@@ -1,0 +1,35 @@
+% Professional LaTeX preamble additions
+\usepackage{microtype}
+\usepackage{booktabs}
+\usepackage{siunitx}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, positioning, shapes.geometric, calc, fit, backgrounds}
+\usepackage[ruled,vlined]{algorithm2e}
+\usepackage{cleveref}
+\usepackage{amsmath,amssymb,mathtools}
+\usepackage{xcolor}
+
+% Okabe-Ito colorblind-safe palette
+\definecolor{okblue}{HTML}{0072B2}
+\definecolor{okorange}{HTML}{E69F00}
+\definecolor{okgreen}{HTML}{009E73}
+\definecolor{okred}{HTML}{D55E00}
+\definecolor{okpurple}{HTML}{CC79A7}
+\definecolor{okcyan}{HTML}{56B4E9}
+\definecolor{okyellow}{HTML}{F0E442}
+
+% UDMS diagram node style
+\tikzset{
+  platform/.style={rectangle, draw, rounded corners, minimum height=0.9cm,
+                   minimum width=1.8cm, align=center, font=\small\bfseries},
+  field/.style={rectangle, draw, rounded corners, minimum height=0.7cm,
+                 minimum width=2.2cm, align=center, font=\small},
+  arrow_norm/.style={-{Stealth[length=3mm]}, thick},
+  arrow_loss/.style={-{Stealth[length=3mm]}, thick, okred},
+}
+
+% Command definitions
+\newcommand{\method}{UDMS}
+\newcommand{\platform}[1]{\textsf{#1}}
