@@ -16,45 +16,45 @@ Warning--empty journal in bruce2004metadata
 Warning--empty journal in xu2025edmtaxonomy
 
 Done.
-You've used 26 entries,
+You've used 28 entries,
             4087 wiz_defined-function locations,
-            970 strings with 12300 characters,
-and the built_in function-call counts, 16426 in all, are:
-= -- 1280
-> -- 380
-< -- 101
-+ -- 202
-- -- 70
-* -- 769
-:= -- 2542
-add.period$ -- 53
-call.type$ -- 26
-change.case$ -- 25
-chr.to.int$ -- 246
-cite$ -- 29
-duplicate$ -- 1226
-empty$ -- 1456
-format.name$ -- 89
-if$ -- 3805
+            982 strings with 12870 characters,
+and the built_in function-call counts, 18334 in all, are:
+= -- 1432
+> -- 422
+< -- 119
++ -- 226
+- -- 76
+* -- 864
+:= -- 2812
+add.period$ -- 57
+call.type$ -- 28
+change.case$ -- 27
+chr.to.int$ -- 294
+cite$ -- 31
+duplicate$ -- 1352
+empty$ -- 1620
+format.name$ -- 97
+if$ -- 4259
 int.to.chr$ -- 0
-int.to.str$ -- 26
-missing$ -- 225
-newline$ -- 113
-num.names$ -- 26
-pop$ -- 575
+int.to.str$ -- 28
+missing$ -- 245
+newline$ -- 123
+num.names$ -- 28
+pop$ -- 625
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 1265
+skip$ -- 1412
 stack$ -- 0
-substring$ -- 597
-swap$ -- 886
-text.length$ -- 19
+substring$ -- 711
+swap$ -- 992
+text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 26
+type$ -- 28
 warning$ -- 3
-while$ -- 66
-width$ -- 28
-write$ -- 264
+while$ -- 76
+width$ -- 30
+write$ -- 288
 (There were 3 warnings)

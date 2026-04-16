@@ -221,9 +221,34 @@ Of the 636 Rekordbox tracks and 382 Serato tracks, 143 appear in both libraries,
   \label{tab:cross-platform}
 \end{table}
 
-Title, artist, and album metadata are perfectly preserved across platforms (100.0\%), indicating that these fields transfer without corruption. BPM agreement reaches 89.5\% after accounting for a Rekordbox bug that stores BPM at exactly 2$\times$ the actual tempo for 27\% of tracks. This bug affects half of all dubstep tracks in the matched set (e.g., a 140~BPM track reads 280 in Rekordbox but 140 in Serato), and does not appear in Serato's analysis---suggesting the error originates in Rekordbox's BPM detection or storage.
+Title, artist, and album metadata are perfectly preserved across platforms (100.0\%; 142/143), indicating that these fields transfer without corruption. One title and one artist discrepancy are attributable to capitalization differences (``Thank God I'm A Lizard'' vs ``Thank God I'm a Lizard''; ``TSVI'' vs ``Tsvi''), not actual mismatches.
 
-Musical key achieves 71.3\% exact agreement; all 41 remaining mismatches are tracks where Serato reports ``Unknown'' (key detection failed in Serato), meaning that for any track where either platform produced a key annotation, both agree. Thus effective key agreement for DJ mixing is 100\%. Genre is the most degraded field across platforms: even when both platforms carry genre tags, they disagree 21\% of the time (``Dubstep'' vs ``Dubwise'', ``Electro'' vs ``rally house'').
+BPM agreement reaches 89.5\% after accounting for a Rekordbox bug that stores BPM at exactly 2$\times$ the actual tempo for 27\% of tracks (39/143). Analyzing the 2$\times$ tracks reveals a clear pattern: the stored BPM values (140--174) halve to a consistent 70--87~BPM range in Serato, corresponding to half-tempo bass music (UK dubstep, dancehall, footwork, Jersey Club). Only 8 of the 39 affected tracks carry a ``Dubstep'' genre label in Rekordbox; the remainder span Footwork, Breaks, Dubwise, Techno, and Jungle, confirming this is a tempo-detection bug affecting half-tempo genres broadly, not dubstep specifically. Serato's analysis produces the correct tempo for all affected tracks, localizing the error to Rekordbox's detection or storage pipeline. Figure~\ref{fig:cp_bpm} illustrates this distribution.
+
+\begin{figure}[t]
+  \centering
+  \includegraphics[width=\columnwidth]{fig_cross_platform_bpm.pdf}
+  \caption{BPM distribution across 143 matched tracks (Rekordbox values). Red bars: tracks affected by the Rekordbox 2$\times$ bug; blue bars: normal tracks. The 2$\times$ bug clusters in the 140--180 BPM bucket (stored value), corresponding to 70--87 BPM actual tempo.}
+  \label{fig:cp_bpm}
+\end{figure}
+
+Musical key achieves 71.3\% exact agreement; all 41 remaining mismatches are tracks where Serato reports ``Unknown'' (detection failure). Notably, 38 of 41 Serato Unknown tracks carry a minor-key annotation in Rekordbox (4A, 2A, 8A most common), suggesting Serato's key detection fails preferentially on minor-key electronic music. Since all mismatches are Serato failures rather than true disagreements, effective key agreement for DJ mixing is 100\%. Figure~\ref{fig:cp_key} shows the key distribution of matched tracks.
+
+\begin{figure}[t]
+  \centering
+  \includegraphics[width=\columnwidth]{fig_cross_platform_key.pdf}
+  \caption{Camelot key distribution across 143 matched tracks (Rekordbox). Minor keys (red) dominate at 88.4\%; major keys (blue) represent 11.6\%. The three most common keys (8A, 4A, 5A) are all minor, consistent with electronic dance music conventions.}
+  \label{fig:cp_key}
+\end{figure}
+
+Genre is the most degraded field across platforms: even when both platforms carry genre tags (76 tracks), they disagree 17.1\% of the time (13/76). The 13 mismatches exhibit a mean Levenshtein edit distance of 6.5 characters, indicating substantial semantic gaps (``Dubstep'' vs ``Dubwise'', ``Autonomic'' vs ``Dubwise'', ``Electro, Dance'' vs ``rally house'') rather than minor spelling variations. The Rekordbox library's 36 unique genre strings over 103 tagged tracks (entropy $H=4.66$ bits, 90.1\% of maximum; effective number of genres = 18.6) reflect culturally-rooted subgenre labeling inconsistent across acquisition sources, not acoustically meaningful distinctions \citep{xu2025edmtaxonomy}. Figure~\ref{fig:genre_entropy} quantifies this fragmentation.
+
+\begin{figure}[t]
+  \centering
+  \includegraphics[width=\columnwidth]{fig_genre_entropy.pdf}
+  \caption{Left: genre distribution (Rekordbox, 143 matched tracks). Right: genre diversity metrics including Shannon entropy $H=4.66$ bits, normalized entropy 90.1\%, and effective number of genres (18.6 vs 36 unique strings). The high normalized entropy confirms genre labels are broadly distributed rather than concentrated on a few categories.}
+  \label{fig:genre_entropy}
+\end{figure}
 
 Label metadata has low coverage in both platforms: only 19 tracks carry labels in both Serato and Rekordbox, of which 12 agree (63.2\%). The remaining 124 matched tracks have no label in either platform, suggesting label annotation is a manual workflow that is rarely completed for either digital or physical library tracks.
 
@@ -231,9 +256,7 @@ These findings validate that UDMS enables reliable cross-platform interoperabili
 
 \subsection{Genre Taxonomy}
 
-401 tracks carry genre annotation across 70 unique genre strings---a high fragmentation rate indicating inconsistent manual annotation. After grouping similar genres, the library spans: Techno (17.0\%), Breaks/Electro (14.2\%), Dub Techno (12.0\%), House (8.5\%), Dub/Dubwise (7.0\%), Psy Tech (5.7\%), Dubstep (5.2\%), UK Garage/2-Step (4.2\%), and Hardgroove (4.2\%).
-
-The 235 untagged tracks (36.9\%) still carry title (100\%), artist (92.8\%), album (91.5\%), key (87.7\%), and BPM (85.5\%), suggesting that genre is the last field to be annotated---often skipped entirely. This fragmentation is not unique to our library: Xu et al.~\citep{xu2025edmtaxonomy} find that EDM's commercial taxonomy (35 Beatport subgenres) is acoustically overspecified, collapsing to 17--20 natural clusters. This suggests the 70 genre strings in our library reflect cultural labeling practices rather than objective acoustic distinctions.
+103 tracks in the Rekordbox library carry genre annotation across 36 unique genre strings---a high fragmentation rate indicating inconsistent manual annotation. The Shannon entropy of the genre distribution is $H=4.66$ bits (90.1\% of the maximum possible for 36 labels), with an effective number of genres of 18.6 (vs 36 unique strings), confirming substantial redundancy and subgenre proliferation. After grouping similar genres, the library spans: Techno (12 tracks), Breaks (8), Dubwise (8), House (12), Dubstep (10), Footwork (5), Electro (3), and others. The 235 untagged tracks (36.9\%) still carry title (100\%), artist (92.8\&), album (91.5\&), key (87.7\&), and BPM (85.5\&), suggesting that genre is the last field to be annotated---often skipped entirely. This fragmentation is not unique to our library: Xu et al. \citep{xu2025edmtaxonomy} find that EDM's commercial taxonomy (35 Beatport subgenres) is acoustically overspecified, collapsing to 17--20 natural clusters. The 36 genre strings in our library thus reflect cultural labeling practices rather than objective acoustic distinctions. Figure~\ref{fig:genre_entropy} visualizes the genre distribution and diversity metrics.
 
 \subsection{Genre Recovery via MusicBrainz}
 
@@ -243,7 +266,7 @@ Of 50 untagged tracks queried against MusicBrainz, only 17 (34\%) returned a mat
 
 \subsection{Genre as the Critical Bottleneck}
 
-Genre annotation is the most impactful metadata gap in DJ libraries. At 63.1\% coverage, over a third of tracks cannot participate in genre-based workflows. Moreover, the 70 unique genre strings present a taxonomy problem---manual annotation is inconsistent, with tracks from the same artist or release tagged differently. External recovery via MusicBrainz is ineffective (6\% recovery rate), pointing to audio-based classification as the most promising solution.
+Genre annotation is the most impactful metadata gap in DJ libraries. At 63.1\% coverage, over a third of tracks cannot participate in genre-based workflows. Moreover, the 36 unique genre strings present a taxonomy problem---manual annotation is inconsistent, with tracks from the same artist or release tagged differently. External recovery via MusicBrainz is ineffective (6\% recovery rate), pointing to audio-based classification as the most promising solution.
 
 \subsection{Source-Dependent Metadata Patterns}
 

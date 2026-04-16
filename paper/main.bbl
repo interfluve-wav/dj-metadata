@@ -79,6 +79,16 @@ T.~Kim, M.~Choi, E.~Sacks, and Y.-H. Yang, ``A computational analysis of
   \emph{Proc. of the 21st Int. Society for Music Information Retrieval Conf.
   (ISMIR)}, Montr{\'e}al, Canada, 2020.
 
+\bibitem{knees2015edmdatasets}
+\BIBentryALTinterwordspacing
+P.~Knees, B.~McFee, E.~C.~M. Baltes, and M.~I. Mandel, ``Making sense of {EDM}:
+  A pilot study on the relationships between tempo, musical key, and genre in
+  {Electronic Dance Music},'' in \emph{Proc. of the 16th Int. Society for Music
+  Information Retrieval Conf. (ISMIR 2015)}, M{\'a}laga, Spain, 2015, pp.
+  372--378. [Online]. Available:
+  \url{https://archives.ismir.net/ismir2015/paper/000085.pdf}
+\BIBentrySTDinterwordspacing
+
 \bibitem{ttmr2024}
 \BIBentryALTinterwordspacing
 S.~Doh, M.~Lee, D.~Jeong, and J.~Nam, ``Enriching music descriptions with a
@@ -102,6 +112,15 @@ M.~Ribov and K.~Hagedorn, ``Metadata quality in digital archives: A framework
 \bibitem{bruce2004metadata}
 H.~C. I. and B.~Hillmann, ``Updated functional model for metadata quality,''
   pp. 161--171, 2004.
+
+\bibitem{bogdanov2011metadata}
+\BIBentryALTinterwordspacing
+D.~Bogdanov and P.~Herrera, ``How much metadata do we need in music
+  recommendation? a subjective evaluation study,'' in \emph{Proc. of the 12th
+  Int. Society for Music Information Retrieval Conf. (ISMIR 2011)}, Miami,
+  Florida, USA, 2011, pp. 297--302. [Online]. Available:
+  \url{https://ismir2011.ismir.net/papers/ISMIR2011_85.pdf}
+\BIBentrySTDinterwordspacing
 
 \bibitem{bock2015tempo}
 S.~B{\"o}ck, F.~Krebs, and G.~Widmer, ``Accurate tempo estimation based on
