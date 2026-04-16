@@ -21,8 +21,10 @@ from udms_schema import Platform, RekordboxAdapter, normalize_bpm, normalize_key
 
 def parse_rekordbox(xml_path: str):
     """Parse Rekordbox XML, return dict of {normalized_path -> track_dict}."""
-    tree = ET.parse(xml_path)
-    root = tree.getroot()
+    # Handle BOM or leading whitespace before XML declaration
+    with open(xml_path, "rb") as f:
+        content = f.read().lstrip()
+    root = ET.fromstring(content)
     ns = {"rb": ""}
 
     tracks = {}
