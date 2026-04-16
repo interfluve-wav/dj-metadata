@@ -12,6 +12,7 @@ paper/*.blg
 paper/*.log
 paper/texput.log
 paper/main.pdf
+main.log
 
 # OS
 .DS_Store
