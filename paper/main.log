@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.10)  16 APR 2026 11:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.10)  16 APR 2026 12:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**main
+**main.tex
 (./main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -497,12 +497,13 @@ File: fig_field_coverage.pdf Graphic file (type pdf)
 <use fig_field_coverage.pdf>
 Package pdftex.def Info: fig_field_coverage.pdf  used on input line 150.
 (pdftex.def)             Requested size: 360.0pt x 236.8382pt.
-<fig_completeness_tiers.pdf, id=31, 310.168pt x 219.72527pt>
+ [7]
+<fig_completeness_tiers.pdf, id=35, 310.168pt x 219.72527pt>
 File: fig_completeness_tiers.pdf Graphic file (type pdf)
 <use fig_completeness_tiers.pdf>
 Package pdftex.def Info: fig_completeness_tiers.pdf  used on input line 161.
 (pdftex.def)             Requested size: 360.0pt x 255.03233pt.
- [7] [8 <./fig_field_coverage.pdf>]
+ [8 <./fig_field_coverage.pdf>]
 <fig_bpm_distribution.pdf, id=96, 343.368pt x 226.26846pt>
 File: fig_bpm_distribution.pdf Graphic file (type pdf)
 <use fig_bpm_distribution.pdf>
@@ -540,18 +541,30 @@ Package pdftex.def Info: fig_genre_entropy.pdf  used on input line 259.
 (pdftex.def)             Requested size: 360.0pt x 150.27081pt.
  [13] [14 <./fig_cross_platform_bpm.pdf>]
 [15 <./fig_cross_platform_key.pdf>] [16 <./fig_genre_entropy.pdf>] [17]
-Underfull \hbox (badness 7851) in paragraph at lines 321--322
+Underfull \hbox (badness 7851) in paragraph at lines 323--324
 []\OT1/cmr/bx/n/10.95 (+20) Bonk! (Desk-top Ap-pli-ca-tion): $\OT1/cmtt/m/n/10.
 95 https : / / github . com /
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 323--324
+Underfull \hbox (badness 1292) in paragraph at lines 325--326
 []\OT1/cmr/bx/n/10.95 (+20) Analysis Scripts: $\OT1/cmtt/m/n/10.95 code / schem
 a / udms _ schema . py$ \OT1/cmr/m/n/10.95 (+20) con-tains the
  []
 
-[18] (./main.bbl [19] [20] [21]) [22]
+[18] (./main.bbl [19]
+Underfull \hbox (badness 4303) in paragraph at lines 101--107
+[]\OT1/cmr/m/n/10.95 (+20) DJ.Studio.  The 2026 dj soft-ware in-dex: Real user 
+pref-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--107
+\OT1/cmr/m/n/10.95 (+20) er-ences and mar-ket break-down.  $\OT1/cmtt/m/n/10.95
+ https : / / dj . studio / blog /
+ []
+
+[20] [21] [22])
 
 Package caption Warning: Unused \captionsetup[sub] on input line 8.
 See the caption package documentation for explanation.
@@ -563,13 +576,13 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14880 strings out of 467525
- 311564 string characters out of 5418982
+ 14879 strings out of 467525
+ 311558 string characters out of 5418982
  738944 words of memory out of 5000000
- 43466 multiletter control sequences out of 15000+600000
- 644403 words of font info for 182 fonts, out of 8000000 for 9000
+ 43467 multiletter control sequences out of 15000+600000
+ 644343 words of font info for 181 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,10n,80p,1941b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,10n,80p,1945b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -582,7 +595,7 @@ al/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
 texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/t
 exlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/te
 xlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on main.pdf (23 pages, 366989 bytes).
+Output written on main.pdf (23 pages, 367409 bytes).
 PDF statistics:
  605 PDF objects out of 1000 (max. 8388607)
  143 compressed objects within 2 object streams

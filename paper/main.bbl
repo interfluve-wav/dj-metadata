@@ -42,12 +42,6 @@ Dmitry Bogdanov, Mart{\'\i}n~F. Serr{\`a}, Nicolas Wack, Perfecto Herrera, and
 \newblock In {\em Proc. of the 14th Int. Society for Music Information
   Retrieval Conf. (ISMIR 2013)}, pages 355--360, Curitiba, Brazil, 2013.
 
-\bibitem{brooke2014metadata}
-Tony Brooke.
-\newblock Descriptive metadata in the music industry: Why it is broken and how
-  to fix it, part 1.
-\newblock {\em Journal of Digital Media Management}, 2(3):263--282, 2014.
-
 \bibitem{brossier2010aubio}
 Paul~M. Brossier.
 \newblock Aubio: a low-level audio analysis library.
@@ -96,6 +90,20 @@ Jacopo de~Berardinis, Valentina~Anita Carriero, Albert Mero{\~n}o-Pe{\~n}uela,
 Discogs.
 \newblock Discogs database.
 \newblock \url{https://www.discogs.com/data}, 2024.
+
+\bibitem{lexicondj}
+Lexicon DJ.
+\newblock Lexicon dj: Dj library conversion tool.
+\newblock \url{https://www.lexicondj.com}, 2025.
+\newblock Accessed: 2026-04-16.
+
+\bibitem{djstudio2026index}
+DJ.Studio.
+\newblock The 2026 dj software index: Real user preferences and market
+  breakdown.
+\newblock \url{https://dj.studio/blog/dj-mixing-software-index-real-users},
+  2026.
+\newblock Accessed: 2026-04-16.
 
 \bibitem{hardjono2019}
 Thomas Hardjono, George Howard, Eric Scace, et~al.
