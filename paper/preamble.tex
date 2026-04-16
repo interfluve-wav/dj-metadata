@@ -9,6 +9,7 @@
 \usepackage{amssymb,mathtools}
 \usepackage[ruled,vlined]{algorithm2e}
 \usepackage{cleveref}
+\let\citep\cite  % ISMIR cite.sty only defines \cite; provide \citep as alias
 
 % Okabe-Ito colorblind-safe palette (recommended by ISMIR style guide)
 \definecolor{okblue}{HTML}{0072B2}
@@ -20,14 +21,7 @@
 \definecolor{okyellow}{HTML}{F0E442}
 
 % UDMS diagram node style (used in paper figures)
-\tikzset{
-  platform/.style={rectangle, draw, rounded corners, minimum height=0.9cm,
-                   minimum width=1.8cm, align=center, font=\small\bfseries},
-  field/.style={rectangle, draw, rounded corners, minimum height=0.7cm,
-                 minimum width=2.2cm, align=center, font=\small},
-  arrow_norm/.style={-{Stealth[length=3mm]}, thick},
-  arrow_loss/.style={-{Stealth[length=3mm]}, thick, okred},
-}
+% (tikz styles defined inline in figure-generating scripts)
 
 % Command definitions
 \newcommand{\method}{UDMS}
