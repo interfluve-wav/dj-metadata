@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.10)  16 APR 2026 11:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.10)  16 APR 2026 11:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -388,7 +388,7 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \xmathstrut@dim=\dimen260
 ))
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 35.
+h' as default language. on input line 34.
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
@@ -397,20 +397,20 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 
 (/usr/local/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -434,13 +434,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 35.
-Package microtype Info: Applying patch `item' on input line 35.
-Package microtype Info: Applying patch `toc' on input line 35.
-Package microtype Info: Applying patch `eqnum' on input line 35.
-Package microtype Info: Applying patch `footnote' on input line 35.
-Package microtype Info: Applying patch `verbatim' on input line 35.
-LaTeX Info: Redefining \microtypesetup on input line 35.
+LaTeX Info: Redefining \microtypecontext on input line 34.
+Package microtype Info: Applying patch `item' on input line 34.
+Package microtype Info: Applying patch `toc' on input line 34.
+Package microtype Info: Applying patch `eqnum' on input line 34.
+Package microtype Info: Applying patch `footnote' on input line 34.
+Package microtype Info: Applying patch `verbatim' on input line 34.
+LaTeX Info: Redefining \microtypesetup on input line 34.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -462,10 +462,10 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 35.
+or `english'. on input line 34.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
 
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -474,7 +474,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2026/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
 
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -485,68 +485,68 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
 {/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 4673) in paragraph at lines 47--48
+Underfull \hbox (badness 4673) in paragraph at lines 46--47
 []\OT1/cmr/m/n/10.95 (+20) DJ soft-ware ecosys-tems are frag-mented: Reko-rd-bo
 x (Pi-o-neer
  []
 
 [2{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }] [3] [4] [5] [6]
-<fig_field_coverage.pdf, id=31, 386.46526pt x 254.23357pt>
+<fig_field_coverage.pdf, id=30, 386.46526pt x 254.23357pt>
 File: fig_field_coverage.pdf Graphic file (type pdf)
 <use fig_field_coverage.pdf>
-Package pdftex.def Info: fig_field_coverage.pdf  used on input line 151.
+Package pdftex.def Info: fig_field_coverage.pdf  used on input line 150.
 (pdftex.def)             Requested size: 360.0pt x 236.8382pt.
-<fig_completeness_tiers.pdf, id=32, 310.168pt x 219.72527pt>
+<fig_completeness_tiers.pdf, id=31, 310.168pt x 219.72527pt>
 File: fig_completeness_tiers.pdf Graphic file (type pdf)
 <use fig_completeness_tiers.pdf>
-Package pdftex.def Info: fig_completeness_tiers.pdf  used on input line 162.
+Package pdftex.def Info: fig_completeness_tiers.pdf  used on input line 161.
 (pdftex.def)             Requested size: 360.0pt x 255.03233pt.
  [7] [8 <./fig_field_coverage.pdf>]
-<fig_bpm_distribution.pdf, id=97, 343.368pt x 226.26846pt>
+<fig_bpm_distribution.pdf, id=96, 343.368pt x 226.26846pt>
 File: fig_bpm_distribution.pdf Graphic file (type pdf)
 <use fig_bpm_distribution.pdf>
-Package pdftex.def Info: fig_bpm_distribution.pdf  used on input line 175.
+Package pdftex.def Info: fig_bpm_distribution.pdf  used on input line 174.
 (pdftex.def)             Requested size: 360.0pt x 237.24362pt.
  [9 <./fig_completeness_tiers.pdf>]
-<fig_key_distribution.pdf, id=149, 356.0207pt x 247.56226pt>
+<fig_key_distribution.pdf, id=148, 356.0207pt x 247.56226pt>
 File: fig_key_distribution.pdf Graphic file (type pdf)
 <use fig_key_distribution.pdf>
-Package pdftex.def Info: fig_key_distribution.pdf  used on input line 188.
+Package pdftex.def Info: fig_key_distribution.pdf  used on input line 187.
 (pdftex.def)             Requested size: 360.0pt x 250.34187pt.
  [10 <./fig_bpm_distribution.pdf>]
-<fig_source_heatmap.pdf, id=191, 444.68477pt x 225.69981pt>
+<fig_source_heatmap.pdf, id=190, 444.68477pt x 225.69981pt>
 File: fig_source_heatmap.pdf Graphic file (type pdf)
 <use fig_source_heatmap.pdf>
-Package pdftex.def Info: fig_source_heatmap.pdf  used on input line 206.
+Package pdftex.def Info: fig_source_heatmap.pdf  used on input line 205.
 (pdftex.def)             Requested size: 360.0pt x 182.72629pt.
  [11 <./fig_key_distribution.pdf>]
-<fig_cross_platform_bpm.pdf, id=241, 353.50821pt x 209.0497pt>
+<fig_cross_platform_bpm.pdf, id=240, 353.50821pt x 209.0497pt>
 File: fig_cross_platform_bpm.pdf Graphic file (type pdf)
 <use fig_cross_platform_bpm.pdf>
-Package pdftex.def Info: fig_cross_platform_bpm.pdf  used on input line 242.
+Package pdftex.def Info: fig_cross_platform_bpm.pdf  used on input line 241.
 (pdftex.def)             Requested size: 360.0pt x 212.89291pt.
-<fig_cross_platform_key.pdf, id=242, 353.50821pt x 209.16394pt>
+<fig_cross_platform_key.pdf, id=241, 353.50821pt x 209.16394pt>
 File: fig_cross_platform_key.pdf Graphic file (type pdf)
 <use fig_cross_platform_key.pdf>
-Package pdftex.def Info: fig_cross_platform_key.pdf  used on input line 251.
+Package pdftex.def Info: fig_cross_platform_key.pdf  used on input line 250.
 (pdftex.def)             Requested size: 360.0pt x 213.00925pt.
 
 [12 <./fig_source_heatmap.pdf>]
-<fig_genre_entropy.pdf, id=315, 498.80666pt x 208.20222pt>
+<fig_genre_entropy.pdf, id=314, 498.80666pt x 208.20222pt>
 File: fig_genre_entropy.pdf Graphic file (type pdf)
 <use fig_genre_entropy.pdf>
-Package pdftex.def Info: fig_genre_entropy.pdf  used on input line 260.
+Package pdftex.def Info: fig_genre_entropy.pdf  used on input line 259.
 (pdftex.def)             Requested size: 360.0pt x 150.27081pt.
  [13] [14 <./fig_cross_platform_bpm.pdf>]
 [15 <./fig_cross_platform_key.pdf>] [16 <./fig_genre_entropy.pdf>] [17]
-Underfull \hbox (badness 7851) in paragraph at lines 322--323
+Underfull \hbox (badness 7851) in paragraph at lines 321--322
 []\OT1/cmr/bx/n/10.95 (+20) Bonk! (Desk-top Ap-pli-ca-tion): $\OT1/cmtt/m/n/10.
 95 https : / / github . com /
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 324--325
+Underfull \hbox (badness 1292) in paragraph at lines 323--324
 []\OT1/cmr/bx/n/10.95 (+20) Analysis Scripts: $\OT1/cmtt/m/n/10.95 code / schem
 a / udms _ schema . py$ \OT1/cmr/m/n/10.95 (+20) con-tains the
  []
@@ -563,11 +563,11 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14883 strings out of 467525
- 311607 string characters out of 5418982
+ 14878 strings out of 467525
+ 311546 string characters out of 5418982
  738944 words of memory out of 5000000
- 43468 multiletter control sequences out of 15000+600000
- 644686 words of font info for 183 fonts, out of 8000000 for 9000
+ 43466 multiletter control sequences out of 15000+600000
+ 644409 words of font info for 181 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,10n,80p,1924b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
@@ -581,12 +581,11 @@ al/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
 /texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
 texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/t
 exlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/te
-xlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/tex
-live/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on main.pdf (23 pages, 372063 bytes).
+xlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on main.pdf (23 pages, 367002 bytes).
 PDF statistics:
- 610 PDF objects out of 1000 (max. 8388607)
- 146 compressed objects within 2 object streams
+ 605 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 31785 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 31273 words of extra memory for PDF output out of 35830 (max. 10000000)
 
