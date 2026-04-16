@@ -32,24 +32,35 @@ UDMS normalizes 11 canonical fields across Rekordbox, Serato, and Traktor. The P
 ## Repository Structure
 
 ```
-paper/
-  main.tex           — arXiv submission (22 pages, builds clean)
-  references.bib     — 34 citations
-  fig_*.pdf          — All figures (generated programmatically)
-code/
-  schema/udms_schema.py  — UDMS Python implementation + adapters
-  analyze.py             — Main analysis pipeline
-  compare_platforms.py    — Cross-platform comparison
-  bpm_validation_20.py   — Audio BPM validation (aubio + scipy)
-data/
-  bpm_validation_table.json   — 20-track audio validation results
-  cross_platform_comparison.json — 143 matched tracks
-  serato_tracks.json          — Serato database export
+dj-metadata-paper/
+├── paper/
+│   ├── main.tex              — arXiv submission (22 pages)
+│   ├── preamble.tex          — LaTeX preamble (packages, macros)
+│   ├── references.bib        — 34 citations
+│   └── fig_*.pdf             — All figures (pre-generated)
+├── code/
+│   ├── schema/
+│   │   └── udms_schema.py    — UDMS schema + Rekordbox/Serato adapters
+│   ├── compare_platforms.py  — Cross-platform comparison (143 matched tracks)
+│   ├── bpm_validation_20.py  — Audio BPM validation (aubio + scipy, 20 tracks)
+│   ├── bpm_validation.py     — BPM validation on full library
+│   └── parse_serato.py       — Parse Serato database V2 binary
+├── data/
+│   ├── cross_platform_comparison.json  — 143 matched tracks (anonymized)
+│   ├── bpm_validation_table.json       — 20-track audio validation results
+│   ├── serato_tracks.json / .csv      — Serato database export
+│   └── serato_database_v2             — Raw Serato binary DB (input)
+├── experiments/
+│   ├── run_experiment.py      — Cross-platform transfer experiment runner
+│   ├── annotation_template.csv
+│   └── experiment_log.md
+├── research-notes/
+│   └── bonk-integration-and-extensions.md  — Bonk! app + UDMS implementation
+└── tasks/
+    └── TODO.md                — Paper improvement roadmap
 ```
 
-## Paper
-
-The full paper is in `paper/main.tex`. Compile:
+## Compiling the Paper
 
 ```bash
 cd paper
@@ -60,20 +71,38 @@ pdflatex main.tex
 pdflatex main.tex
 ```
 
-Or run `code/prepare_for_arxiv.py` which automates this.
+The paper compiles to 22 pages with no errors.
+
+## Running the Analysis
+
+```bash
+# Cross-platform comparison
+python code/compare_platforms.py \
+  --rekordbox path/to/library.xml \
+  --serato data/serato_tracks.json \
+  --output data/cross_platform_comparison.json
+
+# BPM audio validation (requires aubio and scipy)
+python code/bpm_validation_20.py \
+  --tracks data/bpm_validation_table.json \
+  --audio-dir /path/to/audio/files
+```
+
+Requirements: Python 3.10+, `aubio`, `scipy`, `numpy`, `matplotlib` (for validation scripts).
 
 ## Companion Tools
 
-**[rekordbox-smart-mcp](https://github.com/interfluve-wav/rekordbox-smart-mcp)** — 28-tool MCP server for Rekordbox library management. Implements UDMS principles: BPM cache with multi-algorithm voting (aubio + Rekordbox DB), Camelot key normalization, cross-platform field mapping. 20/20 tests passing.
+**[rekordbox-smart-mcp](https://github.com/interfluve-wav/rekordbox-smart-mcp)** — MCP server for Rekordbox library management. 33 tools covering library queries, smart playlists, BPM cache with multi-algorithm voting (aubio + Rekordbox DB), Camelot key normalization, and safe mutations with full audit logging. 20/20 tests passing.
 
-**[Bonk!](https://github.com/suhaas-lokey/bonk)** — Electron+React desktop DJ metadata editor. Reads Rekordbox XML and master.db directly, normalizes BPM/key via aubio and keyfinder-cli, writes back to Rekordbox. Validates UDMS field coverage on a real 636-track library.
+**[Bonk!](https://github.com/suhaas-lokey/bonk)** — Electron+React desktop DJ metadata editor. Reads Rekordbox XML and master.db directly, normalizes BPM/key via aubio and keyfinder-cli, writes back to Rekordbox. Validates UDMS field coverage on real libraries.
 
 ## Citation
 
 ```bibtex
 @article{chitturi2026djmetadata,
   author  = {Suhaas Chitturi},
-  title   = {Metadata Quality Analysis of {DJ} Software Libraries: A {Rekordbox} {XML} Study Using the Unified {DJ} Metadata Schema},
+  title   = {Metadata Quality Analysis of {DJ} Software Libraries:
+             A {Rekordbox} {XML} Study Using the Unified {DJ} Metadata Schema},
   year    = {2026},
   eprint  = {XXXXX.XXXXX},
   archiveprefix = {arXiv},

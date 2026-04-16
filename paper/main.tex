@@ -321,7 +321,7 @@ To facilitate replication and extension, we release all materials associated wit
   \item \textbf{rekordbox-smart-mcp (MCP Server):} \url{https://github.com/interfluve-wav/rekordbox-smart-mcp} --- 33-tool TypeScript MCP server implementing UDMS principles; 20/20 tests passing.
   \item \textbf{Bonk! (Desktop Application):} \url{https://github.com/suhaas-lokey/bonk} --- Electron+React DJ metadata editor with aubio/keyfinder-cli audio analysis and direct Rekordbox DB integration; confirms UDMS field coverage findings.
   \item \textbf{Dataset:} The 636-track Rekordbox XML export and 382-track Serato database export (anonymized) are included in the repository at \path{data/}. Track filenames and paths are anonymized; metadata fields are preserved. The cross-platform matched track dataset is at \path{data/cross_platform_comparison.json}.
-  \item \textbf{Analysis Scripts:} \path{code/schema/udms_schema.py} contains the UDMS schema and adapters; \path{code/analyze.py} contains the analysis pipeline used to generate all figures and statistics.
+  \item \textbf{Analysis Scripts:} \path{code/schema/udms_schema.py} contains the UDMS schema and adapters; \path{code/compare_platforms.py} runs the cross-platform comparison on matched tracks; \path{code/bpm_validation_20.py} performs audio BPM validation (aubio + scipy); \path{code/parse_serato.py} parses the Serato database V2 binary.
   \item \textbf{BPM Validation:} Audio analysis scripts and results (\path{code/bpm_validation_20.py}, \path{data/bpm_validation_table.json}) comparing aubio and scipy against ground-truth Serato BPM for 20 tracks.
   \item \textbf{Figures:} All figures are generated programmatically from the dataset; source scripts are in \path{code/}.
   \item \textbf{License:} MIT License.
