@@ -69,9 +69,19 @@ R.~O. Araz, X.~Serra, and D.~Bogdanov, ``Discogs-{VI}: A musical version
 T.~Hardjono, G.~Howard, E.~Scace \emph{et~al.}, ``Towards an open and scalable
   music metadata layer,'' \url{https://remix.berklee.edu}, 2019.
 
-\bibitem{zehren2020cuepoints}
-M.~Zehren, M.~Alunno, and P.~Bientinesi, ``Automatic detection of cue points
-  for dj mixing,'' \emph{arXiv preprint arXiv:2007.08411}, 2020.
+\bibitem{brooke2014metadata}
+\BIBentryALTinterwordspacing
+T.~Brooke, ``Descriptive metadata in the music industry: Why it is broken and
+  how to fix it, part 1,'' \emph{Journal of Digital Media Management}, vol.~2,
+  no.~3, pp. 263--282, 2014. [Online]. Available:
+  \url{https://www.ingentaconnect.com/contentone/hsp/jdmm/2014/00000002/00000003/art00011}
+\BIBentrySTDinterwordspacing
+
+\bibitem{bittner2017automatic}
+R.~M. Bittner, M.~Gu, G.~Hernandez, E.~J. Humphrey, T.~Jehan, P.~H. McCurry,
+  and N.~Monteclio, ``Automatic playlist sequencing and transitions,'' in
+  \emph{Proc. of the 18th Int. Society for Music Information Retrieval Conf.
+  (ISMIR 2017)}, Suzhou, China, 2017, pp. 442--448.
 
 \bibitem{kim2020djmixes}
 T.~Kim, M.~Choi, E.~Sacks, and Y.-H. Yang, ``A computational analysis of
@@ -79,28 +89,15 @@ T.~Kim, M.~Choi, E.~Sacks, and Y.-H. Yang, ``A computational analysis of
   \emph{Proc. of the 21st Int. Society for Music Information Retrieval Conf.
   (ISMIR)}, Montr{\'e}al, Canada, 2020.
 
-\bibitem{knees2015edmdatasets}
-\BIBentryALTinterwordspacing
-P.~Knees, {\'A}.~Faraldo, P.~Herrera, R.~Vogl, S.~B{\"o}ck,
-  F.~H{\"o}rschl{\"a}ger, and M.~L. Goff, ``Two data sets for tempo estimation
-  and key detection in electronic dance music,'' in \emph{Proc. of the 16th
-  Int. Society for Music Information Retrieval Conf. (ISMIR 2015)}, M{\'a}laga,
-  Spain, 2015, pp. 231--237. [Online]. Available:
-  \url{https://www.ismir2015.uma.es/articles/246_Paper.pdf}
-\BIBentrySTDinterwordspacing
+\bibitem{zehren2020cuepoints}
+M.~Zehren, M.~Alunno, and P.~Bientinesi, ``Automatic detection of cue points
+  for dj mixing,'' \emph{arXiv preprint arXiv:2007.08411}, 2020.
 
-\bibitem{ttmr2024}
-\BIBentryALTinterwordspacing
-S.~Doh, M.~Lee, D.~Jeong, and J.~Nam, ``Enriching music descriptions with a
-  finetuned-{LLM} and metadata for text-to-music retrieval,'' in \emph{Proc. of
-  the IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)},
-  Seoul, South Korea, 2024, pp. 1215--1219. [Online]. Available:
-  \url{https://arxiv.org/abs/2410.03264}
-\BIBentrySTDinterwordspacing
-
-\bibitem{bukey2026musicmetadata}
-I.~Bukey, Z.~Wang, C.~Donahue, and N.~J. Bryan, ``Rethinking music captioning
-  with music metadata llms,'' 2026.
+\bibitem{ishizaki2009automatic}
+H.~Ishizaki, K.~Hoashi, and Y.~Takishima, ``Full-automatic {DJ} mixing system
+  with optimal tempo adjustment,'' in \emph{Proc. of the 10th Int. Society for
+  Music Information Retrieval Conf. (ISMIR 2009)}, Kobe, Japan, 2009, pp.
+  271--276.
 
 \bibitem{ribov2022}
 \BIBentryALTinterwordspacing
@@ -121,6 +118,43 @@ D.~Bogdanov and P.~Herrera, ``How much metadata do we need in music
   Int. Society for Music Information Retrieval Conf. (ISMIR 2011)}, Miami,
   Florida, USA, 2011, pp. 297--302. [Online]. Available:
   \url{https://ismir2011.ismir.net/papers/PS1-10.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{bogdanov2013semantics}
+D.~Bogdanov, M.~F. Serr{\`a}, N.~Wack, P.~Herrera, and X.~Serra, ``From the
+  semantics to the listening: Music recommendation augmented with semantic
+  resource description,'' in \emph{Proc. of the 14th Int. Society for Music
+  Information Retrieval Conf. (ISMIR 2013)}, Curitiba, Brazil, 2013, pp.
+  355--360.
+
+\bibitem{celma2010longtail}
+\BIBentryALTinterwordspacing
+O.~Celma, ``Music recommendation and discovery in the long tail,'' Ph.D.
+  dissertation, Universitat Pompeu Fabra, Barcelona, Spain, 2010. [Online].
+  Available: \url{http://www.mtg.upf.edu/static/media/PhD_ocelma.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{knees2015edmdatasets}
+\BIBentryALTinterwordspacing
+P.~Knees, {\'A}.~Faraldo, P.~Herrera, R.~Vogl, S.~B{\"o}ck,
+  F.~H{\"o}rschl{\"a}ger, and M.~L. Goff, ``Two data sets for tempo estimation
+  and key detection in electronic dance music,'' in \emph{Proc. of the 16th
+  Int. Society for Music Information Retrieval Conf. (ISMIR 2015)}, M{\'a}laga,
+  Spain, 2015, pp. 231--237. [Online]. Available:
+  \url{https://www.ismir2015.uma.es/articles/246_Paper.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{schreiber2018crowdsourced}
+H.~Schreiber and M.~M{\\"u}ller, ``A crowdsourced experiment for tempo
+  estimation of electronic dance music,'' in \emph{Proc. of the 19th Int.
+  Society for Music Information Retrieval Conf. (ISMIR 2018)}, Paris, France,
+  2018, pp. 90--97.
+
+\bibitem{xu2025edmtaxonomy}
+\BIBentryALTinterwordspacing
+W.~Xu, T.~Dai, O.~Goudet, and X.~Wang, ``Acoustic overspecification in
+  electronic dance music taxonomy,'' \emph{arXiv preprint arXiv:2509.11474},
+  2025. [Online]. Available: \url{https://arxiv.org/abs/2509.11474}
 \BIBentrySTDinterwordspacing
 
 \bibitem{bock2015tempo}
@@ -178,12 +212,5 @@ J.~Choi, J.~Lee, J.~Park, and J.~Nam, ``Zero-shot learning and knowledge
   transfer in music classification and tagging,'' in \emph{Proc. of the 20th
   Int. Society for Music Information Retrieval Conf. (ISMIR)}, Delft, The
   Netherlands, 2019.
-
-\bibitem{xu2025edmtaxonomy}
-\BIBentryALTinterwordspacing
-W.~Xu, T.~Dai, O.~Goudet, and X.~Wang, ``Acoustic overspecification in
-  electronic dance music taxonomy,'' \emph{arXiv preprint arXiv:2509.11474},
-  2025. [Online]. Available: \url{https://arxiv.org/abs/2509.11474}
-\BIBentrySTDinterwordspacing
 
 \end{thebibliography}
