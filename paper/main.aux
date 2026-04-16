@@ -18,68 +18,73 @@
 \citation{ttmr2024}
 \citation{bukey2026musicmetadata}
 \citation{ribov2022}
+\citation{bruce2004metadata}
 \citation{pyrekordbox}
 \citation{serato-parser}
-\citation{silva2025keydetection}
-\citation{heydari2021beatnet,chang2024beast}
+\citation{bock2015tempo}
+\citation{schreiber2020tempo}
+\citation{ismir2015keydetection}
+\citation{krumhansl1990cognitive}
+\citation{temperley1999key,silva2025keydetection}
 \citation{ke2005audio,kurth2008efficient,jang2009pairwise}
 \citation{choi2019zeroshot}
 \def\@LN@column{1}
 \@writefile{toc}{\contentsline {section}{\numberline {2.} Related Work}{2}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {3.} Unified DJ Metadata Schema (UDMS)}{2}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1} Design Principles}{2}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.2} Schema Definition}{2}{}\protected@file@percent }
 \def\@LN@column{2}
 \@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces UDMS canonical fields with Rekordbox XML source mappings. Rating uses Rekordbox's 0--255 scale, normalized to 0--5.}}{2}{}\protected@file@percent }
 \providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
 \newlabel{tab:udms-fields}{{1}{2}{}{table.1}{}}
 \newlabel{tab:udms-fields@cref}{{[table][1][]1}{[1][2][]2}{}{}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.} Unified DJ Metadata Schema (UDMS)}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1} Design Principles}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2} Schema Definition}{2}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.3} Key Normalization}{2}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {4.} Methods}{2}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.1} Dataset}{2}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.2} Analysis Pipeline}{2}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3} Completeness Tiers}{2}{}\protected@file@percent }
 \citation{bernardes2018harmonic}
 \def\@LN@column{1}
-\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces UDMS field coverage across 636 tracks. Green: $\geq $90\%; orange: 60--89\%; red: $<$60\%. Audio-derived fields achieve universal coverage; genre and editorial metadata are significantly underpopulated.}}{3}{}\protected@file@percent }
-\newlabel{fig:field_coverage}{{1}{3}{}{figure.1}{}}
-\newlabel{fig:field_coverage@cref}{{[figure][1][]1}{[1][3][]3}{}{}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3} Completeness Tiers}{3}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.4} Genre Recovery via MusicBrainz}{3}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {5.} Results}{3}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {5.1} Field Coverage}{3}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {5.2} Metadata Completeness Tiers}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3} BPM Distribution}{3}{}\protected@file@percent }
 \def\@LN@column{2}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces UDMS field coverage across 636 tracks. Green: $\geq $90\%; orange: 60--89\%; red: $<$60\%. Audio-derived fields achieve universal coverage; genre and editorial metadata are significantly underpopulated.}}{3}{}\protected@file@percent }
+\newlabel{fig:field_coverage}{{1}{3}{}{figure.1}{}}
+\newlabel{fig:field_coverage@cref}{{[figure][1][]1}{[1][3][]3}{}{}{}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Metadata completeness tiers. Each tier includes all fields from previous tiers. Only 1.6\% of tracks have complete metadata including label and rating.}}{3}{}\protected@file@percent }
 \newlabel{fig:completeness}{{2}{3}{}{figure.2}{}}
 \newlabel{fig:completeness@cref}{{[figure][2][]2}{[1][3][]3}{}{}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces BPM distribution (n=587). Mean=130.7 (dashed), median=130.0 (dotted). 82.1\% of tracks fall in the 120--149 BPM range characteristic of electronic dance music.}}{3}{}\protected@file@percent }
-\newlabel{fig:bpm}{{3}{3}{}{figure.3}{}}
-\newlabel{fig:bpm@cref}{{[figure][3][]3}{[1][3][]3}{}{}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.3} BPM Distribution}{3}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {5.4} Musical Key Distribution}{3}{}\protected@file@percent }
 \def\@LN@column{1}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces BPM distribution (n=587). Mean=130.7 (dashed), median=130.0 (dotted). 82.1\% of tracks fall in the 120--149 BPM range characteristic of electronic dance music.}}{4}{}\protected@file@percent }
+\newlabel{fig:bpm}{{3}{4}{}{figure.3}{}}
+\newlabel{fig:bpm@cref}{{[figure][3][]3}{[1][3][]4}{}{}{}}
 \@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Camelot key distribution (n=593). Minor keys (red) dominate at 88.4\%, consistent with electronic dance music conventions.}}{4}{}\protected@file@percent }
 \newlabel{fig:key}{{4}{4}{}{figure.4}{}}
-\newlabel{fig:key@cref}{{[figure][4][]4}{[1][4][]4}{}{}{}}
+\newlabel{fig:key@cref}{{[figure][4][]4}{[1][3][]4}{}{}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.5} Per-Source Metadata Quality}{4}{}\protected@file@percent }
+\def\@LN@column{2}
 \@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Metadata coverage by acquisition source. Cell values show percentage of tracks with field populated. SoulSeek has the best label coverage (63.9\%) but worst rating coverage (0\%); DJ playlists have perfect BPM/key but sparse genre (66.9\%).}}{4}{}\protected@file@percent }
 \newlabel{fig:source}{{5}{4}{}{figure.5}{}}
 \newlabel{fig:source@cref}{{[figure][5][]5}{[1][4][]4}{}{}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.5} Per-Source Metadata Quality}{4}{}\protected@file@percent }
-\def\@LN@column{2}
 \@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Cross-platform agreement across 143 matched tracks between Rekordbox and Serato. $^{a}$BPM accounts for the Rekordbox 2$\times $ bug; 39 tracks (27\%) show exactly 2$\times $ BPM in Rekordbox vs Serato. $^{b}$Key agreement is 71.3\% exact; all remaining mismatches are Serato ``Unknown'', yielding 100\% effective agreement for DJ mixing.}}{4}{}\protected@file@percent }
 \newlabel{tab:cross-platform}{{2}{4}{}{table.2}{}}
 \newlabel{tab:cross-platform@cref}{{[table][2][]2}{[1][4][]4}{}{}{}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {5.6} Cross-Platform Interoperability}{4}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.7} Genre Taxonomy}{4}{}\protected@file@percent }
+\citation{xu2025edmtaxonomy}
 \citation{choi2019zeroshot}
 \def\@LN@column{1}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.7} Genre Taxonomy}{5}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {5.8} Genre Recovery via MusicBrainz}{5}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {6.} Discussion}{5}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {6.1} Genre as the Critical Bottleneck}{5}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {6.2} Source-Dependent Metadata Patterns}{5}{}\protected@file@percent }
+\def\@LN@column{2}
 \@writefile{toc}{\contentsline {subsection}{\numberline {6.3} Minor Key Bias}{5}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {6.4} Rating Sparsity}{5}{}\protected@file@percent }
-\def\@LN@column{2}
 \@writefile{toc}{\contentsline {subsection}{\numberline {6.5} Impact on Automated DJ Workflows}{5}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {6.6} Limitations}{5}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {7.} Conclusion}{5}{}\protected@file@percent }
@@ -98,20 +103,25 @@
 \bibcite{ttmr2024}{12}
 \bibcite{bukey2026musicmetadata}{13}
 \bibcite{ribov2022}{14}
-\bibcite{silva2025keydetection}{15}
-\bibcite{heydari2021beatnet}{16}
-\bibcite{chang2024beast}{17}
-\bibcite{ke2005audio}{18}
-\bibcite{kurth2008efficient}{19}
 \def\@LN@column{1}
 \@writefile{toc}{\contentsline {section}{\numberline {8.} Reproducibility}{6}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {9.} *}{6}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {10.} References}{6}{}\protected@file@percent }
 \def\@LN@column{2}
-\bibcite{jang2009pairwise}{20}
-\bibcite{choi2019zeroshot}{21}
+\bibcite{bruce2004metadata}{15}
+\bibcite{bock2015tempo}{16}
+\bibcite{schreiber2020tempo}{17}
+\bibcite{ismir2015keydetection}{18}
+\bibcite{krumhansl1990cognitive}{19}
+\bibcite{temperley1999key}{20}
+\bibcite{silva2025keydetection}{21}
+\bibcite{ke2005audio}{22}
+\bibcite{kurth2008efficient}{23}
+\bibcite{jang2009pairwise}{24}
+\bibcite{choi2019zeroshot}{25}
+\bibcite{xu2025edmtaxonomy}{26}
 \def\@LN@column{1}
+\def\@LN@column{2}
 \@writefile{toc}{\contentsline {section}{\numberline {11.} AI Usage Statement}{7}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {12.} Ethics Statement}{7}{}\protected@file@percent }
-\def\@LN@column{2}
 \gdef \@abspage@last{7}

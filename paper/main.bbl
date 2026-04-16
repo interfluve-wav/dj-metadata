@@ -27,10 +27,10 @@ G.~Bernardes, M.~Davies, and C.~Guedes, ``A hierarchical harmonic mixing
   Sound Technology (ICIST)}, Porto, Portugal, 2018.
 
 \bibitem{liebman2015djmc}
-E.~Liebman, M.~Saar-Tsechansky, and P.~Stone, ``{DJ-MC}: A
-  reinforcement-learning agent for music playlist recommendation,'' in
-  \emph{Proc. of the 14th Int. Conf. on Autonomous Agents and Multiagent
-  Systems (AAMAS)}, Istanbul, Turkey, 2015.
+E.~Liebman, M.~Saar-Tsechansky, and P.~Stone, ``Dj-mc: A reinforcement-learning
+  agent for music playlist recommendation,'' in \emph{Proc. of the 14th Int.
+  Conf. on Autonomous Agents and Multiagent Systems (AAMAS)}, Istanbul, Turkey,
+  2015.
 
 \bibitem{pyrekordbox}
 Community, ``pyrekordbox: Python library for rekordbox 6 database,''
@@ -71,11 +71,11 @@ T.~Hardjono, G.~Howard, E.~Scace \emph{et~al.}, ``Towards an open and scalable
 
 \bibitem{zehren2020cuepoints}
 M.~Zehren, M.~Alunno, and P.~Bientinesi, ``Automatic detection of cue points
-  for {DJ} mixing,'' \emph{arXiv preprint arXiv:2007.08411}, 2020.
+  for dj mixing,'' \emph{arXiv preprint arXiv:2007.08411}, 2020.
 
 \bibitem{kim2020djmixes}
 T.~Kim, M.~Choi, E.~Sacks, and Y.-H. Yang, ``A computational analysis of
-  real-world {DJ} mixes using mix-to-track subsequence alignment,'' in
+  real-world dj mixes using mix-to-track subsequence alignment,'' in
   \emph{Proc. of the 21st Int. Society for Music Information Retrieval Conf.
   (ISMIR)}, Montr{\'e}al, Canada, 2020.
 
@@ -90,7 +90,7 @@ S.~Doh, M.~Lee, D.~Jeong, and J.~Nam, ``Enriching music descriptions with a
 
 \bibitem{bukey2026musicmetadata}
 I.~Bukey, Z.~Wang, C.~Donahue, and N.~J. Bryan, ``Rethinking music captioning
-  with music metadata {LLMs},'' 2026.
+  with music metadata llms,'' 2026.
 
 \bibitem{ribov2022}
 \BIBentryALTinterwordspacing
@@ -99,20 +99,43 @@ M.~Ribov and K.~Hagedorn, ``Metadata quality in digital archives: A framework
   Available: \url{https://journal.code4lib.org/articles/16952}
 \BIBentrySTDinterwordspacing
 
+\bibitem{bruce2004metadata}
+H.~C. I. and B.~Hillmann, ``Updated functional model for metadata quality,''
+  pp. 161--171, 2004.
+
+\bibitem{bock2015tempo}
+S.~B{\"o}ck, F.~Krebs, and G.~Widmer, ``Accurate tempo estimation based on
+  recurrent neural networks and resonating comb filters,'' in \emph{Proc. of
+  the 16th Int. Society for Music Information Retrieval Conf. (ISMIR 2015)},
+  M{\'a}laga, Spain, 2015, pp. 625--631.
+
+\bibitem{schreiber2020tempo}
+\BIBentryALTinterwordspacing
+H.~Schreiber, J.~Urbano, and M.~M{\"u}ller, ``Music tempo estimation: Are we
+  done yet?'' \emph{Transactions of the Int. Society for Music Information
+  Retrieval (TISMIR)}, vol.~3, no.~1, pp. 111--129, 2020. [Online]. Available:
+  \url{https://transactions.ismir.net/articles/10.5334/tismir.43}
+\BIBentrySTDinterwordspacing
+
+\bibitem{ismir2015keydetection}
+K.~V. Mogler and M.~Müller, ``An approach for evaluating key detection
+  algorithms regarding instrumental doublings,'' in \emph{Proc. of the 16th
+  Int. Society for Music Information Retrieval Conf. (ISMIR 2015)}, M{\'a}laga,
+  Spain, 2015, pp. 372--378.
+
+\bibitem{krumhansl1990cognitive}
+C.~L. Krumhansl, \emph{Cognitive Foundations of Musical Pitch}, ser. Oxford
+  Psychology Series.\hskip 1em plus 0.5em minus 0.4em\relax New York, NY:
+  Oxford University Press, 1990.
+
+\bibitem{temperley1999key}
+D.~Temperley, ``What's key for key? the {Krumhansl-Schmuckler} key-finding
+  algorithm reconsidered,'' \emph{Music Perception}, vol.~17, no.~1, pp.
+  65--100, 1999.
+
 \bibitem{silva2025keydetection}
 H.~P.~G. Silva, ``Understanding the algorithm behind audio key detection,''
   \emph{arXiv preprint arXiv:2505.17259}, 2025.
-
-\bibitem{heydari2021beatnet}
-M.~Heydari, F.~Cwitkowitz, and Z.~Duan, ``{BeatNet}: {CRNN} and particle
-  filtering for online joint beat downbeat and meter tracking,'' in \emph{Proc.
-  of the 22nd Int. Society for Music Information Retrieval Conf. (ISMIR 2021)},
-  Online, 2021.
-
-\bibitem{chang2024beast}
-C.-C. Chang and L.~Su, ``{BEAST}: Online joint beat and downbeat tracking based
-  on streaming transformer,'' in \emph{Proc. of the IEEE Int. Conf. on
-  Acoustics, Speech and Signal Processing (ICASSP)}, Seoul, South Korea, 2024.
 
 \bibitem{ke2005audio}
 Y.~Ke, D.~Hoiem, and R.~Sukthankar, ``Computer vision for music
@@ -135,5 +158,12 @@ J.~Choi, J.~Lee, J.~Park, and J.~Nam, ``Zero-shot learning and knowledge
   transfer in music classification and tagging,'' in \emph{Proc. of the 20th
   Int. Society for Music Information Retrieval Conf. (ISMIR)}, Delft, The
   Netherlands, 2019.
+
+\bibitem{xu2025edmtaxonomy}
+\BIBentryALTinterwordspacing
+W.~Xu, T.~Dai, O.~Goudet, and X.~Wang, ``Acoustic overspecification in
+  electronic dance music taxonomy,'' 2025. [Online]. Available:
+  \url{https://arxiv.org/abs/2509.11474}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}
