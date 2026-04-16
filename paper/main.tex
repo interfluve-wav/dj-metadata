@@ -5,7 +5,7 @@
 % arXiv metadata
 % \documentclass{article}  % loaded below after metadata
 %%% arXiv-Category: cs.SD, cs.IR, eess.AS
-%%% arXiv-Title: UDMS: A Unified Schema for Assessing Metadata Quality Across DJ Ecosystems
+%%% arXiv-Title: UDMS: A Canonical Schema and Assessment Framework for Measuring and Maintaining DJ Metadata Quality
 %%% arXiv-Authors: Suhaas Chitturi
 %%% arXiv-Abstract: [see abstract in document]
 
@@ -24,7 +24,7 @@
 \input{preamble}
 
 % Title (IEEE-compliant title case)
-\title{UDMS: A Unified Schema for Assessing Metadata Quality Across {DJ} Ecosystems}
+\title{UDMS: A Canonical Schema and Assessment Framework for Measuring and Maintaining DJ Metadata Quality Across Ecosystems}
 
 % Authors
 \author{Suhaas Chitturi\\University Of Massachusetts Dartmouth}
@@ -382,6 +382,21 @@ Additionally, rekordbox 7 (May 2024) introduced Cloud Library Sync, Collaborativ
 We present the first metadata quality analysis of a DJ software library using UDMS, a Unified DJ Metadata Schema. Our analysis of 636 Rekordbox tracks, 382 Serato tracks, 112 Engine DJ tracks, and 157 VirtualDJ tracks reveals that while audio-derived fields and musical key achieve high coverage (93--98\% across platforms), genre annotation, the field most critical for automated playlist generation, is incomplete for 31--69\% of tracks across platforms. Cross-platform interoperability analysis across 143 matched tracks between Rekordbox and Serato shows that BPM and key are reliably preserved (89.5\% and 100\% effective agreement), but genre agreement is only 79.1\% even when both platforms are tagged. A previously undocumented Rekordbox 2$\times$ BPM bug affects 27\% of tracks; we validate this bug against Engine DJ, which correctly stores the reference tempo. Cross-validation with VirtualDJ reveals a distinct half-tempo interpretation failure mode (1.19$\times$ ratio) affecting five tracks from a single DJ playlist, demonstrating that BPM disagreement between platforms is not exclusively a storage bug but can also reflect algorithmic differences in tempo interpretation. Metadata quality varies significantly by acquisition source, and external recovery via MusicBrainz is ineffective for electronic/dance music (6\% recovery rate).
 
 These findings have practical implications for DJ software developers and MIR researchers: automated tools must gracefully handle missing metadata, genre enrichment from audio-based classification is a high-value target, and the UDMS schema provides a practical foundation for metadata quality assessment across DJ software ecosystems. The UDMS schema and analysis tools are released as open-source at \url{https://github.com/interfluve-wav/dj-metadata}.
+
+\subsection{UDMS as a Maintenance Framework}
+\label{sec:udms-maintenance}
+
+This paper frames UDMS primarily as a measurement framework: it normalizes platform-specific fields, enables cross-platform comparison, and quantifies quality gaps. However, the architecture underlying UDMS is equally suited to an active maintenance role. The platform adapter pattern (RekordboxAdapter, SeratoAdapter, TraktorAdapter) and the cross-platform comparison logic in the UDMS reference implementation provide a direct blueprint for a continuous quality maintenance system.
+
+\textbf{BPM correction via cross-platform voting.} The 2$\times$ bug analysis demonstrates how cross-platform comparison detects systematic errors that single-platform analysis cannot. The reference implementation's \texttt{compare\_platforms.py} already contains the detection logic: when two platforms report BPM with a ratio in $[1.95, 2.05]$, UDMS flags the higher value as a probable 2$\times$ error. Extending this to a maintenance workflow requires a reconciliation step: when $N \geq 2$ platforms agree on a BPM value (after 2$\times$ correction), that value is promoted to the canonical UDMS record as the reference BPM. This is the approach taken by Bonk!'s BPM cache layer, which stores aubio, scipy, and platform-reported BPM values and uses majority voting to select the correct value. UDMS formalizes this by making the cross-platform comparison explicit and platform-agnostic.
+
+\textbf{Key coverage enrichment via multi-source aggregation.} Rekordbox's Tonality field achieves 93.2\% coverage; VirtualDJ achieves 97.5\%. The gap is not random: VirtualDJ succeeds where Rekordbox fails on specific tracks. A UDMS-based maintenance system would aggregate key annotations from all available platform exports and apply a union strategy: if any platform populates a key field, that value becomes the canonical UDMS key, with a confidence score based on inter-platform agreement. Cross-platform agreement on key (as demonstrated by the 100\% effective agreement rate for Serato-matched tracks) validates that multi-source aggregation is reliable.
+
+\textbf{Automated quality scoring.} The UDMS reference implementation includes \texttt{aggregate\_quality\_score()}, which computes a per-track quality score as the mean preservation rate across specified fields. A production maintenance system would compute this score for every track on every sync, tracking quality over time and alerting when a track's score drops below a threshold. This enables proactive metadata stewardship: a DJ importing a new track could immediately see its completeness tier and be prompted to fill gaps before the track enters a playlist.
+
+\textbf{Implementation pathway.} The UDMS schema and all analysis tools are open-source at \url{https://github.com/interfluve-wav/dj-metadata}. The \texttt{code/schema/udms\_schema.py} module provides the platform adapters and normalizers as a reusable library; \texttt{code/compare\_platforms.py} provides the cross-platform comparison engine. These can be integrated into DJ workflow tools (Bonk!, rekordbox-smart-mcp) as a quality-assessment layer, or run as a CI/CD pipeline that evaluates library health on a schedule. The 11-field UDMS schema is deliberately minimal and extensible to accommodate new fields (e.g., cue points, loop markers) as platform exports evolve.
+
+\textbf{Limitations of the maintenance approach.} Cross-platform voting requires access to multiple platform exports, which not all DJs maintain. The 2$\times$ bug detection assumes a second platform stores the correct BPM, which is validated here for Serato and Engine DJ but may not hold for all platform pairs. Genre maintenance requires either manual annotation or audio-based classification, as external databases (MusicBrainz) have insufficient EDM coverage. These constraints define the design space for a production UDMS maintenance system.
 
 \section{Reproducibility}
 
