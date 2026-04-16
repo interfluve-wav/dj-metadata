@@ -1,61 +1,94 @@
 # Project Tasks
 
-## Immediate Next Steps (TODAY)
+## Done ✓
+- [x] Parse Rekordbox XML (636 tracks) → UDMS
+- [x] Parse Serato DB V2 binary (382 tracks) → UDMS
+- [x] Cross-platform match (143 overlapping tracks)
+- [x] Discover Rekordbox BPM 2x bug (27% of tracks)
+- [x] Compute cross-platform preservation rates (BPM 89.5%, key 71.3%/100%, genre 54.8%)
+- [x] Per-source metadata quality breakdown
+- [x] MusicBrainz genre recovery (6% rate)
+- [x] Add Knees 2015 + Bogdanov 2011 as comparable prior work
+- [x] Restore author name for arXiv submission
+- [x] Push arXiv-ready PDF to paper/main.pdf
 
-- [ ] Push initial commit to GitHub
-- [ ] Set up Overleaf project for collaborative writing
-- [ ] Run pilot transfer study (50 tracks) to validate methodology
+## Remaining Work
 
-## Paper Writing
+### Paper Improvements ( ranked by impact)
 
-### Abstract & Introduction
-- [ ] Refine one-sentence contribution statement
-- [ ] Draft introduction (current: 1.5 pages in LaTeX)
-- [ ] Add concrete example of degradation in intro (real track example)
+**1. Audio ground-truth validation** ⭐ HIGHEST PRIORITY
+- [ ] Run librosa BPM + key detection on 20-30 tracks (stratified sample: electronic, hip-hop, mixed)
+- [ ] Compare librosa output against Rekordbox/Serato metadata
+- [ ] This answers the reviewer question: "how do you know the data is accurate?"
+- [ ] Bezidir et al. (ISMIR 2023) or Knees et al. (2015) as methodological reference
+- [ ] Scripts: code/audio_validation.py (new file)
 
-### Experiments
-- [ ] Run Experiment 1: Full Transfer Matrix (2,147 tracks × 6 paths)
-- [ ] Run Experiment 2: Field-Level Degradation Taxonomy
-- [ ] Run Experiment 3: Round-Trip Fidelity
-- [ ] Run Experiment 4: UDMS Validation
-- [ ] Run Experiment 5: Auto-Tag Recovery Study
-- [ ] Compute statistical significance (McNemar's test) for pairwise comparisons
+**2. Genre taxonomy fragmentation quantified**
+- [ ] Compute Shannon entropy of the 70-genre distribution
+- [ ] Levenshtein distance clustering of genre strings → how many effective clusters?
+- [ ] Compare against Xu et al. (arXiv 2025): Beatport 35 → 17-20 acoustic clusters
+- [ ] Script: code/genre_entropy.py (new file)
+- [ ] Update paper Results §Genre section with entropy + cluster numbers
 
-### Methods
-- [ ] Add pseudocode for UDMS normalization pipeline
-- [ ] Document full hyperparameter settings for each platform export
-- [ ] Add power analysis for minimum dataset size
+**3. Sharpen 39.8% headline finding**
+- [ ] Break down what's driving "missing minimum harmonic mixing metadata"
+- [ ] Is it genre-missing? key-missing? BPM-missing?
+- [ ] Per-tier source distribution (Standard tier vs Full tier sources)
+- [ ] Add to Results §Completeness Tiers
 
-### Results
-- [ ] Generate Figure 1: Transfer matrix heatmap
-- [ ] Generate Figure 2: Field taxonomy bar chart
-- [ ] Generate Figure 3: Degradation examples
-- [ ] Generate Figure 4: UDMS validation comparison
-- [ ] Generate Figure 5: Round-trip degradation
-- [ ] Add error bars and statistical tests
+**4. Single-library limitation acknowledged**
+- [ ] Add sentence in Limitations: n=1 DJ library, results may not generalize
+- [ ] Frame as "pilot study" / "proof of concept" in Conclusion
+- [ ] Note: Knees et al. (2015) and Bogdanov (2011) also used single-library studies
 
-### UDMS Schema
-- [ ] Add JSON Schema for UDMS (machine-readable validation)
-- [ ] Complete Serato → UDMS adapter (handle crate_ fields)
-- [ ] Complete Traktor → UDMS adapter (handle collection entry format)
+**5. Narrative polish**
+- [ ] Sharpen intro "so what" — connect to MIR training data reliability
+- [ ] Add concrete example in intro: "a DJ library used to train beat-matching models may have systematic BPM errors"
+- [ ] Check: does abstract clearly state the 3 contributions upfront?
 
-## Venue
+### arXiv Submission
+- [ ] Go to https://arxiv.org/submit
+- [ ] Upload files from /tmp/arxiv_submission/ (or repackage from paper/)
+- [ ] Set primary category: cs.SD (Sound)
+- [ ] Set secondary: cs.ML (Machine Learning)
+- [ ] Submit and monitor compile status
+- [ ] If compile fails: check arXiv email for specific error, fix, resubmit
 
-**ISMIR 2026** — target submission (music information retrieval, perfect audience).
-Deadline ~May 2026. Comfortable timeline.
+### ISMIR 2026 (optional)
+- [ ] Deadline: ~May 2026
+- [ ] If targeting ISMIR: re-add anonymization (swap back to anonymous author block)
+- [ ] ISMIR uses double-blind — arXiv is NOT double-blind so these are incompatible
+- [ ] Decision: submit to arXiv first, then ISMIR with revisions
 
-## Key Decisions Pending
+## Key Numbers to Remember
 
-1. [ ] **Dataset ownership**: Who owns the 2,147 tracks? IRB approval needed?
-2. [ ] **Bonk integration**: Does Bonk app serve as experimental framework?
-3. [ ] **Co-authors**: Any collaborators to add?
-4. [ ] **License**: UDMS schema/code — MIT or Apache 2.0?
+| Finding | Value |
+|---------|-------|
+| Rekordbox tracks | 636 |
+| Serato tracks | 382 |
+| Overlapping | 143 |
+| BPM preservation (after 2x fix) | 89.5% |
+| Key exact match | 71.3% |
+| Key harmonically adjacent | 100% |
+| Genre exact match (both tagged) | 54.8% |
+| Genre both-missing | 28 tracks |
+| Genre coverage (Rekordbox) | 63.1% |
+| Tracks missing minimum mixing metadata | 39.8% |
+| MusicBrainz recovery rate | 6% |
+| Rekordbox 2x BPM bug | 39/143 = 27% |
 
+## Comparable Prior Work
+- Knees et al. ISMIR 2015: Rekordbox tempo accuracy 74.55%, key 71.85% (664-track ground-truth)
+- Bogdanov & Herrera ISMIR 2011: genre filtering → +11% recommendation hit rate (68K tracks)
+- Cunningham & Jones ISMIR 2004: personal music collection behavior
+- Xu et al. arXiv 2025: Beatport 35 genres → 17-20 acoustic clusters (genre fragmentation)
 
-## Paper Assembly (Immediate)
-
-**To assemble the final paper**, you need to:
-1. Copy the sections from `methods_section.tex` and `results_discussion_conclusion.tex` into `main.tex`
-2. Add `\usepackage{algorithm}` and `\usepackage{algorithmic}` to the preamble
-3. Create a `figures/` directory and run `python scripts/generate_figures.py`
-4. Fix the `\citep` → `\cite` bug in the existing Related Work (two missing backslashes)
+## Compile Chain (after any .bib or .tex edit)
+```bash
+cd paper
+rm -f main.aux main.bbl main.blg
+pdflatex main.tex
+bibtex main
+pdflatex main.tex
+pdflatex main.tex
+```
