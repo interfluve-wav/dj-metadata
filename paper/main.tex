@@ -1,29 +1,34 @@
-% -----------------------------------------------
-% Template for ISMIR Papers — ISMIR 2026
-% 6+n page policy: 6 pages max technical content
-% Additional pages for references, AI usage, ethics
-% -----------------------------------------------
+% ---------------------------------------------
+% arXiv submission — Metadata Quality Analysis of DJ Software Libraries
+% ---------------------------------------------
 
-\documentclass{article}
-\usepackage{ismir}
-\usepackage{amsmath,cite,url}
+% arXiv metadata
+% \documentclass{article}  % loaded below after metadata
+%%% arXiv-Category: cs.SD, cs.IR, eess.AS
+%%% arXiv-Title: Metadata Quality Analysis of DJ Software Libraries: A Rekordbox XML Study Using the Unified DJ Metadata Schema
+%%% arXiv-Authors: Suhaas Chitturi
+%%% arXiv-Abstract: [see abstract in document]
+
+\documentclass[letterpaper,11pt]{article}
+\usepackage{amsmath,amssymb,cite,url}
 \usepackage{graphicx}
 \usepackage{xcolor}
 \usepackage{booktabs}
+\usepackage{microtype}
+\usepackage{siunitx}
+\usepackage{subcaption}
+\usepackage[ruled,vlined]{algorithm2e}
+\usepackage{cleveref}
+\let\citep\cite  % provide \citep as alias for \cite
 
 \input{preamble}
 
 % Title (IEEE-compliant title case)
 \title{Metadata Quality Analysis of {DJ} Software Libraries: A {Rekordbox} {XML} Study Using the Unified {DJ} Metadata Schema}
 
-% Author: Suhaas Chitturi, University of Massachusetts Dartmouth
-% Submitted to arXiv — remove ISMIR conference references for general distribution
-\oneauthor
-  {Suhaas Chitturi}
-  {University of Massachusetts Dartmouth\\\texttt{schitturi@umb.edu}}
-
-% Author list for CC-BY license notice
-\def\authorname{Suhaas Chitturi}
+% Authors
+\title{Metadata Quality Analysis of {DJ} Software Libraries: A {Rekordbox} {XML} Study Using the Unified {DJ} Metadata Schema}
+\author{Suhaas Chitturi\\\texttt{schitturi@umb.edu}\\University of Massachusetts Dartmouth}
 
 \sloppy
 
@@ -328,6 +333,7 @@ This work was submitted to arXiv for open dissemination. The repository is publi
 
 [Anonymized for review.]
 
+\bibliographystyle{plain}
 \bibliography{references}
 
 \section{AI Usage Statement}
