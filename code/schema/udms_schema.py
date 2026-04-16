@@ -55,6 +55,20 @@ TRAKTOR_FIELDS = {
 }
 
 
+# ── Bug Discovered ────────────────────────────────────────────────────────────
+# Rekordbox XML exports sometimes store BPM at 2x the actual tempo.
+# e.g., a 87 BPM track exports as 174 BPM. This affects ~39/143 overlapping
+# tracks between Rekordbox and Serato (27% of matched pairs). The same tracks
+# show correct BPM in Serato. This is a known Rekordbox issue: the AverageBpm
+# field can carry the doubled value when BPM analysis runs on certain file types.
+#
+# Workaround: check for 2x ratio (1.95 < ratio < 2.05) when comparing BPM
+# across platforms; UDMS can normalize by dividing by 2 when detected.
+#
+# In Serato's database V2: tracks are matched by (artist, title) fingerprint.
+# 143 overlapping tracks found between Rekordbox XML and Serato DB.
+
+
 @dataclass
 class UDMS:
     """Unified DJ Metadata Schema — canonical track representation."""
