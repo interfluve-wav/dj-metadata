@@ -50,3 +50,12 @@ Deadline ~May 2026. Comfortable timeline.
 2. [ ] **Bonk integration**: Does Bonk app serve as experimental framework?
 3. [ ] **Co-authors**: Any collaborators to add?
 4. [ ] **License**: UDMS schema/code — MIT or Apache 2.0?
+
+
+## Paper Assembly (Immediate)
+
+**To assemble the final paper**, you need to:
+1. Copy the sections from `methods_section.tex` and `results_discussion_conclusion.tex` into `main.tex`
+2. Add `\usepackage{algorithm}` and `\usepackage{algorithmic}` to the preamble
+3. Create a `figures/` directory and run `python scripts/generate_figures.py`
+4. Fix the `\citep` → `\cite` bug in the existing Related Work (two missing backslashes)
