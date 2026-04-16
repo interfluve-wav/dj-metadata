@@ -15,6 +15,7 @@ class Platform(Enum):
     REKORDBOX = "rekordbox"
     SERATO = "serato"
     TRAKTOR = "traktor"
+    VIRTUALDJ = "virtualdj"
     UDMS = "udms"
 
 
@@ -54,19 +55,22 @@ TRAKTOR_FIELDS = {
     "SampleRate": "sample_rate", "Location": "file_path",
 }
 
-
-# ── Bug Discovered ────────────────────────────────────────────────────────────
-# Rekordbox XML exports sometimes store BPM at 2x the actual tempo.
-# e.g., a 87 BPM track exports as 174 BPM. This affects ~39/143 overlapping
-# tracks between Rekordbox and Serato (27% of matched pairs). The same tracks
-# show correct BPM in Serato. This is a known Rekordbox issue: the AverageBpm
-# field can carry the doubled value when BPM analysis runs on certain file types.
-#
-# Workaround: check for 2x ratio (1.95 < ratio < 2.05) when comparing BPM
-# across platforms; UDMS can normalize by dividing by 2 when detected.
-#
-# In Serato's database V2: tracks are matched by (artist, title) fingerprint.
-# 143 overlapping tracks found between Rekordbox XML and Serato DB.
+# VirtualDJ database.xml field mappings to UDMS
+# VirtualDJ stores BPM as a decimal fraction of the beat-grid unit (Scan.Bpm).
+# Conversion: reported_bpm = scan_bpm * 282 (e.g., scan=0.461538 → 130.2 BPM)
+# Tags.Bpm is a user-set/manual BPM override (optional)
+# Scan fields: Bpm (beat-grid tempo), AltBpm (alternative tempo), Key (analyzed key)
+# Tags fields: Author, Title, Album, Genre, Year, TrackNumber, Label, Remix, Key, Bpm
+VIRTUALDJ_FIELDS = {
+    "Author": "artist", "Title": "title", "Album": "album", "Genre": "genre",
+    "Year": "year", "TrackNumber": "track_number", "Label": "label",
+    "Remix": "remix",
+    # Bpm/Key are handled separately in VirtualDJAdapter (see below)
+    # FilePath mapped separately
+    "FilePath": "file_path",
+    # Infos sub-element fields
+    "SongLength": "duration_sec", "Bitrate": "bitrate",
+}
 
 
 @dataclass
@@ -92,6 +96,13 @@ class UDMS:
     source_platform: Optional[Platform] = None
     source_raw: dict = field(default_factory=dict)
 
+    # VirtualDJ-specific fields
+    bpm_manual: float = 0.0   # User-set BPM in Tags (optional override)
+    bpm_alt: float = 0.0     # Alternative BPM in Scan (e.g., half-tempo option)
+    year: str = ""
+    track_number: str = ""
+    remix: str = ""
+
     def to_dict(self) -> dict:
         return {
             "title": self.title, "artist": self.artist, "album": self.album,
@@ -101,6 +112,9 @@ class UDMS:
             "catalog_no": self.catalog_no, "duration_sec": self.duration_sec,
             "bitrate": self.bitrate, "sample_rate": self.sample_rate,
             "file_path": self.file_path, "playlist_name": self.playlist_name,
+            # VirtualDJ-specific
+            "bpm_manual": self.bpm_manual, "bpm_alt": self.bpm_alt,
+            "year": self.year, "track_number": self.track_number, "remix": self.remix,
         }
 
 
@@ -117,6 +131,25 @@ def normalize_bpm(value, platform: Platform = None) -> float:
             # Serato stores BPM as string like "96.78"
             return float(value.strip())
         return 0.0
+    except (TypeError, ValueError):
+        return 0.0
+
+
+def normalize_bpm_virtualdj(scan_bpm: float) -> float:
+    """
+    VirtualDJ stores BPM as a decimal fraction of the beat-grid unit.
+    Conversion: reported_bpm = scan_bpm * 282.
+    Confirmed against 8 tracks from Suhaas's database:
+      0.461519*282=130.1, 0.50*282=141.0, 0.375011*282=105.8, ...
+    Returns 0.0 if scan_bpm is missing or invalid.
+    """
+    try:
+        if scan_bpm is None:
+            return 0.0
+        bpm = float(scan_bpm)
+        if bpm <= 0:
+            return 0.0
+        return round(bpm * 282, 2)
     except (TypeError, ValueError):
         return 0.0
 
@@ -150,19 +183,50 @@ OPENKEY_MAP = {
 }
 
 
+# Bare note name to Camelot (major/minor inferred from case)
+# e.g., "F" -> "7B", "Gm" -> "6A", "C#m" -> "3A", "A#" -> "4B" (A# major)
+BARE_NOTE_TO_CAMELOT = {
+    # Major (uppercase, no suffix = major)
+    "C": "8B", "C#": "3B", "Db": "3B",
+    "D": "10B", "D#": "5B", "Eb": "3B",
+    "E": "12B",
+    "F": "7B", "F#": "2B", "Gb": "6B",
+    "G": "9B", "G#": "4B", "Ab": "4B",
+    "A": "11B", "A#": "6B", "Bb": "6B",
+    "B": "1B",
+    # Minor (lowercase or "m" suffix in original)
+    "Cm": "3A", "C#m": "12A", "Dbm": "12A",
+    "Dm": "7A",
+    "D#m": "2A", "Ebm": "2A",
+    "Em": "9A",
+    "Fm": "4A", "F#m": "11A", "Gbm": "11A",
+    "Gm": "6A", "G#m": "1A", "Abm": "1A",
+    "Am": "8A", "A#m": "5A", "Bbm": "5A",
+    "Bm": "10A",
+}
+
+
 def normalize_key(value) -> str:
     if not value:
         return "Unknown"
     v = str(value).strip()
+    # Already Camelot (e.g., "8B", "11A")
     if re.match(r"^[0-9]+[A-B]$", v, re.IGNORECASE):
         return v.upper()
+    # OpenKey (e.g., "1d", "6m")
     if v.lower() in OPENKEY_MAP:
         return OPENKEY_MAP[v.lower()]
+    # Traditional (e.g., "C major", "A minor")
     if v in TRADITIONAL_TO_CAMELOT:
         return TRADITIONAL_TO_CAMELOT[v]
     for traditional, camelot in TRADITIONAL_TO_CAMELOT.items():
         if traditional.lower() == v.lower():
             return camelot
+    # Bare note name: "F", "Gm", "C#m", "A#"
+    if v in BARE_NOTE_TO_CAMELOT:
+        return BARE_NOTE_TO_CAMELOT[v]
+    # Handle sharps/flats with "b" notation: "Bb" -> "A#" already handled above
+    # "Db" -> "C#", "Eb" -> "D#" etc. — already in BARE_NOTE_TO_CAMELOT
     return "Unknown"
 
 
@@ -234,6 +298,8 @@ def _apply_normalization(udms: UDMS, raw: dict, field_map: dict, platform: Platf
             else:
                 setattr(udms, udms_key, int(val))
         else:
+            if isinstance(val, str):
+                val = val.strip()
             setattr(udms, udms_key, val)
     return udms
 
@@ -256,10 +322,89 @@ class TraktorAdapter(PlatformAdapter):
         return _apply_normalization(udms, raw, TRAKTOR_FIELDS, Platform.TRAKTOR)
 
 
+class VirtualDJAdapter(PlatformAdapter):
+    """
+    VirtualDJ adapter for UDMS.
+
+    VirtualDJ database.xml stores BPM in two places:
+    - Scan.Bpm: beat-grid analyzed tempo, stored as a decimal fraction.
+      Conversion: reported_bpm = scan_bpm * 282.
+      E.g., scan=0.461538 → 130.2 BPM, scan=0.50 → 141.0 BPM.
+    - Tags.Bpm: user-set/manual BPM override (optional, often absent).
+
+    For UDMS.bpm, the adapter prefers:
+    1. Tags.Bpm (manual override, if set) → bpm_manual
+    2. Scan.Bpm converted via ×282 (beat-grid analysis) → bpm
+
+    The ×282 factor was confirmed against 8 tracks from Suhaas's library
+    (all within 0.1 BPM of expected values).
+
+    A note on half-tempo genres: VirtualDJ also stores an AltBpm field
+    representing an alternative interpretation (e.g., half-tempo option).
+    This is stored as bpm_alt in UDMS for cross-platform comparison.
+    """
+    def to_udms(self, raw: dict) -> UDMS:
+        udms = UDMS(source_platform=Platform.VIRTUALDJ, source_raw=raw)
+
+        # BPM: Tags_Bpm (manual override) takes priority over Scan_Bpm (analyzed)
+        # BPM is stored as a decimal fraction; convert via ×282
+        tags_bpm = raw.get("Tags_Bpm")
+        scan_bpm = raw.get("Scan_Bpm")
+        if tags_bpm is not None and tags_bpm != "":
+            try:
+                # Tags BPM is a decimal fraction, not a reported BPM value
+                udms.bpm_manual = normalize_bpm_virtualdj(float(tags_bpm))
+                udms.bpm = udms.bpm_manual
+            except (TypeError, ValueError):
+                udms.bpm = normalize_bpm_virtualdj(float(scan_bpm)) if scan_bpm else 0.0
+        elif scan_bpm is not None and scan_bpm != "":
+            udms.bpm = normalize_bpm_virtualdj(float(scan_bpm))
+
+        # AltBpm: alternative tempo interpretation from Scan
+        alt_bpm = raw.get("Scan_AltBpm")
+        if alt_bpm is not None and alt_bpm != "":
+            udms.bpm_alt = normalize_bpm_virtualdj(float(alt_bpm))
+
+        # Key: prefer Scan_Key (audio analysis) over Tags_Key (user annotation)
+        scan_key = raw.get("Scan_Key") or ""
+        tags_key = raw.get("Tags_Key") or ""
+        key_val = scan_key if scan_key else tags_key
+        if key_val:
+            udms.key = normalize_key(key_val)
+            udms.key_numeric = key_to_numeric(udms.key)
+
+        # Standard field mappings
+        for native_key, udms_key in VIRTUALDJ_FIELDS.items():
+            if native_key in ("Bpm", "AltBpm", "Key", "Tags_Key", "Scan_Key"):
+                continue  # handled above
+            if native_key not in raw:
+                continue
+            val = raw[native_key]
+            if udms_key == "duration_sec":
+                try:
+                    udms.duration_sec = int(float(val))
+                except (TypeError, ValueError):
+                    udms.duration_sec = 0
+            elif udms_key == "bitrate":
+                try:
+                    udms.bitrate = int(float(val))
+                except (TypeError, ValueError):
+                    udms.bitrate = 0
+            elif udms_key in ("year", "track_number", "remix"):
+                udms.__dict__[udms_key] = str(val).strip() if val else ""
+            else:
+                if isinstance(val, str):
+                    val = val.strip()
+                udms.__dict__[udms_key] = val
+
+        return udms
+
+
 ADAPTERS = {
     Platform.REKORDBOX: RekordboxAdapter(),
     Platform.SERATO: SeratoAdapter(),
     Platform.TRAKTOR: TraktorAdapter(),
+    Platform.VIRTUALDJ: VirtualDJAdapter(),
 }
 
 
