@@ -2,7 +2,7 @@
 
 **Python (schema + analysis)** | **LaTeX paper (27 pages)** | **4 DJ platforms**
 
-We present the first systematic metadata quality analysis of real-world DJ libraries, and the first cross-platform DJ metadata interoperability study. Using UDMS (Unified DJ Metadata Schema), we analyze 636 Rekordbox tracks, 382 Serato tracks, 112 Engine DJ tracks, and 157 VirtualDJ tracks — matching 143 tracks across Rekordbox and Serato, and 22 tracks across Rekordbox and VirtualDJ — quantifying how reliably metadata is preserved across ecosystem boundaries.
+We present the first cross-platform metadata quality analysis of real-world DJ libraries. Using UDMS (Unified DJ Metadata Schema), we analyze 636 Rekordbox tracks, 382 Serato tracks, 112 Engine DJ tracks, and 190 VirtualDJ tracks — matching 143 tracks across Rekordbox and Serato, and 22 tracks across Rekordbox and VirtualDJ — quantifying how reliably metadata is preserved across ecosystem boundaries.
 
 ## Key Findings
 
@@ -11,12 +11,12 @@ We present the first systematic metadata quality analysis of real-world DJ libra
 | Genre annotation coverage | 31–69% (varies by platform) |
 | Editorial metadata (ratings, labels) | 0–53% (sparse) |
 | Musical key coverage | 93–98% (best across platforms) |
-| BPM coverage | 92.3% (Rekordbox Tonality field) |
+| BPM coverage | 100% (Rekordbox) |
 | Cross-platform key agreement (exact / effective) | 71.3% / 100% |
-| BPM disagreement | Explained by systematic 2× half-tempo interpretation failure in Rekordbox for half-tempo genres |
+| BPM disagreement | Explained by systematic 2× half-tempo interpretation difference in Rekordbox for half-tempo genres |
 | Key finding | Title, artist, album are perfectly preserved across platforms (100%) |
 
-Rekordbox applies a 95 BPM threshold heuristic when analyzing half-tempo genres (UK dubstep, drum-and-bass, footwork, Jersey Club), causing it to store BPM at exactly 2× the actual tempo. Engine DJ and Serato store the correct value. This is a systematic interpretation failure, not a cross-platform transfer issue.
+Rekordbox applies a 95 BPM threshold heuristic when analyzing half-tempo genres (UK dubstep, drum-and-bass, footwork, Jersey Club), causing it to store BPM at exactly 2× the actual tempo. Engine DJ and Serato store the correct value. This is a systematic interpretation difference, not a cross-platform transfer issue.
 
 ## UDMS — Unified DJ Metadata Schema
 
@@ -47,7 +47,7 @@ dj-metadata-study/
 │   ├── rekordbox_tracks_parsed.json    — 636 Rekordbox tracks (UDMS format)
 │   ├── serato_tracks.json / .csv       — 382 Serato tracks (UDMS format)
 │   ├── engine_dj_tracks.csv            — 112 Engine DJ tracks (UDMS format)
-│   ├── virtual_dj_tracks.csv           — 157 VirtualDJ tracks (UDMS format)
+│   ├── virtual_dj_tracks.csv           — 190 VirtualDJ tracks (UDMS format)
 │   ├── cross_platform_comparison.json  — 143 matched Rekordbox/Serato tracks
 │   ├── engine_dj_comparison.json / .csv — Engine DJ cross-platform results
 │   ├── virtual_dj_comparison.json / .csv — VirtualDJ cross-platform results
