@@ -222,7 +222,7 @@ def main():
     print(f"  0.5-1.0:   {sum(1 for d in bpm_diffs if 0.5 <= d < 1.0)}")
     print(f"  1.0-2.0:   {sum(1 for d in bpm_diffs if 1.0 <= d < 2.0)}")
     print(f"  >2.0:      {sum(1 for d in bpm_diffs if d >= 2.0)}")
-    print(f"  Rekordbox 2x bug: {bpm_2x} tracks (RB stores BPM at double actual tempo)")
+    print(f"  Rekordbox 2× interpretation: {bpm_2x} tracks (RB stores BPM at 2× for half-tempo genres)")
 
     # Key mismatch analysis
     print("\nKey comparison:")
