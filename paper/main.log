@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.10)  16 APR 2026 06:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.10)  16 APR 2026 06:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -563,68 +563,72 @@ ocal/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
  <./cc_by.pdf>]
 [2]
-<fig_field_coverage.pdf, id=21, 386.46526pt x 254.23357pt>
+<fig_field_coverage.pdf, id=22, 386.46526pt x 254.23357pt>
 File: fig_field_coverage.pdf Graphic file (type pdf)
 <use fig_field_coverage.pdf>
-Package pdftex.def Info: fig_field_coverage.pdf  used on input line 141.
+Package pdftex.def Info: fig_field_coverage.pdf  used on input line 142.
 (pdftex.def)             Requested size: 233.31259pt x 153.48396pt.
-<fig_completeness_tiers.pdf, id=22, 310.168pt x 219.72527pt>
+<fig_completeness_tiers.pdf, id=23, 310.168pt x 219.72527pt>
 File: fig_completeness_tiers.pdf Graphic file (type pdf)
 <use fig_completeness_tiers.pdf>
-Package pdftex.def Info: fig_completeness_tiers.pdf  used on input line 152.
+Package pdftex.def Info: fig_completeness_tiers.pdf  used on input line 153.
 (pdftex.def)             Requested size: 233.31259pt x 165.28304pt.
-
-Underfull \vbox (badness 2961) has occurred while \output is active []
-
-
-Underfull \vbox (badness 2961) has occurred while \output is active []
-
-<fig_bpm_distribution.pdf, id=23, 343.368pt x 226.26846pt>
+<fig_bpm_distribution.pdf, id=24, 343.368pt x 226.26846pt>
 File: fig_bpm_distribution.pdf Graphic file (type pdf)
 <use fig_bpm_distribution.pdf>
-Package pdftex.def Info: fig_bpm_distribution.pdf  used on input line 163.
+Package pdftex.def Info: fig_bpm_distribution.pdf  used on input line 164.
 (pdftex.def)             Requested size: 233.31259pt x 153.74657pt.
-<fig_key_distribution.pdf, id=24, 356.0207pt x 247.56226pt>
-File: fig_key_distribution.pdf Graphic file (type pdf)
-<use fig_key_distribution.pdf>
-Package pdftex.def Info: fig_key_distribution.pdf  used on input line 176.
-(pdftex.def)             Requested size: 233.31259pt x 162.23567pt.
  [3 <./fig_field_coverage.pdf> <./fig_completeness_tiers.pdf> <./fig_bpm_distri
 bution.pdf>]
+<fig_key_distribution.pdf, id=171, 356.0207pt x 247.56226pt>
+File: fig_key_distribution.pdf Graphic file (type pdf)
+<use fig_key_distribution.pdf>
+Package pdftex.def Info: fig_key_distribution.pdf  used on input line 177.
+(pdftex.def)             Requested size: 233.31259pt x 162.23567pt.
 <fig_source_heatmap.pdf, id=172, 444.68477pt x 225.69981pt>
 File: fig_source_heatmap.pdf Graphic file (type pdf)
 <use fig_source_heatmap.pdf>
-Package pdftex.def Info: fig_source_heatmap.pdf  used on input line 194.
+Package pdftex.def Info: fig_source_heatmap.pdf  used on input line 195.
 (pdftex.def)             Requested size: 233.31259pt x 118.4184pt.
+
+Overfull \hbox (0.80101pt too wide) in paragraph at lines 207--220
+ [][] 
+ []
+
 [4 <./fig_key_distribution.pdf> <./fig_source_heatmap.pdf>]
-Underfull \hbox (badness 1635) in paragraph at lines 252--253
+Underfull \hbox (badness 1635) in paragraph at lines 285--286
 []\OT1/ptm/b/n/10 (+20) UDMS Schema and Python Im-ple-men-ta-tion:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
 \OT1/pcr/m/n/10 https : / / github . com / interfluve-[]wav /
  []
 
+[5]
+Underfull \hbox (badness 1147) in paragraph at lines 286--287
+\OT1/ptm/m/n/10 (+20) file-names and paths are anonymized; meta-data
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
 []\OT1/ptm/b/n/10 (+20) Analysis Scripts: $\OT1/pcr/m/n/10 code / schema / udms
  _
  []
 
 
-Underfull \hbox (badness 2057) in paragraph at lines 254--255
+Underfull \hbox (badness 2057) in paragraph at lines 287--288
 \OT1/pcr/m/n/10 schema . py$ \OT1/ptm/m/n/10 (+20) con-tains the UDMS schema an
 d
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
 \OT1/ptm/m/n/10 (+20) adapters; $\OT1/pcr/m/n/10 code / analyze . py$ \OT1/ptm/
 m/n/10 (+20) con-tains the
  []
 
-(./main.bbl [5]) [6
+(./main.bbl [6]) [7
 
 ] (./main.aux)
  ***********
@@ -633,25 +637,27 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15746 strings out of 467525
- 325009 string characters out of 5418982
+ 15748 strings out of 467525
+ 325054 string characters out of 5418982
  780720 words of memory out of 5000000
- 44181 multiletter control sequences out of 15000+600000
+ 44183 multiletter control sequences out of 15000+600000
  671355 words of font info for 292 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,14n,83p,1469b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,14n,83p,1924b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></
-usr/local/texlive/2026/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/loca
-l/texlive/2026/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texli
-ve/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2026/te
-xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2026/texmf-dist/f
-onts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (6 pages, 218224 bytes).
+></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
+/usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
+sr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
+r/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/
+local/texlive/2026/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/te
+xlive/2026/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2
+026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2026/texmf-
+dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2026/texmf-dist/fonts
+/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (7 pages, 239577 bytes).
 PDF statistics:
- 332 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 347 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  66079 words of extra memory for PDF output out of 74296 (max. 10000000)
 
