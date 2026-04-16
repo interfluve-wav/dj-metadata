@@ -1,6 +1,6 @@
-# DJ Metadata Quality: A Rekordbox XML Study Using UDMS
+# UDMS: Metadata Quality Across DJ Ecosystems
 
-**Published on arXiv** | Python (schema + analysis) | LaTeX paper
+**Published on Zenodo** | Python (schema + analysis) | LaTeX paper
 
 We present the first systematic metadata quality analysis of a real-world DJ library, and the first cross-platform DJ metadata interoperability study. Using UDMS (Unified DJ Metadata Schema), we analyze 636 Rekordbox tracks and 382 Serato tracks from the same DJ — matching 143 tracks across both platforms — and quantify how reliably metadata is preserved across ecosystem boundaries.
 
@@ -32,11 +32,11 @@ UDMS normalizes 11 canonical fields across Rekordbox, Serato, and Traktor. The P
 ## Repository Structure
 
 ```
-dj-metadata-paper/
+dj-metadata/
 ├── paper/
-│   ├── main.tex              — arXiv submission (22 pages)
+│   ├── main.tex              — LaTeX paper (23 pages)
 │   ├── preamble.tex          — LaTeX preamble (packages, macros)
-│   ├── references.bib        — 34 citations
+│   ├── references.bib        — 35 citations
 │   └── fig_*.pdf             — All figures (pre-generated)
 ├── code/
 │   ├── schema/
@@ -71,7 +71,7 @@ pdflatex main.tex
 pdflatex main.tex
 ```
 
-The paper compiles to 22 pages with no errors.
+The paper compiles to 23 pages with no errors.
 
 ## Running the Analysis
 
@@ -101,16 +101,15 @@ Requirements: Python 3.10+, `aubio`, `scipy`, `numpy`, `matplotlib` (for validat
 ```bibtex
 @article{chitturi2026djmetadata,
   author  = {Suhaas Chitturi},
-  title   = {Metadata Quality Analysis of {DJ} Software Libraries:
-             A {Rekordbox} {XML} Study Using the Unified {DJ} Metadata Schema},
+  title   = {UDMS: A Unified Schema for Assessing Metadata Quality
+             Across {DJ} Ecosystems},
   year    = {2026},
-  eprint  = {XXXXX.XXXXX},
-  archiveprefix = {arXiv},
-  primaryclass  = {cs.SD}
+  publisher = {Zenodo},
+  doi     = {10.5281/zenodo.XXXXXXX}
 }
 ```
 
-*(arXiv ID to be filled in after submission)*
+*(Zenodo DOI to be filled in after upload)*
 
 ## License
 
