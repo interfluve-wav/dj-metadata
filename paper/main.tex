@@ -244,6 +244,20 @@ We present the first metadata quality analysis of a DJ software library using UD
 
 These findings have practical implications for DJ software developers and MIR researchers: automated tools must gracefully handle missing metadata, genre enrichment from audio-based classification is a high-value target, and the UDMS schema provides a practical foundation for metadata quality assessment across DJ software ecosystems. The UDMS schema and analysis tools are released as open-source at \url{https://github.com/interfluve-wav/dj-metadata-paper}.
 
+\section{Reproducibility}
+
+To facilitate replication and extension, we release all materials associated with this work:
+
+\begin{itemize}
+  \item \textbf{UDMS Schema and Python Implementation:} \url{https://github.com/interfluve-wav/dj-metadata-paper}
+  \item \textbf{Dataset:} The 636-track Rekordbox XML export (anonymized) is included in the repository at \texttt{data/}. Track filenames and paths are anonymized; metadata fields are preserved.
+  \item \textbf{Analysis Scripts:} \texttt{code/schema/udms_schema.py} contains the UDMS schema and adapters; \texttt{code/analyze.py} contains the analysis pipeline used to generate all figures and statistics.
+  \item \textbf{Figures:} All figures are generated programmatically from the dataset; source scripts are in \texttt{code/}.
+  \item \textbf{License:} MIT License.
+\end{itemize}
+
+ISMIR 2026 requires code availability for reproducibility. The repository is public and will be archived with a Zenodo DOI prior to submission.
+
 \section*{Acknowledgments}
 
 [Anonymized for review.]
