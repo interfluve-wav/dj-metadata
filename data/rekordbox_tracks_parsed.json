@@ -1,0 +1,4914 @@
+{
+  "noise": {
+    "title": "NOISE",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/rekordbox/Sampler/OSC_SAMPLER(1)/PRESET%20ONESHOT/NOISE.wav"
+  },
+  "sinewave": {
+    "title": "SINEWAVE",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/rekordbox/Sampler/OSC_SAMPLER(1)/PRESET%20ONESHOT/SINEWAVE.wav"
+  },
+  "siren": {
+    "title": "Siren",
+    "artist": "Pluralist Obake",
+    "bpm": "",
+    "key": "",
+    "genre": "Dance Rap/Hip Hop",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/Pluralist%20-%20Giggle%20_%20Siren/02.%20Pluralist%20-%20Siren.mp3"
+  },
+  "horn": {
+    "title": "HORN",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/rekordbox/Sampler/OSC_SAMPLER(1)/PRESET%20ONESHOT/HORN.wav"
+  },
+  "demo track 1": {
+    "title": "Demo Track 1",
+    "artist": "Loopmasters",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/PioneerDJ/Demo%20Tracks/Demo%20Track%201.mp3"
+  },
+  "demo track 2": {
+    "title": "Demo Track 2",
+    "artist": "Loopmasters",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/PioneerDJ/Demo%20Tracks/Demo%20Track%202.mp3"
+  },
+  "house 1": {
+    "title": "House 1",
+    "artist": "rekordbox",
+    "bpm": "",
+    "key": "",
+    "genre": "Loop Samples",
+    "file_path": "file://localhost/Users/suhaas/Music/rekordbox/Sampler/GROOVE%20CIRCUIT/PRESET/4-Floor%20Breaks%20Kit/House1.wav"
+  },
+  "house 2": {
+    "title": "House 2",
+    "artist": "rekordbox",
+    "bpm": "",
+    "key": "",
+    "genre": "Loop Samples",
+    "file_path": "file://localhost/Users/suhaas/Music/rekordbox/Sampler/GROOVE%20CIRCUIT/PRESET/4-Floor%20Breaks%20Kit/House2.wav"
+  },
+  "techno 1": {
+    "title": "Techno 1",
+    "artist": "rekordbox",
+    "bpm": "",
+    "key": "",
+    "genre": "Loop Samples",
+    "file_path": "file://localhost/Users/suhaas/Music/rekordbox/Sampler/GROOVE%20CIRCUIT/PRESET/4-Floor%20Breaks%20Kit/Techno1.wav"
+  },
+  "breaks 1": {
+    "title": "Breaks 1",
+    "artist": "rekordbox",
+    "bpm": "",
+    "key": "",
+    "genre": "Loop Samples",
+    "file_path": "file://localhost/Users/suhaas/Music/rekordbox/Sampler/GROOVE%20CIRCUIT/PRESET/4-Floor%20Breaks%20Kit/Breaks1.wav"
+  },
+  "house 3": {
+    "title": "House 3",
+    "artist": "rekordbox",
+    "bpm": "",
+    "key": "",
+    "genre": "Loop Samples",
+    "file_path": "file://localhost/Users/suhaas/Music/rekordbox/Sampler/GROOVE%20CIRCUIT/PRESET/4-Floor%20Breaks%20Kit/House3.wav"
+  },
+  "house 4": {
+    "title": "House 4",
+    "artist": "rekordbox",
+    "bpm": "",
+    "key": "",
+    "genre": "Loop Samples",
+    "file_path": "file://localhost/Users/suhaas/Music/rekordbox/Sampler/GROOVE%20CIRCUIT/PRESET/4-Floor%20Breaks%20Kit/House4.wav"
+  },
+  "breaks 2": {
+    "title": "Breaks 2",
+    "artist": "rekordbox",
+    "bpm": "",
+    "key": "",
+    "genre": "Loop Samples",
+    "file_path": "file://localhost/Users/suhaas/Music/rekordbox/Sampler/GROOVE%20CIRCUIT/PRESET/4-Floor%20Breaks%20Kit/Breaks2.wav"
+  },
+  "breaks 3": {
+    "title": "Breaks 3",
+    "artist": "rekordbox",
+    "bpm": "",
+    "key": "",
+    "genre": "Loop Samples",
+    "file_path": "file://localhost/Users/suhaas/Music/rekordbox/Sampler/GROOVE%20CIRCUIT/PRESET/4-Floor%20Breaks%20Kit/Breaks3.wav"
+  },
+  "astral surge": {
+    "title": "Astral Surge",
+    "artist": "not even noticed ",
+    "bpm": "",
+    "key": "",
+    "genre": "Breakbeat,  Acid",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/15.%20not%20even%20noticed%20-%20Astral%20Surge.aiff"
+  },
+  "qte": {
+    "title": "QTE",
+    "artist": "Doctor Jeep",
+    "bpm": "",
+    "key": "",
+    "genre": "Electronic",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/09.%20Doctor%20Jeep%20-%20QTE.aiff"
+  },
+  "30 lake hills picking flowers": {
+    "title": "30. Lake Hills - Picking Flowers",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "Dance",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/30.%20Lake%20Hills%20-%20Picking%20Flowers.aiff"
+  },
+  "acid flashback": {
+    "title": "Acid Flashback",
+    "artist": "Hidden Empire",
+    "bpm": "",
+    "key": "",
+    "genre": "Melodic House & Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/25.%20Hidden%20Empire%20-%20Acid%20Flashback.aiff"
+  },
+  "ridge racer": {
+    "title": "Ridge Racer",
+    "artist": "Kosh",
+    "bpm": "",
+    "key": "",
+    "genre": "Space Dance",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/ETHEREAL%20AFTERHOURS/04.%20Kosh%20-%20Ridge%20Racer.aiff"
+  },
+  "tuff stuff": {
+    "title": "Tuff Stuff",
+    "artist": "Brink, Lutsu",
+    "bpm": "",
+    "key": "",
+    "genre": "Breakbeat, Acid, 2-step, Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/01.%20Brink,%20Lutsu%20-%20Tuff%20Stuff.aiff"
+  },
+  "state of mind thomsen 98 mix": {
+    "title": "State of Mind (Thomsen 98 Mix)",
+    "artist": "Exos",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/ETHEREAL%20AFTERHOURS/07.%20Exos%20-%20State%20of%20Mind%20(Thomsen%2098%20Mix).aiff"
+  },
+  "ruminate": {
+    "title": "Ruminate",
+    "artist": "Fixate",
+    "bpm": "",
+    "key": "",
+    "genre": "Electronic",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/14.%20Fixate%20-%20Ruminate.aiff"
+  },
+  "black russian": {
+    "title": "Black Russian",
+    "artist": "DVS1",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/12.%20DVS1%20-%20Black%20Russian.aiff"
+  },
+  "witching hour": {
+    "title": "Witching Hour",
+    "artist": "Kiara Scuro",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/11.%20Kiara%20Scuro%20-%20Witching%20Hour.aiff"
+  },
+  "hipnotico": {
+    "title": "Hipnotico",
+    "artist": "DJ Cosworth",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/21.%20DJ%20Cosworth%20-%20Hipnotico.aiff"
+  },
+  "eurogenic papa nugs remix": {
+    "title": "Eurogenic (Papa Nugs Remix)",
+    "artist": "Herr Krank, Deborah Aime La Bagarre, Papa Nugs",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/02.%20Herr%20Krank,%20Deborah%20Aime%20La%20Bagarre,%20Papa%20Nugs%20-%20Eurogenic%20(Papa%20Nugs%20Remix).aiff"
+  },
+  "belonging": {
+    "title": "Belonging",
+    "artist": "LUXE",
+    "bpm": "",
+    "key": "",
+    "genre": "Trance",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/17.%20LUXE%20-%20Belonging.aiff"
+  },
+  "latenightwalk": {
+    "title": "LATENIGHTWALK",
+    "artist": "Lake Hills",
+    "bpm": "",
+    "key": "",
+    "genre": "Electronic",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/33.%20Lake%20Hills%20-%20LATENIGHTWALK.aiff"
+  },
+  "freaky number": {
+    "title": "Freaky Number",
+    "artist": "Club Cab",
+    "bpm": "",
+    "key": "",
+    "genre": "Breakbeat",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/23.%20Club%20Cab%20-%20Freaky%20Number.aiff"
+  },
+  "peach thys remix": {
+    "title": "Peach (Thys Remix)",
+    "artist": "salute, Sammy Virji",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks / Breakbeat / UK Bass",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/18.%20salute,%20Sammy%20Virji%20-%20Peach%20(Thys%20Remix).aiff"
+  },
+  "neuroresonance": {
+    "title": "Neuroresonance",
+    "artist": "Kohra, Monophonik",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/10.%20Kohra,%20Monophonik%20-%20Neuroresonance.aiff"
+  },
+  "stunnalina hybrid man remix": {
+    "title": "Stunnalina (Hybrid Man Remix)",
+    "artist": "Aiden Francis, Hybrid Man",
+    "bpm": "",
+    "key": "",
+    "genre": "Trance ((Raw / Deep / Hypnotic)",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/26.%20Aiden%20Francis,%20Hybrid%20Man%20-%20Stunnalina%20(Hybrid%20Man%20Remix).aiff"
+  },
+  "gonna nuts right now": {
+    "title": "Gonna Nuts Right Now",
+    "artist": "Sven Wegner",
+    "bpm": "",
+    "key": "",
+    "genre": "Dance",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/13.%20Sven%20Wegner%20-%20Gonna%20Nuts%20Right%20Now.aiff"
+  },
+  "tiny mistakes feeling hot hellisnotamyth version": {
+    "title": "Tiny Mistakes Feeling Hot (Hellisnotamyth Version)",
+    "artist": "NVST",
+    "bpm": "",
+    "key": "",
+    "genre": "Electronic",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/08.%20NVST%20-%20Tiny%20Mistakes%20Feeling%20Hot%20(Hellisnotamyth%20Version).aiff"
+  },
+  "wake tf up": {
+    "title": "WAKE TF UP",
+    "artist": "BOX CAR, Monta",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/ETHEREAL%20AFTERHOURS/05.%20BOX%20CAR,%20Monta%20-%20WAKE%20TF%20UP.aiff"
+  },
+  "soft launch": {
+    "title": "Soft Launch",
+    "artist": "In2stellar",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/19.%20In2stellar%20-%20Soft%20Launch.aiff"
+  },
+  "oh hey": {
+    "title": "Oh Hey",
+    "artist": "COIDO",
+    "bpm": "",
+    "key": "",
+    "genre": "Dance",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/03.%20COIDO%20-%20Oh%20Hey.aiff"
+  },
+  "fighta": {
+    "title": "Fighta",
+    "artist": "Reginald ",
+    "bpm": "",
+    "key": "",
+    "genre": "Breakbeat",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/20.%20Reginald%20-%20Fighta.aiff"
+  },
+  "yes baby": {
+    "title": "Yes Baby!",
+    "artist": "Hitch.93 ",
+    "bpm": "",
+    "key": "",
+    "genre": "Breakbeat",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/24.%20Hitch.93%20-%20Yes%20Baby!.aiff"
+  },
+  "fresh solja feat okenwa1 plus one": {
+    "title": "FRESH SOLJA (feat. Okenwa1 & plus one)",
+    "artist": "BaZiNhO Bowwizzy, Okenwa1 & plus one",
+    "bpm": "",
+    "key": "",
+    "genre": "Hip-Hop/Rap",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/04.%20BaZiNhO%20Bowwizzy,%20Okenwa1%20%26%20plus%20one%20-%20FRESH%20SOLJA%20(feat.%20Okenwa1%20%26%20plus%20one).aiff"
+  },
+  "format card": {
+    "title": "Format Card?",
+    "artist": "Lake Hills",
+    "bpm": "",
+    "key": "",
+    "genre": "Electronic",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/31.%20Lake%20Hills%20-%20Format%20Card.aiff"
+  },
+  "feel the 808 sarah farina remix": {
+    "title": "Feel The 808 (Sarah Farina Remix)",
+    "artist": "Pura Pura",
+    "bpm": "",
+    "key": "",
+    "genre": "Electronic, Breakbeat",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/07.%20Pura%20Pura%20-%20Feel%20The%20808%20(Sarah%20Farina%20Remix).aiff"
+  },
+  "u got me burnin": {
+    "title": "U Got Me Burnin'",
+    "artist": "Soul Mass Transit System",
+    "bpm": "",
+    "key": "",
+    "genre": "Bass",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/16.%20Soul%20Mass%20Transit%20System%20-%20U%20Got%20Me%20Burnin%27.aiff"
+  },
+  "ancient memories": {
+    "title": "Ancient Memories",
+    "artist": "Axefield",
+    "bpm": "",
+    "key": "",
+    "genre": "Electronic",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/06.%20Axefield%20-%20Ancient%20Memories.aiff"
+  },
+  "exosphere": {
+    "title": "Exosphere",
+    "artist": "Tom Place, Hedchef",
+    "bpm": "",
+    "key": "",
+    "genre": "Tech House",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/28.%20Tom%20Place,%20Hedchef%20-%20Exosphere.aiff"
+  },
+  "damn frogs": {
+    "title": "Damn Frogs",
+    "artist": "Kosh",
+    "bpm": "",
+    "key": "",
+    "genre": "Electronic",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BODYBODY%20(FEB26)/05.%20Kosh%20-%20Damn%20Frogs.aiff"
+  },
+  "soft": {
+    "title": "Soft",
+    "artist": "Lake Hills",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/ETHEREAL%20AFTERHOURS/10.%20Lake%20Hills%20-%20Soft.aiff"
+  },
+  "glorias": {
+    "title": "Glorias",
+    "artist": "Al Wootton",
+    "bpm": "",
+    "key": "",
+    "genre": "Downtempo",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/18.%20Al%20Wootton%20-%20Glorias.aiff"
+  },
+  "the worm": {
+    "title": "The Worm",
+    "artist": "Bastian Benjamin, Alberta Balsam, French II",
+    "bpm": "",
+    "key": "",
+    "genre": "UK Garage",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/01.%20Bastian%20Benjamin,%20Alberta%20Balsam,%20French%20II%20-%20The%20Worm.aiff"
+  },
+  "blind corners ": {
+    "title": "Blind Corners ()",
+    "artist": "Stenny",
+    "bpm": "",
+    "key": "",
+    "genre": "Ambient",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/20.%20Stenny%20-%20Blind%20Corners%20().aiff"
+  },
+  "physicality": {
+    "title": "Physicality",
+    "artist": "iNTROSPEKT",
+    "bpm": "",
+    "key": "",
+    "genre": "UK Garage",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/11.%20iNTROSPEKT%20-%20Physicality.aiff"
+  },
+  "haunted party": {
+    "title": "Haunted Party",
+    "artist": "Hizuo",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/22.%20Hizuo%20-%20Haunted%20Party.aiff"
+  },
+  "future": {
+    "title": "Future",
+    "artist": "ElBarto",
+    "bpm": "",
+    "key": "",
+    "genre": "Hard Drum",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/09.%20ElBarto%20-%20Future.aiff"
+  },
+  "studmission": {
+    "title": "Studmission",
+    "artist": "Zenker Brothers",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/19.%20Zenker%20Brothers%20-%20Studmission%20copy.aiff"
+  },
+  "hadal zone": {
+    "title": "Hadal Zone",
+    "artist": "Phasmid",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/15.%20Phasmid%20-%20Hadal%20Zone.aiff"
+  },
+  "hadal zone kessler remix": {
+    "title": "Hadal Zone (Kessler Remix)",
+    "artist": "Phasmid",
+    "bpm": "",
+    "key": "",
+    "genre": "Mutant Jungle",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/16.%20Phasmid%20-%20Hadal%20Zone%20(Kessler%20Remix).aiff"
+  },
+  "no escape": {
+    "title": "No Escape",
+    "artist": "Synkro",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/05.%20Synkro%20-%20No%20Escape.aiff"
+  },
+  "pinahoelada": {
+    "title": "Pinahoelada",
+    "artist": "BLUMITSU",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/14.%20BLUMITSU%20-%20Pinahoelada.aiff"
+  },
+  "slowburn": {
+    "title": "Slowburn",
+    "artist": "DJ Sprinter",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/06.%20DJ%20Sprinter%20-%20Slowburn.aiff"
+  },
+  "militant don vocal": {
+    "title": "Militant Don (Vocal)",
+    "artist": "Mala, Magugu",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/12.%20Mala,%20Magugu%20-%20Militant%20Don%20(Vocal).aiff"
+  },
+  "sprayout": {
+    "title": "Sprayout",
+    "artist": "SHAYK",
+    "bpm": "",
+    "key": "",
+    "genre": "Grime",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/10.%20SHAYK%20-%20Sprayout.aiff"
+  },
+  "meltdown": {
+    "title": "Meltdown",
+    "artist": "Carr\u00e9",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/21.%20Carr%c3%a9%20-%20Meltdown.aiff"
+  },
+  "vancouver rhyws skg mix": {
+    "title": "Vancouver (Rhyw's SKG Mix)",
+    "artist": "Martyn",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/24.%20Martyn%20-%20Vancouver%20(Rhyw%27s%20SKG%20Mix).aiff"
+  },
+  "induction texture a strange wedding side quest remix": {
+    "title": "Induction Texture (A Strange Wedding Side Quest Remix)",
+    "artist": "Kobayashi Maru",
+    "bpm": "",
+    "key": "",
+    "genre": "Hypnotic",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/23.%20Kobayashi%20Maru%20-%20Induction%20Texture%20(A%20Strange%20Wedding%20Side%20Quest%20Remix).aiff"
+  },
+  "carrier decon": {
+    "title": "Carrier (Decon)",
+    "artist": "Portway",
+    "bpm": "",
+    "key": "",
+    "genre": " ",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/03.%20Portway%20-%20Carrier%20(Decon).aiff"
+  },
+  "chop": {
+    "title": "Chop",
+    "artist": "Griminal, COZA, Pent1",
+    "bpm": "",
+    "key": "",
+    "genre": "Grime",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/07.%20Griminal,%20COZA,%20Pent1%20-%20Chop.aiff"
+  },
+  "dancehall": {
+    "title": "Dancehall",
+    "artist": "DE-T\u00dc",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/13.%20DE-T%c3%9c%20-%20Dancehall.aiff"
+  },
+  "decommission me": {
+    "title": "Decommission Me",
+    "artist": "Client_03, James Shinra",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/04.%20Client_03,%20James%20Shinra%20-%20Decommission%20Me.aiff"
+  },
+  "19 zenker brothers studmission": {
+    "title": "19. Zenker Brothers - Studmission",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno  (Raw  Deep  Hypnotic)",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/19.%20Zenker%20Brothers%20-%20Studmission.aiff"
+  },
+  "only one": {
+    "title": "Only One",
+    "artist": "Next To Blue",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/08.%20Next%20To%20Blue%20-%20Only%20One.aiff"
+  },
+  "ctx": {
+    "title": "CTX",
+    "artist": "FonZo, Roaming Data",
+    "bpm": "",
+    "key": "",
+    "genre": "Speed Garage",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/DIGS%20(BEST%20OF%202025)%20-%20Interfluve/02.%20FonZo,%20Roaming%20Data%20-%20CTX.aiff"
+  },
+  "big tooth": {
+    "title": "Big Tooth",
+    "artist": "Niecesandnephews, bad atlantic",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/10.%20Niecesandnephews,%20bad%20atlantic%20-%20Big%20Tooth.aiff"
+  },
+  "sparkling controversy": {
+    "title": "Sparkling Controversy",
+    "artist": "Floating Points",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/07.%20Floating%20Points%20-%20Sparkling%20Controversy.aiff"
+  },
+  "morgan freeman": {
+    "title": "Morgan Freeman",
+    "artist": "Black Rave Culture",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/15.%20Black%20Rave%20Culture%20-%20Morgan%20Freeman.aiff"
+  },
+  "to the disco 77 original mix": {
+    "title": "To the Disco \u201877 (Original Mix)",
+    "artist": "Move D",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/Move%20D%20-%20To%20the%20Disco%20%e2%80%9877%20(Original%20Mix).aiff"
+  },
+  "barefoot wanderer": {
+    "title": "Barefoot Wanderer",
+    "artist": "Suki",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/23.%20Suki%20-%20Barefoot%20Wanderer.aiff"
+  },
+  "astral oscillator": {
+    "title": "Astral Oscillator",
+    "artist": "Giuliana Mastramonio",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/18.%20Giuliana%20Mastramonio%20-%20Astral%20Oscillator.aiff"
+  },
+  "shook ones": {
+    "title": "Shook Ones",
+    "artist": "DJ Bone",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/17.%20DJ%20Bone%20-%20Shook%20Ones.aiff"
+  },
+  "untitled 279 dj mix": {
+    "title": "Untitled 279 (DJ Mix)",
+    "artist": "Skee Mask",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/06.%20Skee%20Mask%20-%20Untitled%20279%20(DJ%20Mix).aiff"
+  },
+  "glorias drums version": {
+    "title": "Glorias (Drums Version)",
+    "artist": "Al Wootton",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/20.%20Al%20Wootton%20-%20Glorias%20(Drums%20Version).aiff"
+  },
+  "untitled 01": {
+    "title": "Untitled 01",
+    "artist": "Leod",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/04.%20Leod%20-%20Untitled%2001.aiff"
+  },
+  "passing comet": {
+    "title": "Passing Comet",
+    "artist": "Isaiah",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/14.%20Isaiah%20-%20Passing%20Comet.aiff"
+  },
+  "bone crushing": {
+    "title": "bone crushing",
+    "artist": "Vladimir Dubyshkin",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/11.%20Vladimir%20Dubyshkin%20-%20bone%20crushing.aiff"
+  },
+  "fuzzy dunlop": {
+    "title": "Fuzzy Dunlop",
+    "artist": "Frits Wentink & Malin Genie",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/28.%20Frits%20Wentink%20%26%20Malin%20Genie%20-%20Fuzzy%20Dunlop.aiff"
+  },
+  "in air": {
+    "title": "IN AIR",
+    "artist": "Binary Digit",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/13.%20Binary%20Digit%20-%20IN%20AIR.aiff"
+  },
+  "rose rouge joy orbison remix": {
+    "title": "Rose Rouge (Joy Orbison Remix)",
+    "artist": "Jorja Smith, Joy Orbison",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/08.%20Jorja%20Smith,%20Joy%20Orbison%20-%20Rose%20Rouge%20(Joy%20Orbison%20Remix).aiff"
+  },
+  "exopaq": {
+    "title": "Exopaq",
+    "artist": "Frits Wentink & Malin Genie",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/27.%20Frits%20Wentink%20%26%20Malin%20Genie%20-%20Exopaq.aiff"
+  },
+  "emx jam 4": {
+    "title": "EMX JAM 4",
+    "artist": "Demuja",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/12.%20Demuja%20-%20EMX%20JAM%204.aiff"
+  },
+  "vanity card": {
+    "title": "Vanity Card",
+    "artist": "Strict Face",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/25.%20Strict%20Face%20-%20Vanity%20Card.aiff"
+  },
+  "700007a": {
+    "title": "700007A",
+    "artist": "Wax",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/Wax%20-%20700007A.aiff"
+  },
+  "slice of life": {
+    "title": "Slice of Life",
+    "artist": "Peverelist",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/02.%20Peverelist%20-%20Slice%20of%20Life.aiff"
+  },
+  "touch me": {
+    "title": "Touch Me",
+    "artist": "Poproboval",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/19.%20Poproboval%20-%20Touch%20Me.aiff"
+  },
+  "how to keep": {
+    "title": "How to Keep",
+    "artist": "Fred Quest",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/29.%20Fred%20Quest%20-%20How%20to%20Keep.aiff"
+  },
+  "recontruct the crime": {
+    "title": "Recontruct The Crime",
+    "artist": "Boy in Nature, BCCO",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/16.%20Boy%20in%20Nature,%20BCCO%20-%20Recontruct%20The%20Crime.aiff"
+  },
+  "soundclash": {
+    "title": "Soundclash",
+    "artist": "Kaval",
+    "bpm": "",
+    "key": "",
+    "genre": "Dembow",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/09.%20Kaval%20-%20Soundclash.aiff"
+  },
+  "anasickmodular": {
+    "title": "Anasickmodular",
+    "artist": "Floating Points",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/01.%20Floating%20Points%20-%20Anasickmodular.aiff"
+  },
+  "crispy edges": {
+    "title": "Crispy Edges",
+    "artist": "Silat Beksi",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/22.%20Silat%20Beksi%20-%20Crispy%20Edges.aiff"
+  },
+  "alla prima neville watson remix": {
+    "title": "Alla Prima (Neville Watson Remix)",
+    "artist": "Elisa Bee",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/24.%20Elisa%20Bee%20-%20Alla%20Prima%20(Neville%20Watson%20Remix).aiff"
+  },
+  "atman": {
+    "title": "Atman",
+    "artist": "Silat Beksi",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/21.%20Silat%20Beksi%20-%20Atman.aiff"
+  },
+  "ambrosia": {
+    "title": "Ambrosia",
+    "artist": "Frits Wentink & Malin Genie",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/NYE%20Music/26.%20Frits%20Wentink%20%26%20Malin%20Genie%20-%20Ambrosia.aiff"
+  },
+  "reshape": {
+    "title": "Reshape",
+    "artist": "Altinbas",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/hardGrooove/08.%20Altinbas%20-%20Reshape.aiff"
+  },
+  "ray of light": {
+    "title": "Ray of Light",
+    "artist": "SERA J",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/hardGrooove/06.%20SERA%20J%20-%20Ray%20of%20Light.aiff"
+  },
+  "dopamine rush": {
+    "title": "Dopamine Rush",
+    "artist": "Chl\u00e4r",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/hardGrooove/04.%20Chl%c3%a4r%20-%20Dopamine%20Rush.aiff"
+  },
+  "kallait 03 2302113": {
+    "title": "KALLAIT 03 [230211.3]",
+    "artist": "Peryl, R\u00f8dh\u00e5d",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/hardGrooove/09.%20Peryl,%20R%c3%b8dh%c3%a5d%20-%20KALLAIT%2003%20%5b230211.3%5d.aiff"
+  },
+  "vital force": {
+    "title": "Vital Force",
+    "artist": "Chl\u00e4r",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/hardGrooove/03.%20Chl%c3%a4r%20-%20Vital%20Force.aiff"
+  },
+  "internal jungle": {
+    "title": "Internal Jungle",
+    "artist": "Danny Wabbit",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/hardGrooove/10.%20Danny%20Wabbit%20-%20Internal%20Jungle.aiff"
+  },
+  "outrun": {
+    "title": "Outrun",
+    "artist": "Ann\u0113",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/hardGrooove/11.%20Ann%c4%93%20-%20Outrun.aiff"
+  },
+  "finally": {
+    "title": "Finally",
+    "artist": "Beau Didier",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/hardGrooove/01.%20Beau%20Didier%20-%20Finally.aiff"
+  },
+  "b12": {
+    "title": "B12",
+    "artist": "Danny Wabbit",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/hardGrooove/12.%20Danny%20Wabbit%20-%20B12.aiff"
+  },
+  "like that": {
+    "title": "Like That",
+    "artist": "Beau Didier",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/hardGrooove/02.%20Beau%20Didier%20-%20Like%20That.aiff"
+  },
+  "mova ya body": {
+    "title": "Mova Ya Body",
+    "artist": "Ignition Technician",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/hardGrooove/07.%20Ignition%20Technician%20-%20Mova%20Ya%20Body.aiff"
+  },
+  "weiller": {
+    "title": "Weiller",
+    "artist": "Alarico",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/hardGrooove/13.%20Alarico%20-%20Weiller.aiff"
+  },
+  "sexiness": {
+    "title": "Sexiness",
+    "artist": "Mac Declos",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/hardGrooove/14.%20Mac%20Declos%20-%20Sexiness.aiff"
+  },
+  "love blaster": {
+    "title": "Love Blaster",
+    "artist": "Chl\u00e4r",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/hardGrooove/05.%20Chl%c3%a4r%20-%20Love%20Blaster.aiff"
+  },
+  "soft shadows": {
+    "title": "Soft Shadows",
+    "artist": "Upwellings",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/deepest%20dub%20techno/5.%20Upwellings%20-%20Soft%20Shadows.aiff"
+  },
+  "experiment iii original mix": {
+    "title": "Experiment III (Original Mix)",
+    "artist": "Corvum, Toki Fuko",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/deepest%20dub%20techno/6.%20Corvum,%20Toki%20Fuko%20-%20Experiment%20III%20(Original%20Mix).aiff"
+  },
+  "hpt": {
+    "title": "Hpt",
+    "artist": "Fog Catcher",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/deepest%20dub%20techno/1.%20Fog%20Catcher%20-%20Hpt.aiff"
+  },
+  "d": {
+    "title": "D",
+    "artist": "Upwellings",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/deepest%20dub%20techno/4.%20Upwellings%20-%20D.aiff"
+  },
+  "evening wind": {
+    "title": "Evening Wind",
+    "artist": "Fog Catcher",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/deepest%20dub%20techno/2.%20Fog%20Catcher%20-%20Evening%20Wind.aiff"
+  },
+  "naval": {
+    "title": "Naval",
+    "artist": "Fog Catcher",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/deepest%20dub%20techno/3.%20Fog%20Catcher%20-%20Naval.aiff"
+  },
+  "final fantasy": {
+    "title": "Final Fantasy",
+    "artist": "Lake Hills, BCCO",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/H4RDG#OOVE/3.%20Lake%20Hills,%20BCCO%20-%20Final%20Fantasy.aiff"
+  },
+  "sikolt": {
+    "title": "Sikolt",
+    "artist": "Concussion, Opus Records",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/H4RDG#OOVE/4.%20Concussion,%20Opus%20Records%20-%20Sikolt.aiff"
+  },
+  "hinn vi\u00f0forli": {
+    "title": "Hinn Vi\u0301\u00f0fo\u0308rli",
+    "artist": "Exos",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/H4RDG#OOVE/5.%20Exos%20-%20Hinn%20V%c3%ad%c3%b0f%c3%b6rli.aiff"
+  },
+  "distance to empty": {
+    "title": "Distance To Empty",
+    "artist": "Lake Hills, BCCO",
+    "bpm": "",
+    "key": "",
+    "genre": "Hardgroove",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/H4RDG#OOVE/2.%20Lake%20Hills,%20BCCO%20-%20Distance%20To%20Empty.aiff"
+  },
+  "signals": {
+    "title": "Signals",
+    "artist": "Simone Zino",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/H4RDG#OOVE/1.%20Simone%20Zino%20-%20Signals.aiff"
+  },
+  "surface tension": {
+    "title": "Surface Tension",
+    "artist": "Kalani",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/Various%20Artists%20-%20DCVA1/Kalani%20-%20DCVA1%20-%2003%20Surface%20Tension.aiff"
+  },
+  "believe": {
+    "title": "Believe",
+    "artist": "CRL",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/Various%20Artists%20-%20DCVA1/CRL%20-%20DCVA1%20-%2002%20Believe.aiff"
+  },
+  "as free as you are": {
+    "title": "As Free As You Are",
+    "artist": "Arno Lemons",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/Various%20Artists%20-%20DCVA1/Arno%20Lemons%20-%20DCVA1%20-%2001%20As%20Free%20As%20You%20Are.aiff"
+  },
+  "nirvana smells like teen spirit mihai pol edit": {
+    "title": "Nirvana - Smells Like Teen Spirit (Mihai Pol Edit)",
+    "artist": "Mihai Pol",
+    "bpm": "",
+    "key": "",
+    "genre": "Rominimal",
+    "file_path": "file://localhost/Users/suhaas/Music/Bandcamp%20DLs%20(2025)/Mihai%20Pol%20-%20Nirvana%20-%20Smells%20Like%20Teen%20Spirit%20(Mihai%20Pol%20Edit).aiff"
+  },
+  "mininga": {
+    "title": "Mininga",
+    "artist": "Exos",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/03.%20Exos%20-%20Mininga.aiff"
+  },
+  "pieces original mix": {
+    "title": "Pieces (Original Mix)",
+    "artist": "Rohar",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/16.%20Rohar%20-%20Pieces%20(Original%20Mix).aiff"
+  },
+  "press 94": {
+    "title": "Press 94",
+    "artist": "Abdul Raeva",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/20.%20Abdul%20Raeva%20-%20Press%2094.aiff"
+  },
+  "released dubb mihai popoviciu remix": {
+    "title": "Released Dubb (Mihai Popoviciu Remix)",
+    "artist": "Per Hammar",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/5.%20Per%20Hammar%20-%20Released%20Dubb%20(Mihai%20Popoviciu%20Remix).aiff"
+  },
+  "maybe tomorrow": {
+    "title": "Maybe Tomorrow",
+    "artist": "Luna Ludmila",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/26.%20Luna%20Ludmila%20-%20Maybe%20Tomorrow.aiff"
+  },
+  "hooked soul rites": {
+    "title": "Hooked Soul Rites",
+    "artist": "Solipsism, Mosca",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/1.%20Solipsism,%20Mosca%20-%20Hooked%20Soul%20Rites.aiff"
+  },
+  "oxygen": {
+    "title": "Oxygen",
+    "artist": "Anton Kubikov",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/24.%20Anton%20Kubikov%20-%20Oxygen.aiff"
+  },
+  "passing by the star cluster original mix": {
+    "title": "Passing By The Star Cluster (Original Mix)",
+    "artist": "Grad_U",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/13.%20Grad_U%20-%20Passing%20By%20The%20Star%20Cluster%20(Original%20Mix).aiff"
+  },
+  "sensimilla": {
+    "title": "Sensimilla",
+    "artist": "STL",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/17.%20STL%20-%20Sensimilla.aiff"
+  },
+  "vibra": {
+    "title": "Vibra",
+    "artist": "Mathimidori",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/10.%20Mathimidori%20-%20Vibra.aiff"
+  },
+  "cirque du freque": {
+    "title": "Cirque Du Freque",
+    "artist": "Normal Ones",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/05.%20Normal%20Ones%20-%20Cirque%20Du%20Freque.aiff"
+  },
+  "genghis original mix": {
+    "title": "Genghis (Original Mix)",
+    "artist": "Kijang",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/15.%20Kijang%20-%20Genghis%20(Original%20Mix).aiff"
+  },
+  "minimal art a original mix": {
+    "title": "Minimal Art A (Original mix)",
+    "artist": "Reagan (IE)",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/2.%20Reagan%20(IE)%20-%20Minimal%20Art%20A%20(Original%20mix).aiff"
+  },
+  "sanguine": {
+    "title": "Sanguine",
+    "artist": "Reestar",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/29.%20Reestar%20-%20Sanguine.aiff"
+  },
+  "cirque du freque attentat remix": {
+    "title": "Cirque Du Freque (Attentat Remix)",
+    "artist": "Normal Ones, Attentat",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/04.%20Normal%20Ones,%20Attentat%20-%20Cirque%20Du%20Freque%20(Attentat%20Remix).aiff"
+  },
+  "classic dub": {
+    "title": "Classic Dub",
+    "artist": "Lola Palmer",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/31.%20Lola%20Palmer%20-%20Classic%20Dub.aiff"
+  },
+  "things to come": {
+    "title": "Things to Come",
+    "artist": "Contakt",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/3.%20Contakt%20-%20Things%20to%20Come.aiff"
+  },
+  "natacha blues original mix": {
+    "title": "Natacha Blues (Original Mix)",
+    "artist": "Beresi",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/25.%20Beresi%20-%20Natacha%20Blues%20(Original%20Mix).aiff"
+  },
+  "polarized": {
+    "title": "Polarized",
+    "artist": "Jeroen Search",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/21.%20Jeroen%20Search%20-%20Polarized.aiff"
+  },
+  "increased awareness": {
+    "title": "Increased Awareness",
+    "artist": "Quantec",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/08.%20Quantec%20-%20Increased%20Awareness.aiff"
+  },
+  "from a distance": {
+    "title": "From a Distance",
+    "artist": "Schulz Audio",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/14.%20Schulz%20Audio%20-%20From%20a%20Distance.aiff"
+  },
+  "walk in the spacesuite doyeq remix": {
+    "title": "Walk in the Spacesuite (Doyeq Remix)",
+    "artist": "Subforms",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/02.%20Subforms%20-%20Walk%20in%20the%20Spacesuite%20(Doyeq%20Remix).aiff"
+  },
+  "mercury v9": {
+    "title": "Mercury (v9)",
+    "artist": "Normal Ones",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/06.%20Normal%20Ones%20-%20Mercury%20(v9).aiff"
+  },
+  "dawn": {
+    "title": "Dawn",
+    "artist": "Fluxion",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/09.%20Fluxion%20-%20Dawn.aiff"
+  },
+  "minimal art b kercha remix": {
+    "title": "Minimal Art B (Kercha remix)",
+    "artist": "Reagan (IE)",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/1.%20Reagan%20(IE)%20-%20Minimal%20Art%20B%20(Kercha%20remix).aiff"
+  },
+  "this is the place edit": {
+    "title": "This Is the Place (Edit)",
+    "artist": "Diego Krause",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/30.%20Diego%20Krause%20-%20This%20Is%20the%20Place%20(Edit).aiff"
+  },
+  "ride": {
+    "title": "Ride",
+    "artist": "idealist",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/11.%20idealist%20-%20Ride.aiff"
+  },
+  "feelings over titles": {
+    "title": "Feelings Over Titles",
+    "artist": "Marc Marzenit",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/22.%20Marc%20Marzenit%20-%20Feelings%20Over%20Titles.aiff"
+  },
+  "mystery of time": {
+    "title": "Mystery of time",
+    "artist": "Conrad Van Orton, VSK",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/19.%20Conrad%20Van%20Orton,%20VSK%20-%20Mystery%20of%20time.aiff"
+  },
+  "geomagnetic storm original mix": {
+    "title": "Geomagnetic Storm (Original Mix)",
+    "artist": "Grad_U",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/12.%20Grad_U%20-%20Geomagnetic%20Storm%20(Original%20Mix).aiff"
+  },
+  "primal dub kiano below bangkok dub mix": {
+    "title": "Primal Dub (Kiano & Below Bangkok Dub Mix)",
+    "artist": "Nae:Tek",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/28.%20NaeTek%20-%20Primal%20Dub%20(Kiano%20%26%20Below%20Bangkok%20Dub%20Mix).aiff"
+  },
+  "thought experiment": {
+    "title": "Thought Experiment",
+    "artist": "Quantec",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/07.%20Quantec%20-%20Thought%20Experiment.aiff"
+  },
+  "boot camp": {
+    "title": "Boot Camp",
+    "artist": "Miki Craven",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/3.%20Miki%20Craven%20-%20Boot%20Camp.aiff"
+  },
+  "only nature": {
+    "title": "Only Nature",
+    "artist": "Advanced Dreams",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/01.%20Advanced%20Dreams%20-%20Only%20Nature.aiff"
+  },
+  "lost in thoughts samuel wallners snowfall mix": {
+    "title": "Lost in Thoughts (Samuel Wallner's Snowfall Mix)",
+    "artist": "deepfreqz",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dub%20tekno/18.%20deepfreqz%20-%20Lost%20in%20Thoughts%20(Samuel%20Wallner%27s%20Snowfall%20Mix).aiff"
+  },
+  "echoes in blue": {
+    "title": "Echoes in Blue",
+    "artist": "Answer Code Request",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/ETHEREAL%20AFTERHOURS/06.%20Answer%20Code%20Request%20-%20Echoes%20in%20Blue.aiff"
+  },
+  "the time is now": {
+    "title": "The Time Is Now",
+    "artist": "Sterac",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/ETHEREAL%20AFTERHOURS/01.%20Sterac%20-%20The%20Time%20Is%20Now.aiff"
+  },
+  "ahora": {
+    "title": "Ahora",
+    "artist": "Etapp Kyle",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/ETHEREAL%20AFTERHOURS/02.%20Etapp%20Kyle%20-%20Ahora.aiff"
+  },
+  "sun never rose vishal unni remix": {
+    "title": "Sun Never Rose (Vishal Unni Remix)",
+    "artist": "Soop",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/ETHEREAL%20AFTERHOURS/11.%20Soop%20-%20Sun%20Never%20Rose%20(Vishal%20Unni%20Remix).aiff"
+  },
+  "personal request": {
+    "title": "Personal Request",
+    "artist": "Lake Hills, Frythm",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/ETHEREAL%20AFTERHOURS/09.%20Lake%20Hills,%20Frythm%20-%20Personal%20Request.aiff"
+  },
+  "arambha": {
+    "title": "Arambha",
+    "artist": "Marco Borg",
+    "bpm": "",
+    "key": "",
+    "genre": "Hypnotic",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/ETHEREAL%20AFTERHOURS/12.%20Marco%20Borg%20-%20Arambha.aiff"
+  },
+  "electromagnetic field": {
+    "title": "Electromagnetic Field",
+    "artist": "not even noticed",
+    "bpm": "",
+    "key": "",
+    "genre": "Space Dance",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/ETHEREAL%20AFTERHOURS/03.%20not%20even%20noticed%20-%20Electromagnetic%20Field.aiff"
+  },
+  "athenia": {
+    "title": "Athenia",
+    "artist": "Derek Carr",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/ETHEREAL%20AFTERHOURS/08.%20Derek%20Carr%20-%20Athenia.aiff"
+  },
+  "chimera": {
+    "title": "Chimera",
+    "artist": "Benza",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/HYPNOTIC%20Extra%20Dark/4.%20Benza%20-%20Chimera.aiff"
+  },
+  "viha": {
+    "title": "Viha",
+    "artist": "Marco Borg",
+    "bpm": "",
+    "key": "",
+    "genre": "Hypnotic",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/HYPNOTIC%20Extra%20Dark/5.%20Marco%20Borg%20-%20Viha.aiff"
+  },
+  "cosmic principles original mix": {
+    "title": "Cosmic Principles (Original Mix)",
+    "artist": "KR:DS",
+    "bpm": "",
+    "key": "",
+    "genre": "Hypnotic",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/HYPNOTIC%20Extra%20Dark/1.%20KRDS%20-%20Cosmic%20Principles%20(Original%20Mix).aiff"
+  },
+  "shifting forms original": {
+    "title": "Shifting Forms (Original)",
+    "artist": "Svarog",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/HYPNOTIC%20Extra%20Dark/2.%20Svarog%20-%20Shifting%20Forms%20(Original).aiff"
+  },
+  "xrays": {
+    "title": "X-Rays",
+    "artist": "Axoon",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/HYPNOTIC%20Extra%20Dark/6.%20Axoon%20-%20X-Rays.aiff"
+  },
+  "concentration": {
+    "title": "Concentration",
+    "artist": "Tripold1",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/HYPNOTIC%20Extra%20Dark/3.%20Tripold1%20-%20Concentration.aiff"
+  },
+  "nonnewtonian fluid": {
+    "title": "Non-Newtonian Fluid",
+    "artist": "Amrit (IN)",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/07.%20Amrit%20(IN)%20-%20Non-Newtonian%20Fluid.aiff"
+  },
+  "pacemaker original mix": {
+    "title": "Pacemaker (Original Mix)",
+    "artist": "Thomas Klipps",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/17.%20Thomas%20Klipps%20-%20Pacemaker%20(Original%20Mix).aiff"
+  },
+  "honeymoon original mix": {
+    "title": "Honeymoon (Original Mix)",
+    "artist": "Peter Groskreutz",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/10.%20Peter%20Groskreutz%20-%20Honeymoon%20(Original%20Mix).aiff"
+  },
+  "different language": {
+    "title": "Different Language",
+    "artist": "Deepnotic",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/09.%20Deepnotic%20-%20Different%20Language.aiff"
+  },
+  "relationships folic state remix": {
+    "title": "Relationships (Folic State Remix)",
+    "artist": "Breger",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/06.%20Breger%20-%20Relationships%20(Folic%20State%20Remix).aiff"
+  },
+  "shredder original mix": {
+    "title": "Shredder (Original Mix)",
+    "artist": "Folic State",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/19.%20Folic%20State%20-%20Shredder%20(Original%20Mix).aiff"
+  },
+  "projections": {
+    "title": "Projections",
+    "artist": "Falling Cows, Attila Manju",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/22.%20Falling%20Cows,%20Attila%20Manju%20-%20Projections.aiff"
+  },
+  "abecede": {
+    "title": "Abecede",
+    "artist": "Le Son Du Placard",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/11.%20Le%20Son%20Du%20Placard%20-%20Abecede.aiff"
+  },
+  "mosaic": {
+    "title": "Mosaic",
+    "artist": "Folic State",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/21.%20Folic%20State%20-%20Mosaic.aiff"
+  },
+  "insanity syndrome trilingo remix": {
+    "title": "Insanity Syndrome (Trilingo Remix)",
+    "artist": "Diamandy, OCB",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/02.%20Diamandy,%20OCB%20-%20Insanity%20Syndrome%20(Trilingo%20Remix).aiff"
+  },
+  "tenebres trilingo remix": {
+    "title": "Tenebres (Trilingo Remix)",
+    "artist": "Javiis",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/08.%20Javiis%20-%20Tenebres%20(Trilingo%20Remix).aiff"
+  },
+  "roll to roll original mix": {
+    "title": "Roll To Roll (Original Mix)",
+    "artist": "Sonic Jay",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/16.%20Sonic%20Jay%20-%20Roll%20To%20Roll%20(Original%20Mix).aiff"
+  },
+  "psyborg wars": {
+    "title": "Psyborg Wars",
+    "artist": "Sharmonic",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/15.%20Sharmonic%20-%20Psyborg%20Wars.aiff"
+  },
+  "mutants": {
+    "title": "Mutants",
+    "artist": "Carbon, Javiis",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/12.%20Carbon,%20Javiis%20-%20Mutants.aiff"
+  },
+  "let it go": {
+    "title": "Let It Go",
+    "artist": "Lamp\u00e9",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/01.%20Lamp%c3%a9%20-%20Let%20It%20Go.aiff"
+  },
+  "yodha original mix": {
+    "title": "Yodha (Original Mix)",
+    "artist": "Aji Mon Nair",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/18.%20Aji%20Mon%20Nair%20-%20Yodha%20(Original%20Mix).aiff"
+  },
+  "jaguar original mix": {
+    "title": "Jaguar (Original Mix)",
+    "artist": "Suspect One",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/03.%20Suspect%20One%20-%20Jaguar%20(Original%20Mix).aiff"
+  },
+  "my vision peku remix": {
+    "title": "My Vision (Peku Remix)",
+    "artist": "Konfusia",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/05.%20Konfusia%20-%20My%20Vision%20(Peku%20Remix).aiff"
+  },
+  "affenzirkus": {
+    "title": "Affenzirkus",
+    "artist": "Frech & Koch",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/23.%20Frech%20%26%20Koch%20-%20Affenzirkus.aiff"
+  },
+  "montreal madness": {
+    "title": "Montreal Madness",
+    "artist": "TiM TASTE, APHE",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/13.%20TiM%20TASTE,%20APHE%20-%20Montreal%20Madness.aiff"
+  },
+  "your visa has questions original mix": {
+    "title": "Your Visa Has Questions (Original Mix)",
+    "artist": "Breger",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/14.%20Breger%20-%20Your%20Visa%20Has%20Questions%20(Original%20Mix).aiff"
+  },
+  "nothing original mix": {
+    "title": "Nothing (Original Mix)",
+    "artist": "Momo Dobrev",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/20.%20Momo%20Dobrev%20-%20Nothing%20(Original%20Mix).aiff"
+  },
+  "ooh tshhh": {
+    "title": "Ooh Tshhh",
+    "artist": "Le Son Du Placard",
+    "bpm": "",
+    "key": "",
+    "genre": "Psy Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/psy%20tech%20minimal%20%5b/04.%20Le%20Son%20Du%20Placard%20-%20Ooh%20Tshhh.aiff"
+  },
+  "exit glitch extended mix": {
+    "title": "Exit Glitch (Extended Mix)",
+    "artist": "David Fritz",
+    "bpm": "",
+    "key": "",
+    "genre": "Rally House",
+    "file_path": "file://localhost/Users/suhaas/Music/Bandcamp%20DLs%20(2025)/David%20Fritz%20-%20Exit%20Glitch%20(Extended%20Mix).aiff"
+  },
+  "exit glitch radio edit": {
+    "title": "Exit Glitch (Radio Edit)",
+    "artist": "David Fritz",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro, Dance",
+    "file_path": "file://localhost/Users/suhaas/Music/DLz%20-%202025/Playlist/RallyHouse%20%5b362b112d-7a20-455c-9f56-cb4507a8f431%5d/26%20-%20David%20Fritz%20-%20Exit%20Glitch%20(Radio%20Edit).aiff"
+  },
+  "01 harrison bdp decompression": {
+    "title": "01 - Harrison BDP - Decompression",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/Aiffs/01%20-%20Harrison%20BDP%20-%20Decompression.aiff"
+  },
+  "laser disc": {
+    "title": "Laser Disc",
+    "artist": "SSSLIP, Sam Lester",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/%20%5bd235c964-961b-4e17-bd20-abecf0646c19%5d/01%20-%20SSSLIP%20-%20Laser%20Disc.mp3"
+  },
+  "romeo romeo": {
+    "title": "Romeo, Romeo",
+    "artist": "Ross From Friends",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/Aiffs/08%20-%20Ross%20from%20Friends%20-%20Romeo,%20Romeo.aiff"
+  },
+  "nuits sonores": {
+    "title": "Nuits Sonores",
+    "artist": "Floating Points",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/Aiffs/11%20-%20Floating%20Points%20-%20Nuits%20Sonores.aiff"
+  },
+  "make time": {
+    "title": "Make Time",
+    "artist": "Shanti Celeste",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/Aiffs/07%20-%20Shanti%20Celeste%20-%20Make%20Time.aiff"
+  },
+  "vacuum boogie": {
+    "title": "Vacuum Boogie",
+    "artist": "Floating Points",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/Aiffs/02%20-%20Floating%20Points%20-%20Vacuum%20Boogie.aiff"
+  },
+  "promise you": {
+    "title": "Promise You",
+    "artist": "Ben B\u00f6hmer",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/Rating%20Test/13%20-%20Ben%20B%c3%b6hmer%20-%20Promise%20You.aiff"
+  },
+  "opal four tet remix": {
+    "title": "Opal (Four Tet remix)",
+    "artist": "Bicep",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/Rating%20Test/30%20-%20Bicep%20-%20Opal%20(Four%20Tet%20Remix).aiff"
+  },
+  "hyper d": {
+    "title": "Hyper D",
+    "artist": "Insomniast",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Insomniast_Aiff/%20Ctrl%20%5b411485885%5d%20%5b2025%5d/01%20-%20Insomniast%20-%20Hyper%20D.aiff"
+  },
+  "schemes dreams": {
+    "title": "Schemes & Dreams",
+    "artist": "Mantra",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/MUSIC%20/Mantra/%20Schemes%20%26%20Dreams%20%5b382774924%5d%20%5b2024%5d/01%20-%20Mantra%20-%20Schemes%20%26%20Dreams.aiff"
+  },
+  "reshma": {
+    "title": "Reshma",
+    "artist": "Mantra",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/MUSIC%20/Mantra/%20Schemes%20%26%20Dreams%20%5b382774924%5d%20%5b2024%5d/02%20-%20Mantra%20-%20Reshma.aiff"
+  },
+  "book of nightmares": {
+    "title": "Book Of Nightmares",
+    "artist": "Mantra",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/MUSIC%20/Mantra/%20Schemes%20%26%20Dreams%20%5b382774924%5d%20%5b2024%5d/03%20-%20Mantra%20-%20Book%20Of%20Nightmares.aiff"
+  },
+  "walk of shame": {
+    "title": "WALK OF SHAME",
+    "artist": "Hyas, Pura Pura",
+    "bpm": "",
+    "key": "",
+    "genre": "Hypnotic",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Hyas%20-%20NO%20MORE%20AFTERPARTIES/3.%20Hyas,%20Pura%20Pura%20-%20WALK%20OF%20SHAME.aiff"
+  },
+  "meat queue": {
+    "title": "Meat Queue",
+    "artist": "Joe Koshin",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/ResisDance/converted_aiff/01%20-%20Joe%20Koshin%20-%20Meat%20Queue.aiff"
+  },
+  "underlying": {
+    "title": "Underlying",
+    "artist": "Traumer",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/ResisDance/converted_aiff/01%20-%20Traumer%20-%20Underlying.aiff"
+  },
+  "37 photonz emerald city almaty remix": {
+    "title": "37 - Photonz - Emerald City (Almaty Remix)",
+    "artist": "Photonz",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro, Acid",
+    "file_path": "file://localhost/Users/suhaas/Music/ResisDance/converted_aiff/37%20-%20Photonz%20-%20Emerald%20City%20(Almaty%20Remix).aiff"
+  },
+  "magic bells": {
+    "title": "Magic Bells",
+    "artist": "Tsepo",
+    "bpm": "",
+    "key": "",
+    "genre": "Breakbeat, House",
+    "file_path": "file://localhost/Users/suhaas/Music/ResisDance/converted_aiff/58%20-%20Tsepo%20-%20Magic%20Bells.aiff"
+  },
+  "purple haze": {
+    "title": "Purple Haze",
+    "artist": "Suki",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/ResisDance/converted_aiff/85%20-%20Suki%20-%20Purple%20Haze.aiff"
+  },
+  "riding zone": {
+    "title": "Riding Zone",
+    "artist": "DJ Psychiatre",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/Dj%20Psychaitre/DJ%20Psychiatre%20-%20Glad%20To%20Be%20Back%20(Aiff)%20copy/DJ%20Psychiatre%20-%20Glad%20To%20Be%20Back%20-%2002%20Riding%20Zone.aiff"
+  },
+  "each story": {
+    "title": "Each Story",
+    "artist": "Facta, K-LONE",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/Test/02%20-%20Facta%20-%20Each%20Story%20copy.aiff"
+  },
+  "o_o": {
+    "title": "(=o_o=)",
+    "artist": "Polygonia",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubby Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/DLz%20-%202025/Polygonia,%20Facta,%20K-LONE/%20(=o_o=)%20-%20Each%20Story%20%5b427499923%5d%20%5b2025%5d/01%20-%20Polygonia%20-%20(=o_o=).aiff"
+  },
+  "moths": {
+    "title": "Moths",
+    "artist": "Ila Brugal",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/DLz%20-%202025/Playlist/newHe%20%5b10e391bd-81f6-4ce0-acb9-d8d0bc9fd31f%5d/18%20-%20Ila%20Brugal%20-%20Moths.aiff"
+  },
+  "cut the chord": {
+    "title": "Cut the Chord",
+    "artist": "Insomniast",
+    "bpm": "",
+    "key": "",
+    "genre": "Electronic",
+    "file_path": "file://localhost/Users/suhaas/Music/DLz%20-%202025/Playlist/newHe%20%5b10e391bd-81f6-4ce0-acb9-d8d0bc9fd31f%5d/10%20-%20Insomniast%20-%20Cut%20The%20Chord.aiff"
+  },
+  "4 me": {
+    "title": "4 Me",
+    "artist": "Cameo Blush",
+    "bpm": "",
+    "key": "",
+    "genre": "2-Step",
+    "file_path": "file://localhost/Users/suhaas/Music/DLz%20-%202025/Playlist/newHe%20%5b10e391bd-81f6-4ce0-acb9-d8d0bc9fd31f%5d/11%20-%20Cameo%20Blush%20-%204%20Me.aiff"
+  },
+  "black spot": {
+    "title": "Black Spot",
+    "artist": "Jafu",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/DLz%20-%202025/Playlist/G3%20%5b73cf5d00-8140-4994-b992-f14a9a8d9d46%5d/10%20-%20Jafu%20-%20Black%20Spot.aiff"
+  },
+  "reflection extended mix": {
+    "title": "Reflection (Extended Mix)",
+    "artist": "AstroHertz",
+    "bpm": "",
+    "key": "",
+    "genre": "Rally House",
+    "file_path": "file://localhost/Users/suhaas/Music/Test/41%20-%20AstroHertz%20-%20Reflection%20(Extended%20Mix).aiff"
+  },
+  "bring the beat back": {
+    "title": "Bring The Beat Back",
+    "artist": "Ive Lovers",
+    "bpm": "",
+    "key": "",
+    "genre": "uk garage",
+    "file_path": "file://localhost/Users/suhaas/Music/DLz%20-%202025/Playlist/RallyHouse%20%5b362b112d-7a20-455c-9f56-cb4507a8f431%5d/04%20-%20Ive%20Lovers%20-%20Bring%20The%20Beat%20Back.aiff"
+  },
+  "listen": {
+    "title": "Listen",
+    "artist": "Half Dead Dave",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/DLz%20-%202025/Playlist/RallyHouse%20%5b362b112d-7a20-455c-9f56-cb4507a8f431%5d/06%20-%20Half%20Dead%20Dave%20-%20Listen.aiff"
+  },
+  "aida astrohertz remix": {
+    "title": "Aida (AstroHertz Remix)",
+    "artist": "Jay Dunham",
+    "bpm": "",
+    "key": "",
+    "genre": "Dance",
+    "file_path": "file://localhost/Users/suhaas/Music/DLz%20-%202025/Playlist/RallyHouse%20%5b362b112d-7a20-455c-9f56-cb4507a8f431%5d/09%20-%20Jay%20Dunham%20-%20Aida%20(AstroHertz%20Remix).aiff"
+  },
+  "kercha jazz symptoms": {
+    "title": "Kercha - Jazz Symptoms",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Test/Kercha%20-%20Jazz%20Symptoms.aiff"
+  },
+  "kercha hypho stimulate": {
+    "title": "Kercha; Hypho - Stimulate",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Test/Kercha;%20Hypho%20-%20Stimulate.aiff"
+  },
+  "distant": {
+    "title": "Distant",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "Bass / Club",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Retromigration%20-%20Can%e2%80%99t%20Go/3.%20Retromigration%20-%20Distant.aiff"
+  },
+  "security get the fuck out": {
+    "title": "Security (Get The Fuck Out)",
+    "artist": "Sweely",
+    "bpm": "",
+    "key": "",
+    "genre": "House / Breaks",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/Sweely%20-%20Security%20(Get%20The%20Fuck%20Out).aiff"
+  },
+  "pura pari": {
+    "title": "Pura Pari",
+    "artist": "Paurro",
+    "bpm": "",
+    "key": "",
+    "genre": "Breakbeat",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/25.%20Paurro%20-%20Pura%20Pari.aiff"
+  },
+  "incase": {
+    "title": "Incase",
+    "artist": "Loopdeville",
+    "bpm": "",
+    "key": "",
+    "genre": "Rominimal",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/23.%20Loopdeville%20-%20Incase.aiff"
+  },
+  "purple whirpool": {
+    "title": "Purple Whirpool",
+    "artist": "Sivey",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/18.%20Sivey%20-%20Purple%20Whirpool.aiff"
+  },
+  "wanna hold u": {
+    "title": "Wanna Hold U",
+    "artist": "Soundbwoy Killah",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/16.%20Soundbwoy%20Killah%20-%20Wanna%20Hold%20U.aiff"
+  },
+  "the best": {
+    "title": "The Best",
+    "artist": "FlowState",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/21.%20FlowState%20-%20The%20Best.aiff"
+  },
+  "the embrace": {
+    "title": "The Embrace",
+    "artist": "Kate Miller",
+    "bpm": "",
+    "key": "",
+    "genre": "Club",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/15.%20Kate%20Miller%20-%20The%20Embrace.aiff"
+  },
+  "battle": {
+    "title": "Battle",
+    "artist": "Wookie, Lain",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/14.%20Wookie,%20Lain%20-%20Battle.aiff"
+  },
+  "ce soir": {
+    "title": "Ce Soir",
+    "artist": "Papa Nugs, In2stellar",
+    "bpm": "",
+    "key": "",
+    "genre": "Prog Trance",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/08.%20Papa%20Nugs,%20In2stellar%20-%20Ce%20Soir.aiff"
+  },
+  "driptych": {
+    "title": "Driptych",
+    "artist": "Rhyw",
+    "bpm": "",
+    "key": "",
+    "genre": "Mutant Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/04.%20Rhyw%20-%20Driptych.aiff"
+  },
+  "rome": {
+    "title": "Rome",
+    "artist": "XL Regular",
+    "bpm": "",
+    "key": "",
+    "genre": "Bruk",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/03.%20XL%20Regular%20-%20Rome.aiff"
+  },
+  "valentine \u1bd3 rhyw remix": {
+    "title": "valentine \u1bd3\u2661 (Rhyw Remix)",
+    "artist": "Aleksandir",
+    "bpm": "",
+    "key": "",
+    "genre": "Mutant Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/06.%20Aleksandir%20-%20valentine%20%e1%af%93%e2%99%a1%20(Rhyw%20Remix).aiff"
+  },
+  "half fried": {
+    "title": "Half Fried",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/24.%20Retromigration%20-%20Half%20Fried.aiff"
+  },
+  "def not": {
+    "title": "Def Not",
+    "artist": "Techu",
+    "bpm": "",
+    "key": "",
+    "genre": "Rominimal",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/22.%20Techu%20-%20Def%20Not.aiff"
+  },
+  "ill be your max chapman remix": {
+    "title": "I'll Be Your (Max Chapman Remix)",
+    "artist": "Ruze",
+    "bpm": "",
+    "key": "",
+    "genre": "UK Garage",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/20.%20Ruze%20-%20I%27ll%20Be%20Your%20(Max%20Chapman%20Remix).aiff"
+  },
+  "time trip telephone": {
+    "title": "Time Trip Telephone",
+    "artist": "Mungo Sound Machine",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/19.%20Mungo%20Sound%20Machine%20-%20Time%20Trip%20Telephone.aiff"
+  },
+  "spectro air": {
+    "title": "Spectro Air",
+    "artist": "Chris Flannigan",
+    "bpm": "",
+    "key": "",
+    "genre": "Prog Trance",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/17.%20Chris%20Flannigan%20-%20Spectro%20Air.aiff"
+  },
+  "wrong mindset": {
+    "title": "Wrong Mindset",
+    "artist": "Jorge Caiado",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/13.%20Jorge%20Caiado%20-%20Wrong%20Mindset.aiff"
+  },
+  "new past": {
+    "title": "New Past",
+    "artist": "II Faces",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/12.%20II%20Faces%20-%20New%20Past.aiff"
+  },
+  "cotton club": {
+    "title": "Cotton Club",
+    "artist": "Hamo",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/10.%20Hamo%20-%20Cotton%20Club.aiff"
+  },
+  "body action": {
+    "title": "Body Action",
+    "artist": "Klaus Veen",
+    "bpm": "",
+    "key": "",
+    "genre": "UK Garage",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/11.%20Klaus%20Veen%20-%20Body%20Action.aiff"
+  },
+  "avance": {
+    "title": "Avance",
+    "artist": "DONGURIZU",
+    "bpm": "",
+    "key": "",
+    "genre": "Dembow",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/09.%20DONGURIZU%20-%20Avance.aiff"
+  },
+  "freedom": {
+    "title": "Freedom",
+    "artist": "Ell Murphy, DJ Crisps",
+    "bpm": "",
+    "key": "",
+    "genre": "2-Step",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/07.%20Ell%20Murphy,%20DJ%20Crisps%20-%20Freedom.aiff"
+  },
+  "friday night": {
+    "title": "Friday Night",
+    "artist": "FTRRLT",
+    "bpm": "",
+    "key": "",
+    "genre": "2-Step",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/05.%20FTRRLT%20-%20Friday%20Night.aiff"
+  },
+  "hustla": {
+    "title": "Hustla",
+    "artist": "Oldboy",
+    "bpm": "",
+    "key": "",
+    "genre": "UK Garage",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/02.%20Oldboy%20-%20Hustla.aiff"
+  },
+  "high past": {
+    "title": "High Past",
+    "artist": "Vitess",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/BoDy/01.%20Vitess%20-%20High%20Past.aiff"
+  },
+  "shuffle boogie": {
+    "title": "Shuffle Boogie",
+    "artist": "Alien Nosejob",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Alien%20Nosejob%20-%20Shuffle%20Boogie.aiff"
+  },
+  "saaf": {
+    "title": "Saaf",
+    "artist": "MALFNKTION",
+    "bpm": "",
+    "key": "",
+    "genre": "Club",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/MALFNKTION%20-%20Saaf.aiff"
+  },
+  "heart shaped moon": {
+    "title": "Heart Shaped Moon",
+    "artist": "9west",
+    "bpm": "",
+    "key": "",
+    "genre": "Rominimal",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/9west%20-%20Heart%20Shaped%20Moon.aiff"
+  },
+  "rodeo romeo": {
+    "title": "Rodeo Romeo",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH007/2.%20Jorg%20Kuning%20-%20Rodeo%20Romeo.aiff"
+  },
+  "quirl": {
+    "title": "Quirl",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH007/4.%20Jorg%20Kuning%20-%20Quirl.aiff"
+  },
+  "klarneto": {
+    "title": "Klarneto",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH007/1.%20Jorg%20Kuning%20-%20Klarneto.aiff"
+  },
+  "robotomy": {
+    "title": "Robotomy",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH007/3.%20Jorg%20Kuning%20-%20Robotomy.aiff"
+  },
+  "quixo": {
+    "title": "Quixo",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubby Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH003/2.%20Jorg%20Kuning%20-%20Quixo.aiff"
+  },
+  "spirals": {
+    "title": "Spirals",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubby Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH003/3.%20Jorg%20Kuning%20-%20Spirals.aiff"
+  },
+  "vera": {
+    "title": "Vera",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubby Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH003/1.%20Jorg%20Kuning%20-%20Vera.aiff"
+  },
+  "aevr": {
+    "title": "Aevr",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubby Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH003/4.%20Jorg%20Kuning%20-%20Aevr.aiff"
+  },
+  "dripgroove": {
+    "title": "Dripgroove",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH005/3.%20Jorg%20Kuning%20-%20Dripgroove.aiff"
+  },
+  "bodyscan": {
+    "title": "Bodyscan",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH005/4.%20Jorg%20Kuning%20-%20Bodyscan.aiff"
+  },
+  "simmons": {
+    "title": "Simmons",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH005/1.%20Jorg%20Kuning%20-%20Simmons.aiff"
+  },
+  "transplant": {
+    "title": "Transplant",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH005/2.%20Jorg%20Kuning%20-%20Transplant.aiff"
+  },
+  "algotherapy": {
+    "title": "Algotherapy",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH002/3.%20Jorg%20Kuning%20-%20Algotherapy.aiff"
+  },
+  "hibbert": {
+    "title": "Hibbert",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH002/1.%20Jorg%20Kuning%20-%20Hibbert.aiff"
+  },
+  "bumrush": {
+    "title": "Bumrush",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH002/4.%20Jorg%20Kuning%20-%20Bumrush.aiff"
+  },
+  "tunnels": {
+    "title": "Tunnels",
+    "artist": "Jorg Kuning",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Jorg%20Kuning/Jorg%20Kuning%20-%20BH002/2.%20Jorg%20Kuning%20-%20Tunnels.aiff"
+  },
+  "bad boy": {
+    "title": "Bad Boy",
+    "artist": "Marcel Dettmann, Ben Klock",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/HEADROOM%20Dec%2026%20-%202025/11.%20Marcel%20Dettmann,%20Ben%20Klock%20-%20Bad%20Boy.aiff"
+  },
+  "bancroft": {
+    "title": "Bancroft",
+    "artist": "Lemtom",
+    "bpm": "",
+    "key": "",
+    "genre": "Rally House",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/headroom%20-%2016Nov/21.%20Lemtom%20-%20Bancroft.aiff"
+  },
+  "everything broken mix": {
+    "title": "Everything (Broken Mix)",
+    "artist": "Nutown Soul, Sbongile",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/53%20-%20Nutown%20Soul%20-%20Everything%20(Broken%20Mix).flac"
+  },
+  "bless oliver night remix": {
+    "title": "Bless (Oliver Night Remix)",
+    "artist": "New Sector Movements",
+    "bpm": "",
+    "key": "",
+    "genre": "Bruk",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/41%20-%20New%20Sector%20Movements%20-%20Bless%20(Oliver%20Night%20Remix).flac"
+  },
+  "jahzzz": {
+    "title": "JAHZZZ",
+    "artist": "Tom Manzarek",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/15%20-%20Tom%20Manzarek%20-%20JAHZZZ.flac"
+  },
+  "astral sorcery": {
+    "title": "Astral Sorcery",
+    "artist": "Future Jazz Ensemble, XL Regular",
+    "bpm": "",
+    "key": "",
+    "genre": "Space Jazz",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/01%20-%20Future%20Jazz%20Ensemble%20-%20Astral%20Sorcery.flac"
+  },
+  "trouble n bass": {
+    "title": "Trouble n Bass",
+    "artist": "Sticky Dub",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/52%20-%20Sticky%20Dub%20-%20Trouble%20n%20Bass.flac"
+  },
+  "straight forward side steps": {
+    "title": "Straight Forward Side Steps",
+    "artist": "2000black",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/42%20-%202000black%20-%20Straight%20Forward%20Side%20Steps.flac"
+  },
+  "find a way evm128 remix": {
+    "title": "Find a Way (EVM128 Remix)",
+    "artist": "Finn Irregular, Rara Zulu",
+    "bpm": "",
+    "key": "",
+    "genre": "Bruk",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/30%20-%20Finn%20Irregular%20-%20Find%20a%20Way%20(EVM128%20Remix).flac"
+  },
+  "bring me": {
+    "title": "Bring Me",
+    "artist": "Fujimoto Tetsuro",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/56%20-%20Fujimoto%20Tetsuro%20-%20Bring%20Me.flac"
+  },
+  "blue wig stefan ringer remix": {
+    "title": "BLUE WIG (Stefan Ringer Remix)",
+    "artist": "Blaque Dynamite",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/57%20-%20Blaque%20Dynamite%20-%20BLUE%20WIG%20(Stefan%20Ringer%20Remix)(Explicit).flac"
+  },
+  "messy alex phountzi remix feat mighty moe": {
+    "title": "Messy (Alex Phountzi Remix) [feat. Mighty Moe]",
+    "artist": "Oliver Night, Bel Cobain",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/35%20-%20Oliver%20Night%20-%20Messy%20(Alex%20Phountzi%20Remix)%20%5bfeat.%20Mighty%20Moe%5d.flac"
+  },
+  "whats jazz": {
+    "title": "What\u00b4s Jazz",
+    "artist": "Divorce From New York",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/37%20-%20Divorce%20From%20New%20York%20-%20What%c2%b4s%20Jazz.flac"
+  },
+  "bridge city": {
+    "title": "BRIDGE CITY",
+    "artist": "Ben Hauke",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/09%20-%20Ben%20Hauke%20-%20BRIDGE%20CITY.flac"
+  },
+  "our distance": {
+    "title": "Our Distance",
+    "artist": "Crackazat",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/18%20-%20Crackazat%20-%20Our%20Distance.flac"
+  },
+  "innervision": {
+    "title": "INNERVISION",
+    "artist": "Deborah Jordan, K15",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/55%20-%20Deborah%20Jordan%20-%20INNERVISION.flac"
+  },
+  "a ghetto proposal vocal version": {
+    "title": "A Ghetto Proposal (Vocal Version)",
+    "artist": "Theo Parrish, Kitten Kuroi, John Douglas",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/54%20-%20Theo%20Parrish%20-%20A%20Ghetto%20Proposal%20(Vocal%20Version).flac"
+  },
+  "stand new sector bruk flex feat mike city": {
+    "title": "Stand (New Sector Bruk Flex) [feat. Mike City]",
+    "artist": "New Sector Movements",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/32%20-%20New%20Sector%20Movements%20-%20Stand%20(New%20Sector%20Bruk%20Flex)%20%5bfeat.%20Mike%20City%5d.flac"
+  },
+  "bounce lesson": {
+    "title": "Bounce Lesson",
+    "artist": "Stefan Ringer, Marquinn Mason",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/27%20-%20Stefan%20Ringer%20-%20Bounce%20Lesson.flac"
+  },
+  "easy": {
+    "title": "Easy",
+    "artist": "SofaTalk, XL Regular",
+    "bpm": "",
+    "key": "",
+    "genre": "Bruk",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/25%20-%20SofaTalk%20-%20Easy.flac"
+  },
+  "macarias funk": {
+    "title": "Macaria's Funk",
+    "artist": "Prince of Queens",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/50%20-%20Prince%20of%20Queens%20-%20Macaria%27s%20Funk.flac"
+  },
+  "in me drum": {
+    "title": "In Me Drum",
+    "artist": "Sticky Dub",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/12%20-%20Sticky%20Dub%20-%20In%20Me%20Drum.flac"
+  },
+  "asalato riddim": {
+    "title": "Asalato Riddim",
+    "artist": "Bruk Rogers",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/44%20-%20Bruk%20Rogers%20-%20Asalato%20Riddim.flac"
+  },
+  "soul takes flight feat oliver night": {
+    "title": "Soul Takes Flight feat. Oliver Night",
+    "artist": "Edseven",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/51%20-%20Edseven%20-%20Soul%20Takes%20Flight%20feat.%20Oliver%20Night.flac"
+  },
+  "take my time": {
+    "title": "Take My Time",
+    "artist": "Gil sm, Hilts, Nina Hudson",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/08%20-%20Gil%20sm%20-%20Take%20My%20Time.flac"
+  },
+  "latency bakey remix": {
+    "title": "Latency (BAKEY Remix)",
+    "artist": "corto.alto",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/23%20-%20corto.alto%20-%20Latency%20(BAKEY%20Remix).flac"
+  },
+  "7am": {
+    "title": "7am",
+    "artist": "Reek0",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/05%20-%20Reek0%20-%207am(Explicit).flac"
+  },
+  "duba": {
+    "title": "DUBA",
+    "artist": "Tom Manzarek",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/49%20-%20Tom%20Manzarek%20-%20DUBA.flac"
+  },
+  "styrax 2step remix": {
+    "title": "Styrax (2-Step Remix)",
+    "artist": "Envee",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/39%20-%20Envee%20-%20Styrax%20(2-Step%20Remix).flac"
+  },
+  "i surrender zed bias remix": {
+    "title": "I surrender (Zed Bias Remix)",
+    "artist": "Terri Walker, Tyler Daley",
+    "bpm": "",
+    "key": "",
+    "genre": "Autonomic",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/31%20-%20Terri%20Walker%20-%20I%20surrender%20(Zed%20Bias%20Remix).flac"
+  },
+  "trample the beast": {
+    "title": "Trample the Beast",
+    "artist": "Sticky Dub",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/11%20-%20Sticky%20Dub%20-%20Trample%20the%20Beast.flac"
+  },
+  "shook up": {
+    "title": "Shook Up",
+    "artist": "KV5, Kaidi Tatham",
+    "bpm": "",
+    "key": "",
+    "genre": "Space Jazz",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/47%20-%20KV5%20-%20Shook%20Up.flac"
+  },
+  "im not the one zed bias remix": {
+    "title": "I'm not the one (Zed Bias Remix)",
+    "artist": "Terri Walker",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/21%20-%20Terri%20Walker%20-%20I%27m%20not%20the%20one%20(Zed%20Bias%20Remix).flac"
+  },
+  "playtimes": {
+    "title": "Playtimes",
+    "artist": "T.Williams",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/16%20-%20T.Williams%20-%20Playtimes.flac"
+  },
+  "let go feat alex phountzi": {
+    "title": "Let Go (feat. Alex Phountzi)",
+    "artist": "Risa T",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/40%20-%20Risa%20T%20-%20Let%20Go%20(feat.%20Alex%20Phountzi).flac"
+  },
+  "blame game donsurf remix": {
+    "title": "Blame Game (Donsurf Remix)",
+    "artist": "Oliver Night, Bel Cobain",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/24%20-%20Oliver%20Night%20-%20Blame%20Game%20(Donsurf%20Remix).flac"
+  },
+  "ya nah gonna got it": {
+    "title": "Ya Nah Gonna Got It",
+    "artist": "Domu, K15",
+    "bpm": "",
+    "key": "",
+    "genre": "Bruk",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/26%20-%20Domu%20-%20Ya%20Nah%20Gonna%20Got%20It.flac"
+  },
+  "bonez": {
+    "title": "Bonez",
+    "artist": "K-LONE",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/38%20-%20K-LONE%20-%20Bonez.flac"
+  },
+  "soul n mind main brokenstep mix": {
+    "title": "soul n mind (main brokenstep mix)",
+    "artist": "Groove Chronicles (Noodles), Dubchild",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/17%20-%20Groove%20Chronicles%20(Noodles)%20-%20soul%20n%20mind%20(main%20brokenstep%20mix).flac"
+  },
+  "tiagos joint": {
+    "title": "Tiago's Joint",
+    "artist": "XL Regular",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/02%20-%20XL%20Regular%20-%20Tiago%27s%20Joint.flac"
+  },
+  "oscillate \u00e0b\u00e1se remix": {
+    "title": "Oscillate (\u00c0b\u00e1se Remix)",
+    "artist": "Alexander Flood, \u00c0b\u00e1se",
+    "bpm": "",
+    "key": "",
+    "genre": "Bruk",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/45%20-%20Alexander%20Flood%20-%20Oscillate%20(%c3%80b%c3%a1se%20Remix).flac"
+  },
+  "like i do": {
+    "title": "Like I Do",
+    "artist": "Gil sm, S.I, Nina Hudson",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/10%20-%20Gil%20sm%20-%20Like%20I%20Do.flac"
+  },
+  "badman dub": {
+    "title": "Badman Dub",
+    "artist": "L-Vis 1990",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/36%20-%20L-Vis%201990%20-%20Badman%20Dub.flac"
+  },
+  "night bus donsurfs broke mix": {
+    "title": "Night Bus (Donsurf's Broke Mix)",
+    "artist": "Felixcw, Donsurf",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/19%20-%20Felixcw%20-%20Night%20Bus%20(Donsurf%27s%20Broke%20Mix).flac"
+  },
+  "had a loose tempa": {
+    "title": "Had A Loose Tempa",
+    "artist": "Reek0, Bella Barbe",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/04%20-%20Reek0%20-%20Had%20A%20Loose%20Tempa(Explicit).flac"
+  },
+  "gabos feat thamson p": {
+    "title": "G.A.B.O.S (feat. Thamson P)",
+    "artist": "Kgomotso and Horatio Luna",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/29%20-%20Kgomotso%20and%20Horatio%20Luna%20-%20G.A.B.O.S%20(feat.%20Thamson%20P).flac"
+  },
+  "things i would do": {
+    "title": "Things I Would Do",
+    "artist": "Jared Jackson",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/20%20-%20Jared%20Jackson%20-%20Things%20I%20Would%20Do.flac"
+  },
+  "blame it on you feat final cutt collective": {
+    "title": "Blame It on You (feat. Final Cutt Collective)",
+    "artist": "Phonetix",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/46%20-%20Phonetix%20-%20Blame%20It%20on%20You%20(feat.%20Final%20Cutt%20Collective).flac"
+  },
+  "russell square": {
+    "title": "Russell Square",
+    "artist": "Divorce From New York, Piek",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/28%20-%20Divorce%20From%20New%20York%20-%20Russell%20Square.flac"
+  },
+  "lalela alex phountzi remix": {
+    "title": "Lalela (Alex Phountzi Remix)",
+    "artist": "Bruk Rogers, Asap Shembe",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/33%20-%20Bruk%20Rogers%20-%20Lalela%20(Alex%20Phountzi%20Remix).flac"
+  },
+  "02 xl regular tiagos joint": {
+    "title": "02 - XL Regular - Tiago's Joint",
+    "artist": "XL Regular",
+    "bpm": "",
+    "key": "",
+    "genre": "Bruk",
+    "file_path": "file://localhost/Users/suhaas/Music/M2-Music_Aiff/Jazz-y%20Brukers%20%5b3e892665-a311-4f80-bfc8-8e7d0b1a2b5c%5d_Aiff/02%20-%20XL%20Regular%20-%20Tiago%27s%20Joint.aiff"
+  },
+  "hypocritz": {
+    "title": "Hypocritz",
+    "artist": "BLUMITSU",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/Playlist/NewMoonDance%20%5bda89ea37-8131-4392-b4ce-e92d0e506b45%5d/107%20-%20BLUMITSU%20-%20Hypocritz.mp3"
+  },
+  "lost in the new": {
+    "title": "Lost In The New",
+    "artist": "DJ Psychiatre",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/Dj%20Psychaitre/DJ%20Psychiatre%20-%20Glad%20To%20Be%20Back%20(Aiff)%20copy/DJ%20Psychiatre%20-%20Glad%20To%20Be%20Back%20-%2001%20Lost%20In%20The%20New.aiff"
+  },
+  "01 sir hiss sam binga jakes wicked set": {
+    "title": "01 - Sir Hiss, Sam Binga, Jakes - Wicked Set",
+    "artist": "Sir Hiss;Sam Binga;Jakes",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/Test/01%20-%20Sir%20Hiss,%20Sam%20Binga,%20Jakes%20-%20Wicked%20Set.aiff"
+  },
+  "chi boost": {
+    "title": "Chi Boost",
+    "artist": "Zenker Brothers",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/Test/Zenker%20Brothers%20-%20Mad%20System/2.%20Zenker%20Brothers%20-%20Chi%20Boost.aiff"
+  },
+  "shaketown": {
+    "title": "Shaketown",
+    "artist": "Zenker Brothers",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/Test/Zenker%20Brothers%20-%20Mad%20System/1.%20Zenker%20Brothers%20-%20Shaketown.aiff"
+  },
+  "outside": {
+    "title": "Outside",
+    "artist": "Zenker Brothers",
+    "bpm": "",
+    "key": "",
+    "genre": "Ambient",
+    "file_path": "file://localhost/Users/suhaas/Music/Test/Zenker%20Brothers%20-%20Mad%20System/4.%20Zenker%20Brothers%20-%20Outside.aiff"
+  },
+  "bengel mode": {
+    "title": "Bengel Mode",
+    "artist": "Zenker Brothers",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/Test/Zenker%20Brothers%20-%20Mad%20System/3.%20Zenker%20Brothers%20-%20Bengel%20Mode.aiff"
+  },
+  "illegalized dub": {
+    "title": "Illegalized Dub",
+    "artist": "Stones Taro",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Stones%20Taro%20-%20Foglore#1/1.%20Stones%20Taro%20-%20Illegalized%20Dub.aiff"
+  },
+  "twist thumb": {
+    "title": "Twist Thumb",
+    "artist": "Stones Taro",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubwise",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Stones%20Taro%20-%20Foglore#1/4.%20Stones%20Taro%20-%20Twist%20Thumb.aiff"
+  },
+  "obscured breath": {
+    "title": "Obscured Breath",
+    "artist": "Stones Taro",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubby",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Stones%20Taro%20-%20Foglore#1/3.%20Stones%20Taro%20-%20Obscured%20Breath.aiff"
+  },
+  "new mineral": {
+    "title": "New Mineral",
+    "artist": "Stones Taro",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Stones%20Taro%20-%20Foglore#1/2.%20Stones%20Taro%20-%20New%20Mineral.aiff"
+  },
+  "nice up": {
+    "title": "Nice Up",
+    "artist": "Sub Basics",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubwise",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Sub%20Basics%20-%20Never%20Too%20Late/08.%20Sub%20Basics%20-%20Nice%20Up.aiff"
+  },
+  "half full": {
+    "title": "Half Full",
+    "artist": "Sub Basics",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubwise",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Sub%20Basics%20-%20Never%20Too%20Late/11.%20Sub%20Basics%20-%20Half%20Full.aiff"
+  },
+  "theory": {
+    "title": "Theory",
+    "artist": "Sub Basics",
+    "bpm": "",
+    "key": "",
+    "genre": "Autonomic",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Sub%20Basics%20-%20Never%20Too%20Late/04.%20Sub%20Basics%20-%20Theory.aiff"
+  },
+  "corners": {
+    "title": "Corners",
+    "artist": "Sub Basics",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Sub%20Basics%20-%20Never%20Too%20Late/06.%20Sub%20Basics%20-%20Corners.aiff"
+  },
+  "there and gone": {
+    "title": "There and Gone",
+    "artist": "Sub Basics, Geode",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Sub%20Basics%20-%20Never%20Too%20Late/07.%20Sub%20Basics,%20Geode%20-%20There%20and%20Gone.aiff"
+  },
+  "passenger": {
+    "title": "Passenger",
+    "artist": "Sub Basics",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubwise",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Sub%20Basics%20-%20Never%20Too%20Late/03.%20Sub%20Basics%20-%20Passenger.aiff"
+  },
+  "insight": {
+    "title": "Insight",
+    "artist": "Sub Basics",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubwise",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Sub%20Basics%20-%20Never%20Too%20Late/13.%20Sub%20Basics%20-%20Insight.aiff"
+  },
+  "stereogram": {
+    "title": "Stereogram",
+    "artist": "Sub Basics",
+    "bpm": "",
+    "key": "",
+    "genre": "Autonomic",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Sub%20Basics%20-%20Never%20Too%20Late/12.%20Sub%20Basics%20-%20Stereogram.aiff"
+  },
+  "nevermind": {
+    "title": "Nevermind",
+    "artist": "Sub Basics",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubwise",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Sub%20Basics%20-%20Never%20Too%20Late/02.%20Sub%20Basics%20-%20Nevermind.aiff"
+  },
+  "later": {
+    "title": "Later",
+    "artist": "Sub Basics, Dr Dr",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Sub%20Basics%20-%20Never%20Too%20Late/01.%20Sub%20Basics,%20Dr%20Dr%20-%20Later.aiff"
+  },
+  "one step": {
+    "title": "One Step",
+    "artist": "Sub Basics",
+    "bpm": "",
+    "key": "",
+    "genre": "Autonomic",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Sub%20Basics%20-%20Never%20Too%20Late/05.%20Sub%20Basics%20-%20One%20Step.aiff"
+  },
+  "helix": {
+    "title": "Helix",
+    "artist": "Sub Basics",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Sub%20Basics%20-%20Never%20Too%20Late/10.%20Sub%20Basics%20-%20Helix.aiff"
+  },
+  "fluro biotica": {
+    "title": "Fluro Biotica",
+    "artist": "Sub Basics, Headland",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Sub%20Basics%20-%20Never%20Too%20Late/09.%20Sub%20Basics,%20Headland%20-%20Fluro%20Biotica.aiff"
+  },
+  "feelings of the future": {
+    "title": "Feelings Of The Future",
+    "artist": "sweater",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/sweater%20-%20Sweat.exe/2.%20sweater%20-%20Feelings%20Of%20The%20Future.aiff"
+  },
+  "serious music la chinesca mix": {
+    "title": "Serious Music (La Chinesca Mix)",
+    "artist": "sweater",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/sweater%20-%20Sweat.exe/1.%20sweater%20-%20Serious%20Music%20(La%20Chinesca%20Mix).aiff"
+  },
+  "power plant": {
+    "title": "Power Plant",
+    "artist": "sweater",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/sweater%20-%20Sweat.exe/4.%20sweater%20-%20Power%20Plant.aiff"
+  },
+  "move that body": {
+    "title": "Move That Body",
+    "artist": "sweater",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/sweater%20-%20Sweat.exe/3.%20sweater%20-%20Move%20That%20Body.aiff"
+  },
+  "dx heaven": {
+    "title": "DX Heaven",
+    "artist": "sweater, Dj Dre",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/sweater%20-%20Sweat.exe/5.%20sweater,%20Dj%20Dre%20-%20DX%20Heaven.aiff"
+  },
+  "pushing my buttons": {
+    "title": "Pushing My Buttons",
+    "artist": "Andre Zimmer",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Andre%20Zimmer%20-%20Swamp%20Circuit%20EP/1.%20Andre%20Zimmer%20-%20Pushing%20My%20Buttons.aiff"
+  },
+  "swamp circuit": {
+    "title": "Swamp Circuit",
+    "artist": "Andre Zimmer",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Andre%20Zimmer%20-%20Swamp%20Circuit%20EP/2.%20Andre%20Zimmer%20-%20Swamp%20Circuit.aiff"
+  },
+  "flashing red": {
+    "title": "Flashing Red",
+    "artist": "Andre Zimmer",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Andre%20Zimmer%20-%20Swamp%20Circuit%20EP/3.%20Andre%20Zimmer%20-%20Flashing%20Red.aiff"
+  },
+  "all i do": {
+    "title": "All I Do",
+    "artist": "Retromigration, Mauricesax",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Retromigration%20-%20Straight%20Foxin%27%20LP/05.%20Retromigration,%20Mauricesax%20-%20All%20I%20Do.aiff"
+  },
+  "mild fever": {
+    "title": "Mild Fever",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "Jungle",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Retromigration%20-%20Straight%20Foxin%27%20LP/12.%20Retromigration%20-%20Mild%20Fever.aiff"
+  },
+  "new cribs": {
+    "title": "New Cribs",
+    "artist": "Retromigration, Mauricesax, Bezzix",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Retromigration%20-%20Straight%20Foxin%27%20LP/07.%20Retromigration,%20Mauricesax,%20Bezzix%20-%20New%20Cribs.aiff"
+  },
+  "what if": {
+    "title": "What If",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "Footwork",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Retromigration%20-%20Straight%20Foxin%27%20LP/11.%20Retromigration%20-%20What%20If.aiff"
+  },
+  "formant": {
+    "title": "Formant",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Retromigration%20-%20Straight%20Foxin%27%20LP/02.%20Retromigration%20-%20Formant.aiff"
+  },
+  "nima": {
+    "title": "Nima",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Retromigration%20-%20Straight%20Foxin%27%20LP/14.%20Retromigration%20-%20Nima.aiff"
+  },
+  "bouncer": {
+    "title": "Bouncer",
+    "artist": "Retromigration, Mauricesax",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Retromigration%20-%20Straight%20Foxin%27%20LP/06.%20Retromigration,%20Mauricesax%20-%20Bouncer.aiff"
+  },
+  "kush love": {
+    "title": "Kush Love",
+    "artist": "Retromigration, Passion Deez",
+    "bpm": "",
+    "key": "",
+    "genre": "Footwork",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Retromigration%20-%20Straight%20Foxin%27%20LP/10.%20Retromigration,%20Passion%20Deez%20-%20Kush%20Love.aiff"
+  },
+  "mada": {
+    "title": "Mada",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Retromigration%20-%20Straight%20Foxin%27%20LP/04.%20Retromigration%20-%20Mada.aiff"
+  },
+  "jilter": {
+    "title": "Jilter",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Retromigration%20-%20Straight%20Foxin%27%20LP/09.%20Retromigration%20-%20Jilter.aiff"
+  },
+  "bad knees": {
+    "title": "Bad Knees",
+    "artist": "Retromigration, Nephews",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Retromigration%20-%20Straight%20Foxin%27%20LP/13.%20Retromigration,%20Nephews%20-%20Bad%20Knees.aiff"
+  },
+  "kunta": {
+    "title": "Kunta",
+    "artist": "Retromigration, Mauricesax",
+    "bpm": "",
+    "key": "",
+    "genre": "Downtempo",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Retromigration%20-%20Straight%20Foxin%27%20LP/01.%20Retromigration,%20Mauricesax%20-%20Kunta.aiff"
+  },
+  "be someone": {
+    "title": "Be Someone",
+    "artist": "Retromigration, Bezzix, Mauricesax",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Retromigration%20-%20Straight%20Foxin%27%20LP/03.%20Retromigration,%20Bezzix,%20Mauricesax%20-%20Be%20Someone.aiff"
+  },
+  "itw": {
+    "title": "ITW",
+    "artist": "Retromigration, Mauricesax",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Retromigration%20-%20Straight%20Foxin%27%20LP/08.%20Retromigration,%20Mauricesax%20-%20ITW.aiff"
+  },
+  "broken news": {
+    "title": "Broken News",
+    "artist": "Andre Zimmer",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Andre%20Zimmer%20-%20Swamp%20Circuit%20EP/4.%20Andre%20Zimmer%20-%20Broken%20News.aiff"
+  },
+  "playskool rave": {
+    "title": "Playskool Rave",
+    "artist": "Will Silver",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Will%20Silver%20-%20Voyage%20EP/5.%20Will%20Silver%20-%20Playskool%20Rave.aiff"
+  },
+  "in orbit": {
+    "title": "In Orbit",
+    "artist": "Will Silver",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Will%20Silver%20-%20Voyage%20EP/1.%20Will%20Silver%20-%20In%20Orbit.aiff"
+  },
+  "wonky sandals": {
+    "title": "Wonky Sandals",
+    "artist": "Will Silver",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Will%20Silver%20-%20Voyage%20EP/6.%20Will%20Silver%20-%20Wonky%20Sandals.aiff"
+  },
+  "youthful dub": {
+    "title": "Youthful Dub",
+    "artist": "Will Silver",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Will%20Silver%20-%20Voyage%20EP/3.%20Will%20Silver%20-%20Youthful%20Dub.aiff"
+  },
+  "show me your colours": {
+    "title": "Show Me Your Colours",
+    "artist": "Will Silver",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Will%20Silver%20-%20Voyage%20EP/4.%20Will%20Silver%20-%20Show%20Me%20Your%20Colours.aiff"
+  },
+  "falling theme": {
+    "title": "Falling Theme",
+    "artist": "Will Silver",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Will%20Silver%20-%20Voyage%20EP/2.%20Will%20Silver%20-%20Falling%20Theme.aiff"
+  },
+  "no time for treading lightly": {
+    "title": "No Time for Treading Lightly",
+    "artist": "Bits & Pieces",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Bits%20%26%20Pieces%20-%20The%20Isolation%20EP/4.%20Bits%20%26%20Pieces%20-%20No%20Time%20for%20Treading%20Lightly.aiff"
+  },
+  "unbridled ambition": {
+    "title": "Unbridled Ambition",
+    "artist": "Bits & Pieces",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Bits%20%26%20Pieces%20-%20The%20Isolation%20EP/2.%20Bits%20%26%20Pieces%20-%20Unbridled%20Ambition.aiff"
+  },
+  "reclaiming what was ours": {
+    "title": "Reclaiming What Was Ours",
+    "artist": "Bits & Pieces",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Bits%20%26%20Pieces%20-%20The%20Isolation%20EP/3.%20Bits%20%26%20Pieces%20-%20Reclaiming%20What%20Was%20Ours.aiff"
+  },
+  "the longawaited return": {
+    "title": "The Long-Awaited Return",
+    "artist": "Bits & Pieces",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Bits%20%26%20Pieces%20-%20The%20Isolation%20EP/1.%20Bits%20%26%20Pieces%20-%20The%20Long-Awaited%20Return.aiff"
+  },
+  "6am cycles": {
+    "title": "6am Cycles",
+    "artist": "Yas Reven",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Yas%20Reven%20-%20Pulse%20Cycles/4.%20Yas%20Reven%20-%206am%20Cycles.aiff"
+  },
+  "6am cycles dj babatr remix": {
+    "title": "6am Cycles (Dj Babatr Remix)",
+    "artist": "Yas Reven",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Yas%20Reven%20-%20Pulse%20Cycles/5.%20Yas%20Reven%20-%206am%20Cycles%20(Dj%20Babatr%20Remix).aiff"
+  },
+  "2am cycles": {
+    "title": "2am Cycles",
+    "artist": "Yas Reven",
+    "bpm": "",
+    "key": "",
+    "genre": "Dembow",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Yas%20Reven%20-%20Pulse%20Cycles/1.%20Yas%20Reven%20-%202am%20Cycles.aiff"
+  },
+  "4am cycles doctor jeep remix": {
+    "title": "4am Cycles (Doctor Jeep Remix)",
+    "artist": "Yas Reven",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Yas%20Reven%20-%20Pulse%20Cycles/3.%20Yas%20Reven%20-%204am%20Cycles%20(Doctor%20Jeep%20Remix).aiff"
+  },
+  "4am cycles": {
+    "title": "4am Cycles",
+    "artist": "Yas Reven",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Yas%20Reven%20-%20Pulse%20Cycles/2.%20Yas%20Reven%20-%204am%20Cycles.aiff"
+  },
+  "ipa ma": {
+    "title": "Ipa Ma",
+    "artist": "Baalti, Lapgan",
+    "bpm": "",
+    "key": "",
+    "genre": "Baalti",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Baalti%20-%20Ipa%20Ma/1.%20Baalti,%20Lapgan%20-%20Ipa%20Ma.aiff"
+  },
+  "lime tikka": {
+    "title": "Lime Tikka",
+    "artist": "Baalti, Lapgan",
+    "bpm": "",
+    "key": "",
+    "genre": "Baalti",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Baalti%20-%20Ipa%20Ma/2.%20Baalti,%20Lapgan%20-%20Lime%20Tikka.aiff"
+  },
+  "marigold": {
+    "title": "Marigold",
+    "artist": "Pugilist",
+    "bpm": "",
+    "key": "",
+    "genre": "Jungle",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Pugilist%20-%20Maternal/4.%20Pugilist%20-%20Marigold.aiff"
+  },
+  "maternal": {
+    "title": "Maternal",
+    "artist": "Pugilist",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Pugilist%20-%20Maternal/1.%20Pugilist%20-%20Maternal.aiff"
+  },
+  "anomaly": {
+    "title": "Anomaly",
+    "artist": "Pugilist",
+    "bpm": "",
+    "key": "",
+    "genre": "2-Step",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Pugilist%20-%20Maternal/3.%20Pugilist%20-%20Anomaly.aiff"
+  },
+  "bona fide": {
+    "title": "Bona Fide",
+    "artist": "Pugilist, Mystic State",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/Pugilist%20-%20Maternal/2.%20Pugilist,%20Mystic%20State%20-%20Bona%20Fide.aiff"
+  },
+  "love or lust": {
+    "title": "Love Or Lust",
+    "artist": "D'Monk",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/D%27Monk%20-%20Love%20Or%20Lust/1.%20D%27Monk%20-%20Love%20Or%20Lust.aiff"
+  },
+  "love or lust raw mix": {
+    "title": "Love Or Lust (Raw Mix)",
+    "artist": "D'Monk",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/March%202026%20DLs/D%27Monk%20-%20Love%20Or%20Lust/2.%20D%27Monk%20-%20Love%20Or%20Lust%20(Raw%20Mix).aiff"
+  },
+  "things we do": {
+    "title": "Things We Do",
+    "artist": "DJ Psychiatre",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/Dj%20Psychaitre/DJ%20Psychiatre%20-%20Glad%20To%20Be%20Back%20(Aiff)%20copy/DJ%20Psychiatre%20-%20Glad%20To%20Be%20Back%20-%2004%20Things%20We%20Do.aiff"
+  },
+  "ikat": {
+    "title": "Ikat",
+    "artist": "Amotik",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/45%20-%20Amotik%20-%20Ikat.mp3"
+  },
+  "we are the droids": {
+    "title": "We Are the Droids",
+    "artist": "The Droid",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/24%20-%20The%20Droid%20-%20We%20Are%20the%20Droids.mp3"
+  },
+  "vasuki": {
+    "title": "Vasuki",
+    "artist": "Decoder",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/06%20-%20Decoder%20-%20Vasuki.mp3"
+  },
+  "clean interference patterns": {
+    "title": "Clean Interference Patterns",
+    "artist": "Audio Units",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/05%20-%20Audio%20Units%20-%20Clean%20Interference%20Patterns.mp3"
+  },
+  "quit startin": {
+    "title": "Quit Startin'",
+    "artist": "Mr. Ho",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/04%20-%20Mr.%20Ho%20-%20Quit%20Startin%27.mp3"
+  },
+  "flooressence": {
+    "title": "Flooressence",
+    "artist": "SUMORAI, AVIVX",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/03%20-%20SUMORAI%20-%20Flooressence.mp3"
+  },
+  "temple tone": {
+    "title": "Temple Tone",
+    "artist": "Fader Cap",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/02%20-%20Fader%20Cap%20-%20Temple%20Tone.mp3"
+  },
+  "vegetarian at the bbq": {
+    "title": "Vegetarian At The BBQ",
+    "artist": "No Moon",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/01%20-%20No%20Moon%20-%20Vegetarian%20At%20The%20BBQ.mp3"
+  },
+  "lets float": {
+    "title": "Let's Float",
+    "artist": "DJ Dylan",
+    "bpm": "",
+    "key": "",
+    "genre": "Breakbeat",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/10%20-%20DJ%20Dylan%20-%20Let%27s%20Float.mp3"
+  },
+  "psyche of a raver": {
+    "title": "Psyche of A Raver",
+    "artist": "Denham Audio",
+    "bpm": "",
+    "key": "",
+    "genre": "Breakbeat",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/09%20-%20Denham%20Audio%20-%20Psyche%20of%20A%20Raver.mp3"
+  },
+  "merge": {
+    "title": "Merge",
+    "artist": "The Droid",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/07%20-%20The%20Droid%20-%20Merge.mp3"
+  },
+  "u trippin": {
+    "title": "U Trippin",
+    "artist": "Haider",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/08%20-%20Haider%20-%20U%20Trippin.mp3"
+  },
+  "space ghetto": {
+    "title": "Space Ghetto",
+    "artist": "Skream",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/14%20-%20Skream%20-%20Space%20Ghetto(Explicit).mp3"
+  },
+  "pianoman": {
+    "title": "Pianoman",
+    "artist": "Tony G",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/13%20-%20Tony%20G%20-%20Pianoman.mp3"
+  },
+  "moon gz": {
+    "title": "Moon GZ",
+    "artist": "Loop LF",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/12%20-%20Loop%20LF%20-%20Moon%20GZ.mp3"
+  },
+  "zoner zoned mix": {
+    "title": "Zoner (Zoned Mix)",
+    "artist": "Big Ever",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/11%20-%20Big%20Ever%20-%20Zoner%20(Zoned%20Mix).mp3"
+  },
+  "band of acid": {
+    "title": "Band of Acid",
+    "artist": "Matrefakt",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/17%20-%20Matrefakt%20-%20Band%20of%20Acid.mp3"
+  },
+  "african nightmare": {
+    "title": "African Nightmare",
+    "artist": "Jaymie Silk",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/20%20-%20Jaymie%20Silk%20-%20African%20Nightmare.mp3"
+  },
+  "cyberpunk": {
+    "title": "CyberPunk",
+    "artist": "Jaymie Silk",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/19%20-%20Jaymie%20Silk%20-%20CyberPunk.mp3"
+  },
+  "ticket to chicago": {
+    "title": "Ticket To Chicago",
+    "artist": "Rhode, brown",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/18%20-%20Rhode%20-%20Ticket%20To%20Chicago.mp3"
+  },
+  "data writer": {
+    "title": "Data Writer",
+    "artist": "Aloka",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/16%20-%20Aloka%20-%20Data%20Writer.mp3"
+  },
+  "f4yr": {
+    "title": "F4yr",
+    "artist": "Jaymie Silk",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/22%20-%20Jaymie%20Silk%20-%20F4yr.mp3"
+  },
+  "need i say more": {
+    "title": "Need I Say More?",
+    "artist": "Francois Dillinger",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/30%20-%20Francois%20Dillinger%20-%20Need%20I%20Say%20More-.mp3"
+  },
+  "spinning": {
+    "title": "Spinning",
+    "artist": "Isolated Material",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/29%20-%20Isolated%20Material%20-%20Spinning.mp3"
+  },
+  "t800": {
+    "title": "T-800",
+    "artist": "Obzerv",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/27%20-%20Obzerv%20-%20T-800.mp3"
+  },
+  "kuiper belt escape": {
+    "title": "Kuiper Belt Escape",
+    "artist": "Obzerv",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/26%20-%20Obzerv%20-%20Kuiper%20Belt%20Escape.mp3"
+  },
+  "subtraction": {
+    "title": "Subtraction",
+    "artist": "False Persona",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/25%20-%20False%20Persona%20-%20Subtraction.mp3"
+  },
+  "room and pillar": {
+    "title": "Room and Pillar",
+    "artist": "Lloyd Stellar, The Droid",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/23%20-%20Lloyd%20Stellar%20-%20Room%20and%20Pillar.mp3"
+  },
+  "bad b": {
+    "title": "Bad B",
+    "artist": "Jaymie Silk",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/21%20-%20Jaymie%20Silk%20-%20Bad%20B.mp3"
+  },
+  "geheimabsprache": {
+    "title": "Geheimabsprache",
+    "artist": "Das Muster",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/28%20-%20Das%20Muster%20-%20Geheimabsprache.mp3"
+  },
+  "dimpler": {
+    "title": "Dimpler",
+    "artist": "Shawn Cartier",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/33%20-%20Shawn%20Cartier%20-%20Dimpler(Explicit).mp3"
+  },
+  "alien transmission": {
+    "title": "Alien Transmission",
+    "artist": "Volruptus",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/31%20-%20Volruptus%20-%20Alien%20Transmission.mp3"
+  },
+  "mouth lawson": {
+    "title": "Mouth Lawson",
+    "artist": "Ben Pest",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/35%20-%20Ben%20Pest%20-%20Mouth%20Lawson.mp3"
+  },
+  "stress test": {
+    "title": "Stress Test",
+    "artist": "Isolated Material",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/34%20-%20Isolated%20Material%20-%20Stress%20Test.mp3"
+  },
+  "beat the machine": {
+    "title": "Beat The Machine",
+    "artist": "The Droid, pablo splice",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/32%20-%20The%20Droid%20-%20Beat%20The%20Machine.mp3"
+  },
+  "parallax": {
+    "title": "Parallax",
+    "artist": "Nite Fleit, False Persona",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/40%20-%20Nite%20Fleit%20-%20Parallax.mp3"
+  },
+  "engage": {
+    "title": "Engage",
+    "artist": "Saah",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/37%20-%20Saah%20-%20Engage.mp3"
+  },
+  "stage one": {
+    "title": "Stage One",
+    "artist": "Aloka",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/39%20-%20Aloka%20-%20Stage%20One.mp3"
+  },
+  "rotaryxl": {
+    "title": "Rotary-XL",
+    "artist": "Aloka",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/38%20-%20Aloka%20-%20Rotary-XL.mp3"
+  },
+  "hashtag radioactiveman remix": {
+    "title": "Hashtag (Radioactiveman Remix)",
+    "artist": "Carl Finlow",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/36%20-%20Carl%20Finlow%20-%20Hashtag%20(Radioactiveman%20Remix).mp3"
+  },
+  "mind heist dagga remix": {
+    "title": "Mind Heist (Dagga Remix)",
+    "artist": "False Persona",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/42%20-%20False%20Persona%20-%20Mind%20Heist%20(Dagga%20Remix).mp3"
+  },
+  "sneak dissin": {
+    "title": "Sneak Dissin'",
+    "artist": "False Persona",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/41%20-%20False%20Persona%20-%20Sneak%20Dissin%27.mp3"
+  },
+  "black projects": {
+    "title": "Black Projects",
+    "artist": "Sully",
+    "bpm": "",
+    "key": "",
+    "genre": "2-Step",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/44%20-%20Sully%20-%20Black%20Projects.mp3"
+  },
+  "small moves": {
+    "title": "Small Moves",
+    "artist": "No Moon",
+    "bpm": "",
+    "key": "",
+    "genre": "Electro",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/43%20-%20No%20Moon%20-%20Small%20Moves.mp3"
+  },
+  "curtains nine tails": {
+    "title": "Curtains Nine Tails",
+    "artist": "Lukas Wigflex, Son Of Philip",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/47%20-%20Lukas%20Wigflex%20-%20Curtains%20Nine%20Tails.mp3"
+  },
+  "super rave": {
+    "title": "Super Rave",
+    "artist": "Acidulant",
+    "bpm": "",
+    "key": "",
+    "genre": "Acid / Breaks",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/48%20-%20Acidulant%20-%20Super%20Rave.mp3"
+  },
+  "illusory blenk remix": {
+    "title": "Illusory (Blenk Remix)",
+    "artist": "Dustin Zahn",
+    "bpm": "",
+    "key": "",
+    "genre": "Breakbeat",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/46%20-%20Dustin%20Zahn%20-%20Illusory%20(Blenk%20Remix).mp3"
+  },
+  "black magic stay high remix": {
+    "title": "Black Magic (Stay High Remix)",
+    "artist": "leif",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/cMP3/NewNewNew%20%5b6b092164-be4b-4ea8-920d-7d4a2824dc56%5d/15%20-%20leif%20-%20Black%20Magic%20(Stay%20High%20Remix).mp3"
+  },
+  "keep it rising": {
+    "title": "Keep It Rising",
+    "artist": "Supershy",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/DLz%20-%202025/SuperShy/%20Happy%20Music%20%5b307755009%5d%20%5b2023%5d/03%20-%20SuperShy%20-%20Keep%20It%20Rising.aiff"
+  },
+  "do ya baby": {
+    "title": "Do Ya Baby",
+    "artist": "Minista, Zefer",
+    "bpm": "",
+    "key": "",
+    "genre": "UK Garage",
+    "file_path": "file://localhost/Users/suhaas/Music/DLz%20-%202025/Playlist/RallyHouse%20%5b362b112d-7a20-455c-9f56-cb4507a8f431%5d/43%20-%20Minista%20-%20Do%20Ya%20Baby.aiff"
+  },
+  "nang like this": {
+    "title": "Nang Like This",
+    "artist": "Zefer, Kibo, Chesqua",
+    "bpm": "",
+    "key": "",
+    "genre": "UK Garage",
+    "file_path": "file://localhost/Users/suhaas/Music/DLz%20-%202025/Playlist/RallyHouse%20%5b362b112d-7a20-455c-9f56-cb4507a8f431%5d/42%20-%20Zefer%20-%20Nang%20Like%20This.aiff"
+  },
+  "dr feel right": {
+    "title": "Dr Feel Right",
+    "artist": "Josh Baker, The Egyptian Lover, Rome Fortune",
+    "bpm": "",
+    "key": "",
+    "genre": "Funky House",
+    "file_path": "file://localhost/Users/suhaas/Music/DLz%20-%202025/Playlist/RallyHouse%20%5b362b112d-7a20-455c-9f56-cb4507a8f431%5d/18%20-%20Josh%20Baker%20-%20Dr%20Feel%20Right%20(feat.%20The%20Egyptian%20Lover%20%26%20Rome%20Fortune).aiff"
+  },
+  "lady hear me tonight": {
+    "title": "Lady (Hear Me Tonight)",
+    "artist": "Modjo",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/Test%20Files/25%20-%20Modjo%20-%20Lady%20(Hear%20Me%20Tonight).aiff"
+  },
+  "thank god im a lizard": {
+    "title": "Thank God I'm a Lizard",
+    "artist": "Ross from Friends",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/Test%20Files/10%20-%20Ross%20from%20Friends%20-%20Thank%20God%20I%27m%20A%20Lizard.aiff"
+  },
+  "equation": {
+    "title": "Equation",
+    "artist": "Palms Trax",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/Test%20Files/05%20-%20Palms%20Trax%20-%20Equation.aiff"
+  },
+  "oblivion": {
+    "title": "Oblivion",
+    "artist": "Kerri Chandler",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/Test%20Files/32%20-%20Kerri%20Chandler%20-%20Oblivion.aiff"
+  },
+  "take me to the dark": {
+    "title": "Take Me to the Dark",
+    "artist": "Octo Octa",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/Test%20Files/22%20-%20Octo%20Octa%20-%20Take%20Me%20to%20the%20Dark.aiff"
+  },
+  "rascal": {
+    "title": "Rascal",
+    "artist": "Sami",
+    "bpm": "",
+    "key": "",
+    "genre": "Rominimal",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Sami%20-%20Rascal.aiff"
+  },
+  "no more": {
+    "title": "No More",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "Footwork",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Retromigration%20-%20Can%e2%80%99t%20Go/2.%20Retromigration%20-%20No%20More.aiff"
+  },
+  "cant go": {
+    "title": "Can't Go",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "Footwork",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Retromigration%20-%20Can%e2%80%99t%20Go/1.%20Retromigration%20-%20Can%27t%20Go.aiff"
+  },
+  "night": {
+    "title": "Night",
+    "artist": "Benga, Coki",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Benga,%20Coki%20-%20Night.aiff"
+  },
+  "gypsy woman shes homeless la da dee la da da basement boy strip to the bone mix": {
+    "title": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) (Basement Boy Strip To The Bone Mix)",
+    "artist": "Crystal Waters",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Crystal%20Waters%20-%20Gypsy%20Woman%20(She%27s%20Homeless)%20(La%20Da%20Dee%20La%20Da%20Da)%20(Basement%20Boy%20Strip%20To%20The%20Bone%20Mix).aiff"
+  },
+  "music is moving": {
+    "title": "Music Is Moving",
+    "artist": "Tsvi",
+    "bpm": "",
+    "key": "",
+    "genre": "Speed Garage",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/TSVI%20-%20Music%20Is%20Moving.aiff"
+  },
+  "riding the blade": {
+    "title": "Riding The Blade",
+    "artist": "Erik Luebs",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubby Tech",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Erik%20Luebs%20-%20Riding%20The%20Blade.aiff"
+  },
+  "change": {
+    "title": "Change",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Albums/Retromigration%20-%20Change/01.%20Retromigration%20-%20Change.aiff"
+  },
+  "de som vet": {
+    "title": "De Som Vet",
+    "artist": "Bror Havnes",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Bror%20Havnes%20-%20De%20Som%20Vet.aiff"
+  },
+  "yes": {
+    "title": "Yes",
+    "artist": "Breaka, Stones Taro",
+    "bpm": "",
+    "key": "",
+    "genre": "2-Step",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Breaka%20-%20Mangled/2.%20Breaka,%20Stones%20Taro%20-%20Yes.aiff"
+  },
+  "desire path": {
+    "title": "Desire Path",
+    "artist": "Breaka",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Breaka%20-%20Mangled/4.%20Breaka%20-%20Desire%20Path.aiff"
+  },
+  "bell toll bounce": {
+    "title": "Bell Toll Bounce",
+    "artist": "Breaka",
+    "bpm": "",
+    "key": "",
+    "genre": "Club",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Breaka%20-%20Mangled/1.%20Breaka%20-%20Bell%20Toll%20Bounce.aiff"
+  },
+  "mangled": {
+    "title": "Mangled",
+    "artist": "Breaka",
+    "bpm": "",
+    "key": "",
+    "genre": "Mutant Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Breaka%20-%20Mangled/3.%20Breaka%20-%20Mangled.aiff"
+  },
+  "berry baby cheeto": {
+    "title": "Berry Baby Cheeto",
+    "artist": "Breaka",
+    "bpm": "",
+    "key": "",
+    "genre": "Bass",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Breaka%20-%20Mangled/5.%20Breaka%20-%20Berry%20Baby%20Cheeto.aiff"
+  },
+  "senopati shuffle": {
+    "title": "Senopati Shuffle",
+    "artist": "Batavia Collective",
+    "bpm": "",
+    "key": "",
+    "genre": "Space Jazz",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Batavia%20Collective%20-%20BTVC/2.%20Batavia%20Collective%20-%20Senopati%20Shuffle.aiff"
+  },
+  "interchanges": {
+    "title": "Interchanges",
+    "artist": "Batavia Collective",
+    "bpm": "",
+    "key": "",
+    "genre": "Downtempo",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Batavia%20Collective%20-%20BTVC/3.%20Batavia%20Collective%20-%20Interchanges.aiff"
+  },
+  "riot on friday": {
+    "title": "Riot On Friday",
+    "artist": "Batavia Collective",
+    "bpm": "",
+    "key": "",
+    "genre": "Space Jazz",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Batavia%20Collective%20-%20BTVC/4.%20Batavia%20Collective%20-%20Riot%20On%20Friday.aiff"
+  },
+  "joni indo": {
+    "title": "Joni Indo",
+    "artist": "Batavia Collective",
+    "bpm": "",
+    "key": "",
+    "genre": "Space Jazz",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Batavia%20Collective%20-%20BTVC/1.%20Batavia%20Collective%20-%20Joni%20Indo.aiff"
+  },
+  "introduction": {
+    "title": "Introduction",
+    "artist": "Mala",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Mala%20-%20Introduction.aiff"
+  },
+  "up too late": {
+    "title": "Up Too Late",
+    "artist": "Carr\u00e9, Danny Goliger",
+    "bpm": "",
+    "key": "",
+    "genre": "Faux",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Carr%c3%a9,%20Danny%20Goliger%20-%20Up%20Too%20Late.aiff"
+  },
+  "lido": {
+    "title": "Lido",
+    "artist": "Human Safari",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Human%20Safari%20-%20Children%20Of%20The%20Sea/4.%20Human%20Safari%20-%20Lido.aiff"
+  },
+  "jazz affair": {
+    "title": "Jazz Affair",
+    "artist": "Human Safari",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Human%20Safari%20-%20Children%20Of%20The%20Sea/2.%20Human%20Safari%20-%20Jazz%20Affair.aiff"
+  },
+  "turbulence at the orchestra": {
+    "title": "Turbulence At The Orchestra",
+    "artist": "Human Safari",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Human%20Safari%20-%20Children%20Of%20The%20Sea/3.%20Human%20Safari%20-%20Turbulence%20At%20The%20Orchestra.aiff"
+  },
+  "children of the sea": {
+    "title": "Children Of The Sea",
+    "artist": "Human Safari",
+    "bpm": "",
+    "key": "",
+    "genre": "Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Human%20Safari%20-%20Children%20Of%20The%20Sea/1.%20Human%20Safari%20-%20Children%20Of%20The%20Sea.aiff"
+  },
+  "hooligang": {
+    "title": "HOOLIGANG",
+    "artist": "Joey Valence & Brae",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Joey%20Valence%20%26%20Brae%20-%20HOOLIGANG.aiff"
+  },
+  "march": {
+    "title": "March",
+    "artist": "Al Wootton",
+    "bpm": "",
+    "key": "",
+    "genre": "Ambient",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Al%20Wootton%20-%20March.aiff"
+  },
+  "twin": {
+    "title": "Twin",
+    "artist": "Sami",
+    "bpm": "",
+    "key": "",
+    "genre": "Rominimal",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Sami%20-%20Twin.aiff"
+  },
+  "telling the time": {
+    "title": "Telling The Time",
+    "artist": "Stones Taro",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Stones%20Taro%20-%20Telling%20The%20Time/1.%20Stones%20Taro%20-%20Telling%20The%20Time.aiff"
+  },
+  "desaturation": {
+    "title": "Desaturation",
+    "artist": "Stones Taro",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubwise",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Stones%20Taro%20-%20Telling%20The%20Time/3.%20Stones%20Taro%20-%20Desaturation.aiff"
+  },
+  "proximity warning": {
+    "title": "Proximity Warning",
+    "artist": "Stones Taro",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Stones%20Taro%20-%20Telling%20The%20Time/2.%20Stones%20Taro%20-%20Proximity%20Warning.aiff"
+  },
+  "false alarm": {
+    "title": "False Alarm",
+    "artist": "Stones Taro",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubwise",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Stones%20Taro%20-%20Telling%20The%20Time/4.%20Stones%20Taro%20-%20False%20Alarm.aiff"
+  },
+  "automata": {
+    "title": "Automata",
+    "artist": "Andy Martin",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Andy%20Martin%20-%20NECH033/3.%20Andy%20Martin%20-%20Automata.aiff"
+  },
+  "triskele": {
+    "title": "Triskele",
+    "artist": "Andy Martin",
+    "bpm": "",
+    "key": "",
+    "genre": "Hypnotic Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Andy%20Martin%20-%20NECH033/2.%20Andy%20Martin%20-%20Triskele.aiff"
+  },
+  "tx01": {
+    "title": "TX01",
+    "artist": "Andy Martin",
+    "bpm": "",
+    "key": "",
+    "genre": "Hypnotic",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Andy%20Martin%20-%20NECH033/1.%20Andy%20Martin%20-%20TX01.aiff"
+  },
+  "transmutation": {
+    "title": "Transmutation",
+    "artist": "Andy Martin",
+    "bpm": "",
+    "key": "",
+    "genre": "Hypnotic Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Andy%20Martin%20-%20NECH033/4.%20Andy%20Martin%20-%20Transmutation.aiff"
+  },
+  "rain": {
+    "title": "Rain",
+    "artist": "Breakage, David Rodigan",
+    "bpm": "",
+    "key": "",
+    "genre": "Dubstep",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Breakage,%20David%20Rodigan%20-%20Rain.aiff"
+  },
+  "lets get lost": {
+    "title": "LET'S GET LOST",
+    "artist": "Hyas, Pura Pura, DJ Swisha",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Hyas%20-%20NO%20MORE%20AFTERPARTIES/2.%20Hyas,%20Pura%20Pura,%20DJ%20Swisha%20-%20LET%27S%20GET%20LOST.aiff"
+  },
+  "watch me": {
+    "title": "WATCH ME",
+    "artist": "Hyas, Pura Pura",
+    "bpm": "",
+    "key": "",
+    "genre": "Speed Garage",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Hyas%20-%20NO%20MORE%20AFTERPARTIES/4.%20Hyas,%20Pura%20Pura%20-%20WATCH%20ME.aiff"
+  },
+  "speakers vip mix": {
+    "title": "SPEAKERS (VIP MIX)",
+    "artist": "Hyas, Pura Pura",
+    "bpm": "",
+    "key": "",
+    "genre": "Jersey Club",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Hyas%20-%20NO%20MORE%20AFTERPARTIES/5.%20Hyas,%20Pura%20Pura%20-%20SPEAKERS%20(VIP%20MIX).aiff"
+  },
+  "boomboom ": {
+    "title": "BOOM...BOOM ?",
+    "artist": "Hyas, Pura Pura",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Hyas%20-%20NO%20MORE%20AFTERPARTIES/1.%20Hyas,%20Pura%20Pura%20-%20BOOM...BOOM.aiff"
+  },
+  "close the door": {
+    "title": "CLOSE THE DOOR",
+    "artist": "Hyas, Pura Pura",
+    "bpm": "",
+    "key": "",
+    "genre": "Footwork",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Hyas%20-%20NO%20MORE%20AFTERPARTIES/6.%20Hyas,%20Pura%20Pura%20-%20CLOSE%20THE%20DOOR.aiff"
+  },
+  "70007b": {
+    "title": "70007B",
+    "artist": "Wax",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/Wax%20-%2070007B.aiff"
+  },
+  "slam jazz": {
+    "title": "Slam Jazz",
+    "artist": "Naiche",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/Naiche%20-%20Slam%20Jazz.aiff"
+  },
+  "chamber 4": {
+    "title": "Chamber 4",
+    "artist": "Dual Monitor",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/Dual%20Monitor%20-%20Chamber%204.aiff"
+  },
+  "desvelo": {
+    "title": "Desvelo",
+    "artist": "DJ Double Oh!",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/DJ%20Double%20Oh!%20-%20Desvelo.aiff"
+  },
+  "just gettin hot": {
+    "title": "Just Gettin' Hot",
+    "artist": "Pura Pura",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/Pura%20Pura%20-%20Just%20Gettin%27%20Hot.aiff"
+  },
+  "rush": {
+    "title": "Rush",
+    "artist": "Tamlin, Parry",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/Tamlin,%20Parry%20-%20Rush.aiff"
+  },
+  "roll the dice": {
+    "title": "Roll The Dice",
+    "artist": "Kiefer Ian",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/Kiefer%20Ian%20-%20Roll%20The%20Dice.aiff"
+  },
+  "cognac bounce": {
+    "title": "Cognac Bounce",
+    "artist": "MadStarBase",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/MadStarBase%20-%20Cognac%20Bounce.aiff"
+  },
+  "ill know": {
+    "title": "I'll Know",
+    "artist": "Mercy System",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/Mercy%20System%20-%20I%27ll%20Know.aiff"
+  },
+  "sensitive habitat": {
+    "title": "Sensitive Habitat",
+    "artist": "Stenny",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/Stenny%20-%20Sensitive%20Habitat.aiff"
+  },
+  "mudpuller": {
+    "title": "Mudpuller",
+    "artist": "Will Hofbauer",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/Will%20Hofbauer%20-%20Mudpuller.aiff"
+  },
+  "mudpuller eden burns whistle beatz remix": {
+    "title": "Mudpuller (Eden Burns Whistle Beatz Remix)",
+    "artist": "Will Hofbauer",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/Will%20Hofbauer%20-%20Mudpuller%20(Eden%20Burns%20Whistle%20Beatz%20Remix).aiff"
+  },
+  "like this": {
+    "title": "Like This",
+    "artist": "Joe Koshin",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Tracks/Joe%20Koshin%20-%20Like%20This.aiff"
+  },
+  "cant you": {
+    "title": "Can't You",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Albums/Retromigration%20-%20Change/03.%20Retromigration%20-%20Can%27t%20You.aiff"
+  },
+  "ebi": {
+    "title": "Ebi",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Albums/Retromigration%20-%20Change/05.%20Retromigration%20-%20Ebi.aiff"
+  },
+  "rum lime": {
+    "title": "Rum & Lime",
+    "artist": "Retromigration, Passion Deez",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Albums/Retromigration%20-%20Change/07.%20Retromigration,%20Passion%20Deez%20-%20Rum%20%26%20Lime.aiff"
+  },
+  "ke": {
+    "title": "KE",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Albums/Retromigration%20-%20Change/02.%20Retromigration%20-%20KE.aiff"
+  },
+  "be\u00b2": {
+    "title": "B=E\u00b2",
+    "artist": "Retromigration, Ngoni Egan",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Albums/Retromigration%20-%20Change/04.%20Retromigration,%20Ngoni%20Egan%20-%20B=E%c2%b2.aiff"
+  },
+  "witness": {
+    "title": "Witness",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Albums/Retromigration%20-%20Change/10.%20Retromigration%20-%20Witness.aiff"
+  },
+  "omt": {
+    "title": "OMT",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Albums/Retromigration%20-%20Change/09.%20Retromigration%20-%20OMT.aiff"
+  },
+  "move twice": {
+    "title": "Move Twice",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Albums/Retromigration%20-%20Change/08.%20Retromigration%20-%20Move%20Twice.aiff"
+  },
+  "angstman": {
+    "title": "Angstma\u0308n",
+    "artist": "Retromigration",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Albums/Retromigration%20-%20Change/06.%20Retromigration%20-%20Angstm%c3%a4n.aiff"
+  },
+  "be yazzus remix": {
+    "title": "B=E (Yazzus Remix)",
+    "artist": "Retromigration, Ngoni Egan",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Albums/Retromigration%20-%20Change/11.%20Retromigration,%20Ngoni%20Egan%20-%20B=E%20(Yazzus%20Remix).aiff"
+  },
+  "deep soi": {
+    "title": "Deep Soi",
+    "artist": "Dott",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dark%20rominz/09.%20Dott%20-%20Deep%20Soi.aiff"
+  },
+  "small talks big action": {
+    "title": "Small Talks, Big Action",
+    "artist": "Dott",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/NewTDLs/Playlists%20%20(Mostly%20In%20USB)/dark%20rominz/10.%20Dott%20-%20Small%20Talks,%20Big%20Action.aiff"
+  },
+  "orca": {
+    "title": "Orca",
+    "artist": "Bicep",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/Aiffs/29%20-%20Bicep%20-%20Orca.aiff"
+  },
+  "inuti": {
+    "title": "Inuti",
+    "artist": "Arkajo",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Arkajo%20-%20Inuti.aiff"
+  },
+  "inuti live cut": {
+    "title": "Inuti (Live Cut)",
+    "artist": "Arkajo",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Arkajo%20-%20Inuti%20(Live%20Cut).aiff"
+  },
+  "abundance": {
+    "title": "Abundance",
+    "artist": "Decoder",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Decoder%20-%20Abundance.aiff"
+  },
+  "splintered soul fragments": {
+    "title": "Splintered Soul Fragments",
+    "artist": "Polygonia",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Polygonia%20-%20Splintered%20Soul%20Fragments.aiff"
+  },
+  "mahzooz": {
+    "title": "Mahzooz",
+    "artist": "Hassan Abou Alam",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Hassan%20Abou%20Alam%20-%20Mahzooz.aiff"
+  },
+  "cyclic wavez": {
+    "title": "Cyclic Wavez",
+    "artist": "Piezo",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Piezo%20-%20Cyclic%20Wavez.aiff"
+  },
+  "graver": {
+    "title": "Graver",
+    "artist": "Al Wootton",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/April%202026%20DLs/Al%20Wootton%20-%20Graver.aiff"
+  },
+  "bumper ball dub karmacoma": {
+    "title": "Bumper Ball Dub (Karmacoma)",
+    "artist": "Massive Attack",
+    "bpm": "",
+    "key": "",
+    "genre": "Downtempo Dub Electronic Reggae Trip Hop",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/No%20Protection/02.%20Massive_Attack%20-%20Bumper_Ball_Dub_(Karmacoma).flac"
+  },
+  "adrian_sherwoodbody_roll": {
+    "title": "adrian_sherwood-body_roll",
+    "artist": "Unknown Artist",
+    "bpm": "",
+    "key": "",
+    "genre": "Reggae",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Adrian_Sherwood-The_Collapse_Of_Everything-24BIT-44KHZ-WEB-FLAC-2025-OBZEN/04-adrian_sherwood-body_roll.flac"
+  },
+  "10 beloved thievery corporation remix": {
+    "title": "10 Beloved (Thievery Corporation remix)",
+    "artist": "Unknown Artist",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Anoushka%20Shankar%20-%202005%20-%20Rise%20%5bFLAC%5d/10%20Beloved%20(Thievery%20Corporation%20remix).flac"
+  },
+  "world struggle feat danny coxson": {
+    "title": "World Struggle (feat. Danny Coxson)",
+    "artist": "Babe Roots",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Music%20mission%20(2020)%20(flac)/03-Babe_Roots-World_Struggle_(feat._Danny_Coxson).flac"
+  },
+  "world struggle ambient dub": {
+    "title": "World Struggle (Ambient Dub)",
+    "artist": "Babe Roots",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Music%20mission%20(2020)%20(flac)/02-Babe_Roots-World_Struggle_(Ambient_Dub).flac"
+  },
+  "music mission feat galas": {
+    "title": "Music Mission (feat. Galas)",
+    "artist": "Babe Roots",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Music%20mission%20(2020)%20(flac)/01-Babe_Roots-Music_Mission_(feat._Galas).flac"
+  },
+  "dil da rog muka ja mahi": {
+    "title": "Dil Da Rog Muka Ja Mahi",
+    "artist": "Gaudi and Nusrat Fateh Ali Khan",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/2007A=Dub_Qawwali/04=Dil_Da_Rog_Muka_Ja_Mahi.flac"
+  },
+  "jab teri dhun main raha karte they": {
+    "title": "Jab Teri Dhun Main Raha Karte They",
+    "artist": "Gaudi and Nusrat Fateh Ali Khan",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/2007A=Dub_Qawwali/03=Jab_Teri_Dhun_Main_Raha_Karte_They.flac"
+  },
+  "kahin mot se bhi na jao": {
+    "title": "Kahin Mot Se Bhi Na Jao",
+    "artist": "Gaudi and Nusrat Fateh Ali Khan",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/2007A=Dub_Qawwali/08=Kahin_Mot_Se_Bhi_Na_Jao.flac"
+  },
+  "tera jana kere rang lawe": {
+    "title": "Tera Jana Kere Rang Lawe",
+    "artist": "Gaudi and Nusrat Fateh Ali Khan",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/2007A=Dub_Qawwali/02=Tera_Jana_Kere_Rang_Lawe.flac"
+  },
+  "ena akhiyan noo": {
+    "title": "Ena Akhiyan Noo",
+    "artist": "Gaudi and Nusrat Fateh Ali Khan",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/2007A=Dub_Qawwali/07=Ena_Akhiyan_Noo.flac"
+  },
+  "ghamgar bare ne": {
+    "title": "Ghamgar Bare Ne",
+    "artist": "Gaudi and Nusrat Fateh Ali Khan",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/2007A=Dub_Qawwali/05=Ghamgar_Bare_Ne.flac"
+  },
+  "mainoo ole bai ke pee lain de": {
+    "title": "Mainoo Ole Bai Ke Pee Lain De",
+    "artist": "Gaudi and Nusrat Fateh Ali Khan",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/2007A=Dub_Qawwali/09=Mainoo_Ole_Bai_Ke_Pee_Lain_De.flac"
+  },
+  "abhi apna abhi paraya hai": {
+    "title": "Abhi Apna Abhi Paraya Hai",
+    "artist": "Gaudi and Nusrat Fateh Ali Khan",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/2007A=Dub_Qawwali/06=Abhi_Apna_Abhi_Paraya_Hai.flac"
+  },
+  "bethe bethe kese kese": {
+    "title": "Bethe Bethe Kese Kese",
+    "artist": "Gaudi and Nusrat Fateh Ali Khan",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/2007A=Dub_Qawwali/01=Bethe_Bethe_Kese_Kese.flac"
+  },
+  "othe mera yar wasda": {
+    "title": "Othe Mera Yar Wasda",
+    "artist": "Gaudi and Nusrat Fateh Ali Khan",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/2007A=Dub_Qawwali/10=Othe_Mera_Yar_Wasda.flac"
+  },
+  "daisy dub": {
+    "title": "Daisy Dub",
+    "artist": "Log(M) & Laraaji",
+    "bpm": "",
+    "key": "",
+    "genre": "Ambient, Dub",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Log(M)%20%26%20Laraaji%20-%20The%20Onrush%20Of%20Eternity%202019/06%20-%20Daisy%20Dub.flac"
+  },
+  "14 nusrat fateh ali khan mustt mustt massive attack remix": {
+    "title": "14 Nusrat Fateh Ali Khan - Mustt, Mustt (Massive Attack remix)",
+    "artist": "Unknown Artist",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Back%20to%20Mine_%20Talvin%20Singh/14%20Nusrat%20Fateh%20Ali%20Khan%20-%20Mustt,%20Mustt%20(Massive%20Attack%20remix).flac"
+  },
+  "babe roots bless me feat baba ras": {
+    "title": "Babe Roots - Bless Me (feat. Baba Ras)",
+    "artist": "Babe Roots, Baba Ras",
+    "bpm": "",
+    "key": "",
+    "genre": "Reggae",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Babe%20roots%20(2017)%20(flac)/05%20-%20Babe%20Roots%20-%20Bless%20Me%20(feat.%20Baba%20Ras).flac"
+  },
+  "02kibir_la_amlakmeditation_dubrpo": {
+    "title": "02-kibir_la_amlak-meditation_dub-rpo",
+    "artist": "Unknown Artist",
+    "bpm": "",
+    "key": "",
+    "genre": "Reggae",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Kibir_La_Amlak_x_Reality_Souljahs-Book_Of_Psalms-(KLA001)-16BIT-WEB-FLAC-2018-RPO/02-kibir_la_amlak-meditation_dub-rpo.flac"
+  },
+  "the lower ground": {
+    "title": "The Lower Ground",
+    "artist": "Bill Laswell",
+    "bpm": "",
+    "key": "",
+    "genre": "Rock",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Bill%20Laswell%20%5b2002%5d%20Sacred%20System%20-%20Book%20Of%20Exit:%20Dub%20Chamber%204/02.%20The%20Lower%20Ground.flac"
+  },
+  "brown walls part 1 and 2": {
+    "title": "Brown Walls, Part 1 and 2",
+    "artist": "Babe Roots",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Spiritual%20Connection%20_%20Brown%20Walls%20(2017)%20%7bBHS001%7d%20%5bWEB%20-%20FLAC%20-%2024%20-%2044.1kHz%5d/01-04.%20Brown%20Walls,%20Part%201%20and%202.flac"
+  },
+  "brown walls part 2": {
+    "title": "Brown Walls, Part 2",
+    "artist": "Babe Roots",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Spiritual%20Connection%20_%20Brown%20Walls%20(2017)%20%7bBHS001%7d%20%5bWEB%20-%20FLAC%20-%2024%20-%2044.1kHz%5d/01-03.%20Brown%20Walls,%20Part%202.flac"
+  },
+  "brown walls part 1": {
+    "title": "Brown Walls, Part 1",
+    "artist": "Babe Roots",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Spiritual%20Connection%20_%20Brown%20Walls%20(2017)%20%7bBHS001%7d%20%5bWEB%20-%20FLAC%20-%2024%20-%2044.1kHz%5d/01-02.%20Brown%20Walls,%20Part%201.flac"
+  },
+  "spiritual connection": {
+    "title": "Spiritual Connection",
+    "artist": "Babe Roots feat. Baba Ras",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Spiritual%20Connection%20_%20Brown%20Walls%20(2017)%20%7bBHS001%7d%20%5bWEB%20-%20FLAC%20-%2024%20-%2044.1kHz%5d/01-01.%20Spiritual%20Connection.flac"
+  },
+  "sweet version": {
+    "title": "Sweet Version",
+    "artist": "Babe Roots",
+    "bpm": "",
+    "key": "",
+    "genre": "Reggae",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Tribal%20war%20-%20Sweet%20(2017)%20(flac)/06%20-%20Babe%20Roots%20-%20Sweet%20Version.flac"
+  },
+  "dub inspector": {
+    "title": "Dub Inspector",
+    "artist": "Adrian Sherwood",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Adrian%20Sherwood%20-%20The%20Collapse%20Of%20Everything%20(2025)%20-%20WEB%20FLAC%2024-44/02.%20Dub%20Inspector.flac"
+  },
+  "for such a time kuba remix": {
+    "title": "For Such a Time (Kuba Remix)",
+    "artist": "Banco De Gaia",
+    "bpm": "",
+    "key": "",
+    "genre": "Electronic",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Banco_De_Gaia--Rewritten_Histories_Vol_3-2002-2013-DSCGCKDIG016-WEB-FLAC-2014-BABAS/01-banco_de_gaia--for_such_a_time_(kuba_remix)-a895b035.flac"
+  },
+  "for such a time animat remix": {
+    "title": "For Such a Time (Animat Remix)",
+    "artist": "Banco De Gaia",
+    "bpm": "",
+    "key": "",
+    "genre": "Electronic",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Banco_De_Gaia--Rewritten_Histories_Vol_3-2002-2013-DSCGCKDIG016-WEB-FLAC-2014-BABAS/15-banco_de_gaia--for_such_a_time_(animat_remix)-20456fe0.flac"
+  },
+  "breakthrough": {
+    "title": "Breakthrough",
+    "artist": "VersA",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub/Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Temple%20song%20%e2%88%95%20Breakthrough%20%e2%88%95%20Biosphere%20(2020)%20%5bFLAC%5d/02.%20VersA%20-%20Breakthrough.flac"
+  },
+  "biosphere": {
+    "title": "Biosphere",
+    "artist": "VersA",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub/Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Temple%20song%20%e2%88%95%20Breakthrough%20%e2%88%95%20Biosphere%20(2020)%20%5bFLAC%5d/03.%20VersA%20-%20Biosphere.flac"
+  },
+  "temple song": {
+    "title": "Temple Song",
+    "artist": "VersA",
+    "bpm": "",
+    "key": "",
+    "genre": "Dub/Dub Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/Temple%20song%20%e2%88%95%20Breakthrough%20%e2%88%95%20Biosphere%20(2020)%20%5bFLAC%5d/01.%20VersA%20-%20Temple%20Song.flac"
+  },
+  "rub a sub": {
+    "title": "Rub A Sub",
+    "artist": "Hiss Is Bliss Feat. Kojo Neatness",
+    "bpm": "",
+    "key": "",
+    "genre": "Electronic",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/G3%20Dub/2024.hiss%20is%20bliss%20feat.%20kojo%20neatness.-.rub%20a%20dub%20soldier.%5b777hz%207hz004%5d.%5bvinyl,%2010%27%27%5d/b1%20-%20rub%20a%20sub.mp3"
+  },
+  "i get ready bass mental mix": {
+    "title": "I Get Ready (Bass Mental Mix)",
+    "artist": "Units For Hour",
+    "bpm": "",
+    "key": "",
+    "genre": "House",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/beatport_tracks_2023-08%20(1)/Units%20For%20Hours%20-%20Get%20Ready%20(Bass%20Mental%20Mix).aiff"
+  },
+  "calm": {
+    "title": "Calm",
+    "artist": "Govinda",
+    "bpm": "",
+    "key": "",
+    "genre": "Downtempo",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/%5b2004%5d%20Worlds%20Within/Worlds%20Within%20%5b01-11%5d%20Calm.flac"
+  },
+  "giggle": {
+    "title": "Giggle",
+    "artist": "Pluralist Obake",
+    "bpm": "",
+    "key": "",
+    "genre": "Dance Rap/Hip Hop",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/Pluralist%20-%20Giggle%20_%20Siren/01.%20Pluralist%20-%20Giggle.mp3"
+  },
+  "ie ft tushna": {
+    "title": "I.E. ft. Tushna",
+    "artist": "Push Button Objects & Danny Daze",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/21.%20Push%20Button%20Objects%20%26%20Danny%20Daze%20-%20I.E.%20ft.%20Tushna.flac"
+  },
+  "zone": {
+    "title": "Zone",
+    "artist": "Nicholas G. Padilla",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/20.%20Nicholas%20G.%20Padilla%20-%20Zone.flac"
+  },
+  "buzo": {
+    "title": "Buzo",
+    "artist": "Ctrl+Opt",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/18.%20Ctrl+Opt%20-%20Buzo.flac"
+  },
+  "07 mj nebreda arquitecto": {
+    "title": "07. MJ Nebreda - Arquitecto",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/07.%20MJ%20Nebreda%20-%20Arquitecto.aiff"
+  },
+  "phonkay prod by danny daze nick le\u00f3n": {
+    "title": "Phonkay (prod. by Danny Daze & Nick Le\u00f3n)",
+    "artist": "La Goony Chonga",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/11.%20La%20Goony%20Chonga%20-%20Phonkay%20(prod.%20by%20Danny%20Daze%20%26%20Nick%20Le%c3%b3n).flac"
+  },
+  "epoch": {
+    "title": "Epoch",
+    "artist": "Max Buzone",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/32.%20Max%20Buzone%20-%20Epoch.flac"
+  },
+  "colirio": {
+    "title": "Colirio",
+    "artist": "Bunni",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/35.%20Bunni%20-%20Colirio.flac"
+  },
+  "who the fuck is me": {
+    "title": "Who The Fuck Is Me?",
+    "artist": "Gosub",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/43.%20Gosub%20-%20Who%20The%20Fuck%20Is%20Me!.flac"
+  },
+  "muy bien": {
+    "title": "Muy Bien",
+    "artist": "Coffintexts",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/30.%20Coffintexts%20-%20Muy%20Bien.flac"
+  },
+  "4am": {
+    "title": "4AM",
+    "artist": "Tre Oh Fie",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/03.%20Tre%20Oh%20Fie%20-%204AM.aiff"
+  },
+  "02 low end resorts night asylum": {
+    "title": "02. Low End Resorts - Night Asylum",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/02.%20Low%20End%20Resorts%20-%20Night%20Asylum.aiff"
+  },
+  "10 nick le\u00f3n sapo": {
+    "title": "10. Nick Le\u00f3n - Sapo",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/10.%20Nick%20Le%c3%b3n%20-%20Sapo.aiff"
+  },
+  "stratus": {
+    "title": "Stratus",
+    "artist": "Shinobi",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/24.%20Shinobi%20-%20Stratus.flac"
+  },
+  "red keycard": {
+    "title": "Red Keycard",
+    "artist": "Near Dark",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/40.%20Near%20Dark%20-%20Red%20Keycard.flac"
+  },
+  "08 miles amillion heavy heads": {
+    "title": "08. Miles Amillion - Heavy Heads",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/08.%20Miles%20Amillion%20-%20Heavy%20Heads.aiff"
+  },
+  "cid": {
+    "title": "Cid",
+    "artist": "Deroboter",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/22.%20Deroboter%20-%20Cid.flac"
+  },
+  "09 roiju sin gravedad": {
+    "title": "09. Roiju - Sin Gravedad",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/09.%20Roiju%20-%20Sin%20Gravedad.aiff"
+  },
+  "04 jesse perez pocket full of ones": {
+    "title": "04. Jesse Perez - Pocket Full Of Ones",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/04.%20Jesse%20Perez%20-%20Pocket%20Full%20Of%20Ones.aiff"
+  },
+  "rapto cosmico": {
+    "title": "Rapto Cosmico",
+    "artist": "Richie Hell",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/42.%20Richie%20Hell%20-%20Rapto%20Cosmico.flac"
+  },
+  "hey angel whatever": {
+    "title": "Hey Angel, Whatever",
+    "artist": "Troy Kurtz",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/38.%20Troy%20Kurtz%20-%20Hey%20Angel,%20Whatever.flac"
+  },
+  "always down": {
+    "title": "Always Down",
+    "artist": "3K",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/37.%203K%20-%20Always%20Down.flac"
+  },
+  "let go": {
+    "title": "Let Go",
+    "artist": "Exzakt & BFX",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/19.%20Exzakt%20%26%20BFX%20-%20Let%20Go.flac"
+  },
+  "in order to ground the listener": {
+    "title": "In Order To Ground The Listener",
+    "artist": "Dino Felipe",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/36.%20Dino%20Felipe%20-%20In%20Order%20To%20Ground%20The%20Listener.flac"
+  },
+  "radiant": {
+    "title": "Radiant",
+    "artist": "Elias Garcia",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/28.%20Elias%20Garcia%20-%20Radiant.flac"
+  },
+  "nieve": {
+    "title": "Nieve",
+    "artist": "Lazaro Casanova",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/25.%20Lazaro%20Casanova%20-%20Nieve.flac"
+  },
+  "dassit": {
+    "title": "Dassit",
+    "artist": "INVT",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/16.%20INVT%20-%20Dassit.flac"
+  },
+  "trees whispers leave": {
+    "title": "Trees Whispers Leave",
+    "artist": "Jan Anthony",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/31.%20Jan%20Anthony%20-%20Trees%20Whispers%20Leave.flac"
+  },
+  "05 bitter babe gimme": {
+    "title": "05. Bitter Babe - Gimme",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/05.%20Bitter%20Babe%20-%20Gimme.aiff"
+  },
+  "light bounce": {
+    "title": "Light Bounce",
+    "artist": "Emma",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/41.%20Emma%20-%20Light%20Bounce.flac"
+  },
+  "bellfast3": {
+    "title": "Bellfast3",
+    "artist": "Black Ant",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/39.%20Black%20Ant%20-%20Bellfast3.flac"
+  },
+  "refresh": {
+    "title": "Refresh",
+    "artist": "Jonny From Space",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/33.%20Jonny%20From%20Space%20-%20Refresh.flac"
+  },
+  "110 dudes": {
+    "title": "110 Dudes",
+    "artist": "Danny Daze",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/12.%20Danny%20Daze%20-%20110%20Dudes.flac"
+  },
+  "kaboosh": {
+    "title": "Kaboosh",
+    "artist": "Greg Beato",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/26.%20Greg%20Beato%20-%20Kaboosh.flac"
+  },
+  "06 tidur you and i": {
+    "title": "06. TIDUR. - You And I",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/06.%20TIDUR.%20-%20You%20And%20I.aiff"
+  },
+  "filth": {
+    "title": "Filth",
+    "artist": "Murk",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/29.%20Murk%20-%20Filth.flac"
+  },
+  "01 otto von schirach miami all stars tremendo intro": {
+    "title": "01. Otto von Schirach - Miami All Stars (Tremendo Intro)",
+    "artist": "",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/01.%20Otto%20von%20Schirach%20-%20Miami%20All%20Stars%20(Tremendo%20Intro).aiff"
+  },
+  "sureshot": {
+    "title": "Sureshot",
+    "artist": "Craze",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/13.%20Craze%20-%20Sureshot.flac"
+  },
+  "drop in2 the pain": {
+    "title": "Drop In2 The Pain",
+    "artist": "Sel.6",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/14.%20Sel.6%20-%20Drop%20In2%20The%20Pain.flac"
+  },
+  "touch it turn it": {
+    "title": "Touch It Turn It",
+    "artist": "Fwea-Go Jit",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/23.%20Fwea-Go%20Jit%20-%20Touch%20It%20Turn%20It.flac"
+  },
+  "cacique": {
+    "title": "Cacique",
+    "artist": "Alpha 606",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/44.%20Alpha%20606%20-%20Cacique.flac"
+  },
+  "resolve": {
+    "title": "Resolve",
+    "artist": "Feph",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/15.%20Feph%20-%20Resolve.flac"
+  },
+  "feel it in the heat": {
+    "title": "Feel It In The Heat",
+    "artist": "Sister System",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/34.%20Sister%20System%20-%20Feel%20It%20In%20The%20Heat.flac"
+  },
+  "beak dub": {
+    "title": "Beak Dub",
+    "artist": "Glue Boy & El Gusano",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/17.%20Glue%20Boy%20%26%20El%20Gusano%20-%20Beak%20Dub.flac"
+  },
+  "tq visa": {
+    "title": "TQ Visa",
+    "artist": "Sohn Jamal",
+    "bpm": "",
+    "key": "",
+    "genre": "Breaks/Electro/Breakbeat/House/IDM/Drum & Bass/Techno",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/FLAC/27.%20Sohn%20Jamal%20-%20TQ%20Visa.flac"
+  },
+  "come on": {
+    "title": "Come On",
+    "artist": "Kosh",
+    "bpm": "",
+    "key": "",
+    "genre": "",
+    "file_path": "file://localhost/Users/suhaas/Music/SoulSeek/complete/Kosh%20-%20The%20Chopper%20EP/03%20Come%20On.aiff"
+  }
+}

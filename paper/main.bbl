@@ -155,12 +155,6 @@ Carol~L. Krumhansl.
 \newblock Oxford Psychology Series. Oxford University Press, New York, NY,
   1990.
 
-\bibitem{kurth2008efficient}
-Frank Kurth and Meinard M{\"u}ller.
-\newblock Efficient index-based audio matching.
-\newblock {\em IEEE Transactions on Audio, Speech, and Language Processing},
-  16(2):382--395, 2008.
-
 \bibitem{liebman2015djmc}
 Elad Liebman, Maytal Saar-Tsechansky, and Peter Stone.
 \newblock Dj-mc: A reinforcement-learning agent for music playlist

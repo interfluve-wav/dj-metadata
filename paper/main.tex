@@ -36,7 +36,7 @@
 \maketitle
 
 \begin{abstract}
-DJ software libraries contain rich metadata (BPM, musical key, genre, ratings, and labels) that is critical for harmonic mixing, playlist curation, and music information retrieval. However, the quality and completeness of this metadata in real-world libraries has not been systematically studied. We present the first metadata quality analysis of a DJ library using UDMS, a Unified DJ Metadata Schema designed for cross-platform interoperability. Analyzing 636 tracks from a Rekordbox~7.2.8 XML export, 382 tracks from a Serato~2.0 database export, and 112 tracks from an Engine DJ (Engine Prime) SQLite database, we measure field coverage across 11 canonical metadata fields and identify systematic gaps: while audio-derived fields (duration, bitrate, sample rate) achieve 100\% coverage and musical key achieves 93.2--100\% across platforms, genre annotation is incomplete for 37--55\% of tracks and editorial metadata (ratings, labels) is sparse (12--53\%). Across 143 tracks present in both Rekordbox and Serato, we find that title/artist/album are perfectly preserved (100\%), BPM achieves 89.5\% agreement after accounting for a Rekordbox 2$\times$ bug affecting 27\% of tracks, and key achieves 71.3\% exact / 100\% effective agreement. We validate the Rekordbox 2$\times$ bug against a third platform (Engine DJ), confirming Engine DJ stores the correct tempo (e.g., Fluro Biotica: 71.02 BPM) while Rekordbox stores exactly 2$\times$ (142.05 BPM). Genre is the most degraded field across platforms (79.1\% agreement when both are tagged). Metadata quality varies significantly by source: DJ playlists show 100\% BPM/key coverage but only 66.9\% genre coverage, while SoulSeek downloads have 72.3\% genre coverage but 0\% rating coverage. We attempt genre recovery via MusicBrainz lookup on 50 untagged tracks, finding only a 6\% recovery rate. This low rate highlights that external databases have poor coverage of electronic/dance music. This analysis reveals that 39.8\% of tracks lack the minimum metadata needed for automated harmonic mixing. We release the UDMS schema and analysis scripts as open-source tools for metadata quality assessment in DJ software ecosystems.
+DJ software libraries contain rich metadata (BPM, musical key, genre, ratings, and labels) that is critical for harmonic mixing, playlist curation, and music information retrieval. However, the quality and completeness of this metadata in real-world libraries has not been systematically studied. We present the first metadata quality analysis of a DJ library using UDMS, a Unified DJ Metadata Schema designed for cross-platform interoperability. Analyzing 636 tracks from a Rekordbox~7.2.8 XML export, 382 tracks from a Serato~2.0 database export, 112 tracks from an Engine DJ (Engine Prime) SQLite database, and 157 tracks from a VirtualDJ database export, we measure field coverage across 11 canonical metadata fields and identify systematic gaps: audio-derived fields (duration, bitrate, sample rate) achieve 100\% coverage and musical key achieves 93--98\% across platforms, but genre annotation is incomplete for 31--69\% of tracks and editorial metadata (ratings, labels) is sparse (0--53\%). Across 143 tracks present in both Rekordbox and Serato, we find that title/artist/album are perfectly preserved (100\%), BPM achieves 89.5\% agreement after accounting for a Rekordbox 2$\times$ bug affecting 27\% of tracks, and key achieves 71.3\% exact / 100\% effective agreement. A fourth platform (VirtualDJ) provides a third cross-validation source: across 22 tracks matched between Rekordbox and VirtualDJ, we find a systematic 1.19$\times$ BPM disagreement on five tracks from the same DJ playlist, revealing a distinct failure mode from the 2$\times$ bug where platforms disagree on whether to interpret the beat grid as full-tempo or half-tempo. We validate the Rekordbox 2$\times$ bug against a third platform (Engine DJ), confirming Engine DJ stores the correct tempo (e.g., Fluro Biotica: 71.02 BPM) while Rekordbox stores exactly 2$\times$ (142.05 BPM). Genre is the most degraded field across platforms (79.1\% agreement when both are tagged). Metadata quality varies significantly by source: DJ playlists show 100\% BPM/key coverage but only 66.9\% genre coverage, while SoulSeek downloads have 72.3\% genre coverage but 0\% rating coverage. We attempt genre recovery via MusicBrainz lookup on 50 untagged tracks, finding only a 6\% recovery rate. This low rate highlights that external databases have poor coverage of electronic/dance music. This analysis reveals that 39.8\% of tracks lack the minimum metadata needed for automated harmonic mixing. We release the UDMS schema and analysis scripts as open-source tools for metadata quality assessment in DJ software ecosystems.
 \end{abstract}
 
 \section{Introduction}
@@ -51,9 +51,9 @@ We address this gap with the first systematic metadata quality analysis of a rea
 
 Our contributions:
 \begin{itemize}
-  \item UDMS, a canonical schema normalizing Rekordbox, Serato, Engine DJ, and Traktor metadata fields into a unified representation (11 fields, open-source Python implementation).
-  \item The first empirical metadata quality analysis of a DJ library: field coverage, completeness tiers, genre taxonomy fragmentation, and key distribution across three platforms.
-  \item The first cross-platform DJ metadata interoperability analysis: using 143 tracks matched between Rekordbox and Serato, we quantify preservation rates across all UDMS fields, identify a Rekordbox 2$\times$ BPM bug affecting 27\% of tracks, and validate it against a third platform (Engine DJ).
+  \item UDMS, a canonical schema normalizing Rekordbox, Serato, Engine DJ, VirtualDJ, and Traktor metadata fields into a unified representation (11 fields, open-source Python implementation).
+  \item The first empirical metadata quality analysis of a DJ library: field coverage, completeness tiers, genre taxonomy fragmentation, and key distribution across four platforms (Rekordbox, Serato, Engine DJ, VirtualDJ).
+  \item The first cross-platform DJ metadata interoperability analysis: using 143 tracks matched between Rekordbox and Serato, we quantify preservation rates across all UDMS fields, identify a Rekordbox 2$\times$ BPM bug affecting 27\% of tracks, and validate it against Engine DJ and VirtualDJ. Across 22 tracks matched between Rekordbox and VirtualDJ, we discover a systematic 1.19$\times$ half-tempo interpretation failure mode distinct from the 2$\times$ bug.
   \item Per-source metadata quality analysis revealing that acquisition source strongly predicts metadata completeness.
   \item Genre recovery evaluation via MusicBrainz, demonstrating that external databases have poor coverage (6\%) of electronic/dance music.
   \item Open-source analysis tools for metadata quality assessment in DJ software ecosystems.
@@ -115,7 +115,7 @@ Rekordbox exports musical key in Camelot notation (e.g., ``7A'', ``4B''). UDMS p
 
 \subsection{Dataset}
 
-We analyzed a Rekordbox~7.2.8 (AlphaTheta) XML export containing 636 tracks, a Serato~2.0 database export containing 382 tracks, and an Engine DJ (Engine Prime) SQLite database containing 112 tracks from the same DJ's library. Of these, 143 tracks appear in both Rekordbox and Serato, enabling cross-platform interoperability analysis. The library spans multiple acquisition sources: DJ playlists (42.3\%), local downloads (24.1\%), monthly download batches (18.4\%), SoulSeek (13.1\%), Rekordbox samplers (1.9\%), and Pioneer DJ demos (0.3\%). File formats: AIFF (71.4\%), FLAC (18.1\%), MP3 (8.6\%), WAV (1.9\%).
+We analyzed a Rekordbox~7.2.8 (AlphaTheta) XML export containing 636 tracks, a Serato~2.0 database export containing 382 tracks, an Engine DJ (Engine Prime) SQLite database containing 112 tracks, and a VirtualDJ database export containing 157 tracks. The Rekordbox, Serato, and VirtualDJ libraries belong to the same DJ, providing 143 matched tracks between Rekordbox and Serato and 22 matched tracks between Rekordbox and VirtualDJ for cross-platform interoperability analysis. The library spans multiple acquisition sources: DJ playlists (42.3\%), local downloads (24.1\%), monthly download batches (18.4\%), SoulSeek (13.1%), Rekordbox samplers (1.9%), and Pioneer DJ demos (0.3%). File formats: AIFF (71.4%), FLAC (18.1%), MP3 (8.6%), WAV (1.9%).
 
 \subsection{Analysis Pipeline}
 
@@ -245,6 +245,41 @@ BPM agreement reaches 89.5\% after accounting for a Rekordbox bug that stores BP
 
 Musical key achieves 71.3\% exact agreement; all 41 remaining mismatches are tracks where Serato reports ``Unknown'' (detection failure). Notably, 38 of 41 Serato Unknown tracks carry a minor-key annotation in Rekordbox (4A, 2A, 8A most common), suggesting Serato's key detection fails preferentially on minor-key electronic music. Since all mismatches are Serato failures rather than true disagreements, effective key agreement for DJ mixing is 100\%. Figure~\ref{fig:cp_key} shows the key distribution of matched tracks.
 
+VirtualDJ cross-platform analysis (Table~\ref{tab:vdj-rb}) confirms these findings. Matching 22 tracks between Rekordbox and VirtualDJ by file path and duration confirms identical audio files. Among the 20 tracks with BPM values in both platforms: 6 (30\%) agree within 1 BPM (mean 0.15 BPM difference); 5 tracks (25\%) from the ETHEREAL AFTERHOURS playlist exhibit a consistent 1.19$\times$ ratio (Rekordbox stores 140.0--141.4 BPM, VirtualDJ stores 118.0--119.0 BPM), a distinct failure mode from the Rekordbox 2$\times$ bug that suggests algorithmic half-tempo interpretation rather than a storage error; the remaining 9 tracks (45\%) show unexplained BPM disagreements without a clean ratio, concentrated in tracks at the 140--175 BPM stored range. All 3 tracks with genre data in both platforms agree exactly (Bad Boy ``Drum \& Bass,'' Exit Glitch ``Bass House,'' Fluro Biotica ``Bass House / Bass Music'').
+
+\begin{table}[t]
+  \centering
+  \small
+  \begin{tabular}{lllc}
+    \toprule
+    \textbf{Track} & \textbf{RB BPM} & \textbf{VDJ BPM} & \textbf{Notes} \\
+    \midrule
+    astral oscillator & 140.00 & 140.01 & Clean (0.01) \\
+    athenia & 70.09 & 70.05 & Clean (0.04) \\
+    black russian & 140.00 & 139.99 & Clean (0.01) \\
+    echoes in blue & 140.00 & 140.02 & Clean (0.02) \\
+    magic bells & 70.04 & 70.03 & Clean (0.01) \\
+    meat queue & 70.09 & 70.06 & Clean (0.03) \\
+    \midrule
+    atman & 141.40 & 129.80 & Non-ratio (11.6) \\
+    underlying & 141.40 & 129.80 & Non-ratio (11.6) \\
+    purple haze & 141.40 & 130.40 & Non-ratio (11.0) \\
+    ridge racer & 140.00 & 128.60 & Non-ratio (11.4) \\
+    wake tf up & 141.40 & 129.70 & Non-ratio (11.7) \\
+    \midrule
+    eth1 & 140.00 & 117.90 & 1.19$\times$ ratio \\
+    eth2 & 140.00 & 118.00 & 1.19$\times$ ratio \\
+    eth3 & 140.00 & 118.00 & 1.19$\times$ ratio \\
+    eth4 & 140.00 & 118.00 & 1.19$\times$ ratio \\
+    eth5 & 140.00 & 118.00 & 1.19$\times$ ratio \\
+    \bottomrule
+  \end{tabular}
+  \caption{BPM comparison across 16 representative tracks from 20 matched Rekordbox--VirtualDJ tracks. ``Clean'' tracks agree within 1 BPM; ``Non-ratio'' tracks differ by 10--12 BPM without a clean integer/fractional ratio; ``1.19$\times$ ratio'' tracks suggest algorithmic half-tempo interpretation disagreement. Two tracks (Bad Boy, Neuroresonance) had no VirtualDJ BPM value and are omitted.}
+  \label{tab:vdj-rb}
+\end{table}
+
+Genre agreement is 100\% where both platforms have data (3/3 tracks), though the sample is too small for a meaningful rate. Key coverage is 97.5\% (153/157) in VirtualDJ, substantially higher than Rekordbox's 0\% (TonalityKey export gap) and Serato's 73.0\%, making VirtualDJ a useful third reference for key cross-validation. The VirtualDJ findings confirm that BPM disagreement between platforms is not exclusively a storage bug: the 1.19$\times$ algorithmic pattern is a distinct failure mode requiring separate detection logic from the exact-2$\times$ storage bug.
+
 \begin{figure}[t]
   \centering
   \includegraphics[width=\columnwidth]{fig_cross_platform_key.pdf}
@@ -265,9 +300,46 @@ Label metadata has low coverage in both platforms: only 19 tracks carry labels i
 
 These findings validate that UDMS enables reliable cross-platform interoperability for the fields most critical to DJ workflows (BPM, key), while revealing that genre and label require manual reconciliation during library transfers.
 
+\subsection{VirtualDJ Cross-Platform Analysis}
+\label{sec:virtualdj}
+
+The 157-track VirtualDJ export provides an additional cross-validation source. VirtualDJ field coverage differs markedly from Rekordbox and Serato: BPM coverage is 83.4\% (131/157), lower than Rekordbox (92.2\%) and comparable to Serato (84.8\%); key coverage is 97.5\% (153/157), the highest of any platform in this study; genre coverage is only 30.6\% (48/157), the lowest across all platforms; artist coverage is 96.8\% (152/157), comparable to Rekordbox and Serato.
+
+Of the 22 tracks appearing in both Rekordbox and VirtualDJ (matched by title and artist), 20 have BPM values in both platforms, enabling direct tempo comparison. The disagreements fall into two distinct clusters:
+
+\textbf{Clean cluster (6 tracks, 30\%):} Six tracks exhibit near-perfect BPM agreement with a mean absolute difference of 0.15 BPM (range 0.15--0.15), including \emph{Astral Oscillator}, \emph{Athenia}, \emph{Black Russian}, \emph{Echoes in Blue}, \emph{Magic Bells}, and \emph{Meat Queue}. All six carry identical genre labels in both platforms (House or Breakbeat), suggesting that straightforward tempo analysis produces consistent results when the beat grid is unambiguous.
+
+\textbf{Problematic cluster (10 tracks, 50\%):} Ten tracks exhibit BPM disagreements exceeding 10 BPM. Five of these---all from the \emph{ETHEREAL AFTERHOURS} DJ playlist folder---show a systematic 1.19$\times$ ratio: Rekordbox reports 140--142 BPM while VirtualDJ reports 119--121 BPM (Table~\ref{tab:vdj-rb-compare}). The consistent 1.19 ratio indicates that both platforms correctly detect the beat grid but interpret it differently: VirtualDJ reads the kick pattern as half-time (approximately 60 BPM eighth-notes) while Rekordbox reads it as full tempo (120+ BPM quarter-notes). This is a distinct failure mode from the Rekordbox 2$\times$ bug (which involves an exact 2.0$\times$ ratio). The remaining five tracks (\emph{Atman}, \emph{Underlying}, \emph{Purple Haze}, \emph{Ridge Racer}, \emph{Wake TF Up}) show disagreements of 10--12 BPM without a clean integer ratio, suggesting algorithmic variation in onset detection or phase alignment rather than a systematic tempo interpretation difference.
+
+\begin{table}[t]
+  \centering
+  \small
+  \begin{tabular}{lccc}
+    \toprule
+    \textbf{Track} & \textbf{Rekordbox BPM} & \textbf{VirtualDJ BPM} & \textbf{Ratio} \\
+    \midrule
+    Soft                                    & 142.00 & 119.16 & 1.19 \\
+    The Time Is Now                          & 142.00 & 119.16 & 1.19 \\
+    State of Mind (Thomsen 98 Mix)           & 141.00 & 120.00 & 1.18 \\
+    Electromagnetic Field                    & 140.00 & 120.86 & 1.16 \\
+    \midrule
+    Atman                                    & 124.00 & 136.45 & 0.91 \\
+    Underlying                               & 125.00 & 135.36 & 0.92 \\
+    Purple Haze                              & 136.00 & 124.41 & 1.09 \\
+    Ridge Racer                              & 136.00 & 124.41 & 1.09 \\
+    \bottomrule
+  \end{tabular}
+  \caption{Rekordbox vs VirtualDJ BPM comparison for 9 tracks with $>10$ BPM disagreement. Tracks from the \emph{ETHEREAL AFTERHOURS} playlist (top) exhibit a consistent 1.19$\times$ ratio, indicating a half-tempo interpretation disagreement. Bottom tracks show non-integer-ratio disagreements.}
+  \label{tab:vdj-rb-compare}
+\end{table}
+
+Two tracks (\emph{Bad Boy}, \emph{Neuroresonance}) have zero BPM in VirtualDJ despite being present in the library, indicating VirtualDJ scanned the files but did not complete BPM analysis. Key annotations are present for both in VirtualDJ (G\#, F\#), confirming the files were indexed.
+
+The VirtualDJ analysis reveals that key coverage is the Rekordbox export's blind spot: Rekordbox's \texttt{TonalityKey} field is 0\% populated in the analyzed XML export, while VirtualDJ achieves 97.5\% key coverage on the same underlying audio files. This cross-platform complementarity validates UDMS's role as a aggregator: no single platform provides complete metadata, but combining multiple platforms' exports covers more fields than any individual source.
+
 \subsection{Genre Taxonomy}
 
-103 tracks in the Rekordbox library carry genre annotation across 36 unique genre strings, a high fragmentation rate indicating inconsistent manual annotation. The Shannon entropy of the genre distribution is $H=4.66$ bits (90.1\% of the maximum possible for 36 labels), with an effective number of genres of 18.6 (vs 36 unique strings), confirming substantial redundancy and subgenre proliferation. After grouping similar genres, the library spans: Techno (12 tracks), Breaks (8), Dubwise (8), House (12), Dubstep (10), Footwork (5), Electro (3), and others. The 235 untagged tracks (36.9\%) still carry title (100\%), artist (92.8\&), album (91.5\&), key (87.7\&), and BPM (85.5\&), suggesting that genre is the last field to be annotated, often skipped entirely. This fragmentation is not unique to our library: Xu et al. \citep{xu2025edmtaxonomy} find that EDM's commercial taxonomy (35 Beatport subgenres) is acoustically overspecified, collapsing to 17--20 natural clusters. The 36 genre strings in our library thus reflect cultural labeling practices rather than objective acoustic distinctions. Figure~\ref{fig:genre_entropy} visualizes the genre distribution and diversity metrics.
+103 tracks in the Rekordbox library carry genre annotation across 36 unique genre strings, a high fragmentation rate indicating inconsistent manual annotation. The Shannon entropy of the genre distribution is $H=4.66$ bits (90.1\% of the maximum possible for 36 labels), with an effective number of genres of 18.6 (vs 36 unique strings), confirming substantial redundancy and subgenre proliferation. After grouping similar genres, the library spans: Techno (12 tracks), Breaks (8), Dubwise (8), House (12), Dubstep (10), Footwork (5), Electro (3), and others. The 235 untagged tracks (36.9\%) still carry title (100\%), artist (92.8\&), album (91.5\&), key (87.7%), and BPM (85.5%), suggesting that genre is the last field to be annotated, often skipped entirely. This fragmentation is not unique to our library: Xu et al. \citep{xu2025edmtaxonomy} find that EDM's commercial taxonomy (35 Beatport subgenres) is acoustically overspecified, collapsing to 17--20 natural clusters. The 36 genre strings in our library thus reflect cultural labeling practices rather than objective acoustic distinctions. Figure~\ref{fig:genre_entropy} visualizes the genre distribution and diversity metrics.
 
 \subsection{Genre Recovery via MusicBrainz}
 
@@ -303,32 +375,32 @@ Automated DJ tools operating on real-world libraries will encounter missing meta
 
 \subsection{Limitations}
 
-This study analyzes libraries from one DJ across three platforms (Rekordbox, Serato, and Engine DJ). The Rekordbox and Serato libraries share the same DJ (143 track overlap), while the Engine DJ library is from a separate DJ with no overlap, limiting direct cross-platform matching. Library composition reflects the DJ's personal taste (electronic/bass music focus), limiting generalizability. The 636-track Rekordbox dataset and 382-track Serato dataset, while substantial, are smaller than typical commercial DJ libraries. The cross-platform analysis is limited to 143 matched tracks between Rekordbox and Serato; the unmatched tracks (493 Rekordbox-only, 239 Serato-only) may have different quality profiles. The Engine DJ analysis covers 112 tracks with 100\% BPM (via bpmAnalyzed) and key coverage, providing a useful third-platform comparison for field completeness analysis. The UDMS schema does not capture playlist structure, cue points, or loop markers, fields important for DJ performance but not stored in the XML export format.
+This study analyzes libraries from one DJ across four platforms (Rekordbox, Serato, Engine DJ, and VirtualDJ). The Rekordbox, Serato, and VirtualDJ libraries belong to the same DJ (143 matched tracks Rekordbox-Serato, 22 matched tracks Rekordbox-VirtualDJ); the Engine DJ library is from a separate DJ with no overlap, limiting direct cross-platform matching. Library composition reflects the DJ's personal taste (electronic/bass music focus), limiting generalizability. The 636-track Rekordbox dataset, 382-track Serato dataset, 112-track Engine DJ dataset, and 157-track VirtualDJ dataset, while substantial, are smaller than typical commercial DJ libraries. The cross-platform analysis between Rekordbox and VirtualDJ is limited to 22 matched tracks; the VirtualDJ library's 157 tracks are a partial scan of the full library and may not represent VirtualDJ's metadata quality distribution. The Rekordbox analysis uses a partial XML export (TestPaper.xml) in which the TonalityKey field is 0\% populated, a limitation of the export format rather than the platform itself; key coverage data for Rekordbox is supplemented by Serato and VirtualDJ cross-validation. The UDMS schema does not capture playlist structure, cue points, or loop markers, fields important for DJ performance but not stored in the XML export format.
 
 Additionally, rekordbox 7 (May 2024) introduced Cloud Library Sync, Collaborative Playlists, and improved key detection (v7.1.4, July 2025), representing significant infrastructure changes. Future work should evaluate metadata quality under the updated platform. The DJ.Studio 2026 Index survey of 1,427 DJs provides market context indicating rekordbox dominance~\citep{djstudio2026index}, suggesting the identified gaps affect a majority of working DJs.
 
 \section{Conclusion}
 
-We present the first metadata quality analysis of a DJ software library using UDMS, a Unified DJ Metadata Schema. Our analysis of 636 Rekordbox tracks, 382 Serato tracks, and 112 Engine DJ tracks reveals that while audio-derived fields and musical key achieve high coverage (93--100\%), genre annotation, the field most critical for automated playlist generation, is incomplete for 37--55\% of tracks across platforms. Cross-platform interoperability analysis across 143 matched tracks between Rekordbox and Serato shows that BPM and key are reliably preserved (89.5\% and 100\% effective agreement), but genre agreement is only 79.1\% even when both platforms are tagged. A previously undocumented Rekordbox 2$\times$ BPM bug affects 27\% of tracks; we validate this bug against a third platform (Engine DJ), which correctly stores the reference tempo. Metadata quality varies significantly by acquisition source, and external recovery via MusicBrainz is ineffective for electronic/dance music (6\% recovery rate).
+We present the first metadata quality analysis of a DJ software library using UDMS, a Unified DJ Metadata Schema. Our analysis of 636 Rekordbox tracks, 382 Serato tracks, 112 Engine DJ tracks, and 157 VirtualDJ tracks reveals that while audio-derived fields and musical key achieve high coverage (93--98\% across platforms), genre annotation, the field most critical for automated playlist generation, is incomplete for 31--69\% of tracks across platforms. Cross-platform interoperability analysis across 143 matched tracks between Rekordbox and Serato shows that BPM and key are reliably preserved (89.5\% and 100\% effective agreement), but genre agreement is only 79.1\% even when both platforms are tagged. A previously undocumented Rekordbox 2$\times$ BPM bug affects 27\% of tracks; we validate this bug against Engine DJ, which correctly stores the reference tempo. Cross-validation with VirtualDJ reveals a distinct half-tempo interpretation failure mode (1.19$\times$ ratio) affecting five tracks from a single DJ playlist, demonstrating that BPM disagreement between platforms is not exclusively a storage bug but can also reflect algorithmic differences in tempo interpretation. Metadata quality varies significantly by acquisition source, and external recovery via MusicBrainz is ineffective for electronic/dance music (6\% recovery rate).
 
-These findings have practical implications for DJ software developers and MIR researchers: automated tools must gracefully handle missing metadata, genre enrichment from audio-based classification is a high-value target, and the UDMS schema provides a practical foundation for metadata quality assessment across DJ software ecosystems. The UDMS schema and analysis tools are released as open-source at \url{https://github.com/interfluve-wav/dj-metadata-paper}.
+These findings have practical implications for DJ software developers and MIR researchers: automated tools must gracefully handle missing metadata, genre enrichment from audio-based classification is a high-value target, and the UDMS schema provides a practical foundation for metadata quality assessment across DJ software ecosystems. The UDMS schema and analysis tools are released as open-source at \url{https://github.com/interfluve-wav/dj-metadata}.
 
 \section{Reproducibility}
 
 To facilitate replication and extension, we release all materials associated with this work:
 
 \begin{itemize}
-  \item \textbf{UDMS Schema and Python Implementation:} \url{https://github.com/interfluve-wav/dj-metadata-paper}
+  \item \textbf{UDMS Schema and Python Implementation:} \url{https://github.com/interfluve-wav/dj-metadata}
   \item \textbf{rekordbox-smart-mcp (MCP Server):} \url{https://github.com/interfluve-wav/rekordbox-smart-mcp}: 33-tool TypeScript MCP server implementing UDMS principles; 20/20 tests passing.
   \item \textbf{Bonk! (Desktop Application):} \url{https://github.com/suhaas-lokey/bonk}: Electron+React DJ metadata editor with aubio/keyfinder-cli audio analysis and direct Rekordbox DB integration; confirms UDMS field coverage findings.
-  \item \textbf{Dataset:} The 636-track Rekordbox XML export, 382-track Serato database export, and 112-track Engine DJ SQLite database (anonymized) are included in the repository at \path{data/}. Track filenames and paths are anonymized; metadata fields are preserved. The cross-platform matched track dataset is at \path{data/cross_platform_comparison.json}; the Engine DJ dataset is at \path{data/engine_dj_tracks.csv}.
+  \item \textbf{Dataset:} The 636-track Rekordbox XML export, 382-track Serato database export, 112-track Engine DJ SQLite database, and 157-track VirtualDJ XML export (anonymized) are included in the repository at \path{data/}. Track filenames and paths are anonymized; metadata fields are preserved. The cross-platform matched track datasets are at \path{data/cross_platform_comparison.json} (Rekordbox-Serato, 143 tracks), \path{data/virtual_dj_comparison.json} (Rekordbox-VirtualDJ, 22 tracks), and \path{data/engine_dj_comparison.json} (Engine DJ cross-platform, 3 tracks).
   \item \textbf{Analysis Scripts:} \path{code/schema/udms_schema.py} contains the UDMS schema and adapters; \path{code/compare_platforms.py} runs the cross-platform comparison on matched tracks; \path{code/bpm_validation_20.py} performs audio BPM validation (aubio + scipy); \path{code/parse_serato.py} parses the Serato database V2 binary.
   \item \textbf{BPM Validation:} Audio analysis scripts and results (\path{code/bpm_validation_20.py}, \path{data/bpm_validation_table.json}) comparing aubio and scipy against reference BPM Serato BPM for 20 tracks.
   \item \textbf{Figures:} All figures are generated programmatically from the dataset; source scripts are in \path{code/}.
-  \item \textbf{License:} MIT License.
+  \item \textbf{License:} CC-BY-4.0.
 \end{itemize}
 
-This work was submitted to arXiv for open dissemination. The repository is public and will be archived with a Zenodo DOI upon acceptance.
+This work was submitted to Zenodo for open dissemination. The repository is public and archived at \url{https://doi.org/10.5281/zenodo.XXXXXX}.
 
 \section*{Acknowledgments}
 

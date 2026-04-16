@@ -1,0 +1,59 @@
+{
+  "platform": "VirtualDJ",
+  "parser": "rekordbox-smart-mcp virtual_dj parser (BPM=raw*282)",
+  "total_tracks": 157,
+  "coverage": {
+    "bpm": "83.4%",
+    "key": "97.5%",
+    "genre": "30.6%",
+    "artist": "96.8%"
+  },
+  "bpm_stats": {
+    "min": 105.75,
+    "max": 169.2,
+    "mean": 127.11
+  },
+  "key_distribution": {
+    "F#m": 15,
+    "Dm": 14,
+    "Gm": 14,
+    "A#m": 12,
+    "Cm": 11,
+    "Fm": 11,
+    "G#m": 11,
+    "G#": 8,
+    "Ebm": 7,
+    "Am": 7,
+    "Bm": 7,
+    "F": 6
+  },
+  "genre_distribution": {
+    "untagged": 109,
+    "House": 8,
+    "Minimal / Deep Tech": 4,
+    "Techno": 4,
+    "Breaks": 3,
+    "Baalti": 3,
+    "Tech House": 3,
+    "Techno (Raw / Deep / Hypnotic)": 2,
+    "Bass / Club": 2,
+    "UKG": 1
+  },
+  "top_artists": {
+    "Unknown": 5,
+    "Arapu": 2,
+    "DVS1": 2,
+    "Baalti": 2,
+    "DJ Sprinter": 2,
+    "Kenji Hina": 2,
+    "Fadi Mohem": 2,
+    "Nic Baker": 2,
+    "Audio Units": 2,
+    "Heiko Laux, Joel Mull": 2,
+    "Tini": 2,
+    "Shigeto, cleveland thrasher, Ahya Simone": 1,
+    "Barry Can\u2019t Swim, SBTRKT": 1,
+    "Harvey Sutherland, They Hate Change": 1,
+    "The Vision, Andreya Triana": 1
+  }
+}
