@@ -81,12 +81,12 @@ T.~Kim, M.~Choi, E.~Sacks, and Y.-H. Yang, ``A computational analysis of
 
 \bibitem{knees2015edmdatasets}
 \BIBentryALTinterwordspacing
-P.~Knees, B.~McFee, E.~C.~M. Baltes, and M.~I. Mandel, ``Making sense of {EDM}:
-  A pilot study on the relationships between tempo, musical key, and genre in
-  {Electronic Dance Music},'' in \emph{Proc. of the 16th Int. Society for Music
-  Information Retrieval Conf. (ISMIR 2015)}, M{\'a}laga, Spain, 2015, pp.
-  372--378. [Online]. Available:
-  \url{https://archives.ismir.net/ismir2015/paper/000085.pdf}
+P.~Knees, {\'A}.~Faraldo, P.~Herrera, R.~Vogl, S.~B{\"o}ck,
+  F.~H{\"o}rschl{\"a}ger, and M.~L. Goff, ``Two data sets for tempo estimation
+  and key detection in electronic dance music,'' in \emph{Proc. of the 16th
+  Int. Society for Music Information Retrieval Conf. (ISMIR 2015)}, M{\'a}laga,
+  Spain, 2015, pp. 231--237. [Online]. Available:
+  \url{https://www.ismir2015.uma.es/articles/246_Paper.pdf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{ttmr2024}
@@ -110,8 +110,9 @@ M.~Ribov and K.~Hagedorn, ``Metadata quality in digital archives: A framework
 \BIBentrySTDinterwordspacing
 
 \bibitem{bruce2004metadata}
-H.~C. I. and B.~Hillmann, ``Updated functional model for metadata quality,''
-  pp. 161--171, 2004.
+C.~I. Hillmann, ``Updated functional model for metadata quality,'' in
+  \emph{Metadata in Practice}.\hskip 1em plus 0.5em minus 0.4em\relax American
+  Library Association, 2004, pp. 161--171.
 
 \bibitem{bogdanov2011metadata}
 \BIBentryALTinterwordspacing
@@ -119,7 +120,7 @@ D.~Bogdanov and P.~Herrera, ``How much metadata do we need in music
   recommendation? a subjective evaluation study,'' in \emph{Proc. of the 12th
   Int. Society for Music Information Retrieval Conf. (ISMIR 2011)}, Miami,
   Florida, USA, 2011, pp. 297--302. [Online]. Available:
-  \url{https://ismir2011.ismir.net/papers/ISMIR2011_85.pdf}
+  \url{https://ismir2011.ismir.net/papers/PS1-10.pdf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{bock2015tempo}
@@ -181,8 +182,8 @@ J.~Choi, J.~Lee, J.~Park, and J.~Nam, ``Zero-shot learning and knowledge
 \bibitem{xu2025edmtaxonomy}
 \BIBentryALTinterwordspacing
 W.~Xu, T.~Dai, O.~Goudet, and X.~Wang, ``Acoustic overspecification in
-  electronic dance music taxonomy,'' 2025. [Online]. Available:
-  \url{https://arxiv.org/abs/2509.11474}
+  electronic dance music taxonomy,'' \emph{arXiv preprint arXiv:2509.11474},
+  2025. [Online]. Available: \url{https://arxiv.org/abs/2509.11474}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
