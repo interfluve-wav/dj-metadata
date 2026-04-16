@@ -1,0 +1,70 @@
+{
+  "engine_count": 112,
+  "rekordbox_count": 637,
+  "serato_count": 382,
+  "engine_rb_matched": 3,
+  "field_coverage": {
+    "engine_dj": {
+      "title": 100.0,
+      "artist": 90.2,
+      "album": 88.4,
+      "genre": 62.5,
+      "label": 52.7,
+      "bpm": 10.7,
+      "key": 100.0,
+      "year": 86.6
+    },
+    "serato": {
+      "bpm": 84.8,
+      "key": 92.1,
+      "genre": 54.5,
+      "label": 40.6
+    }
+  },
+  "bpm_stats": {
+    "serato": {
+      "min": 69.99,
+      "max": 145.0,
+      "mean": 115.63
+    },
+    "rekordbox": {
+      "min": 75.0,
+      "max": 174.0,
+      "mean": 131.05
+    },
+    "engine_dj": {
+      "min": 70.0,
+      "max": 154.0,
+      "mean": 119.15
+    }
+  },
+  "matched_tracks": [
+    {
+      "title": "Exit Glitch (Extended Mix)",
+      "artist": "David Fritz",
+      "engine_bpm": 126.0,
+      "rekordbox_bpm": 126.0,
+      "engine_key": "1A",
+      "rekordbox_key": "8B",
+      "bpm_diff": 0.0
+    },
+    {
+      "title": "Black Spot",
+      "artist": "Jafu",
+      "engine_bpm": 138.0,
+      "rekordbox_bpm": 138.0,
+      "engine_key": "7B",
+      "rekordbox_key": "2A",
+      "bpm_diff": 0.0
+    },
+    {
+      "title": "Fluro Biotica",
+      "artist": "Sub Basics, Headland",
+      "engine_bpm": 71.02458953857422,
+      "rekordbox_bpm": 142.05,
+      "engine_key": "11B",
+      "rekordbox_key": "11A",
+      "bpm_diff": 71.03
+    }
+  ]
+}

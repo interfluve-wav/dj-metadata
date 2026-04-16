@@ -1,0 +1,9013 @@
+{
+  "rekordbox_count": 637,
+  "serato_count": 382,
+  "matched_count": 143,
+  "results": [
+    {
+      "title": {
+        "rekordbox": "Obscured Breath",
+        "serato": "Obscured Breath"
+      },
+      "artist": {
+        "rekordbox": "Stones Taro",
+        "serato": "Stones Taro"
+      },
+      "album": {
+        "rekordbox": "Foglore#1",
+        "serato": "Foglore#1"
+      },
+      "genre": {
+        "rekordbox": "Dubby",
+        "serato": "Dubby"
+      },
+      "bpm": {
+        "rekordbox": 138.0,
+        "serato": 138.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Love Or Lust (Raw Mix)",
+        "serato": "Love Or Lust (Raw Mix)"
+      },
+      "artist": {
+        "rekordbox": "D'Monk",
+        "serato": "D'Monk"
+      },
+      "album": {
+        "rekordbox": "Love Or Lust",
+        "serato": "Love Or Lust"
+      },
+      "genre": {
+        "rekordbox": "House",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 131.02,
+        "serato": 131.01
+      },
+      "key": {
+        "rekordbox": "2A",
+        "serato": "2A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.010000000000019327,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Interchanges",
+        "serato": "Interchanges"
+      },
+      "artist": {
+        "rekordbox": "Batavia Collective",
+        "serato": "Batavia Collective"
+      },
+      "album": {
+        "rekordbox": "BTVC",
+        "serato": "BTVC"
+      },
+      "genre": {
+        "rekordbox": "Downtempo",
+        "serato": "Downtempo"
+      },
+      "bpm": {
+        "rekordbox": 104.94,
+        "serato": 104.64
+      },
+      "key": {
+        "rekordbox": "5A",
+        "serato": "5A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.29999999999999716,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Falling Theme",
+        "serato": "Falling Theme"
+      },
+      "artist": {
+        "rekordbox": "Will Silver",
+        "serato": "Will Silver"
+      },
+      "album": {
+        "rekordbox": "Voyage EP",
+        "serato": "Voyage EP"
+      },
+      "genre": {
+        "rekordbox": "Breaks",
+        "serato": "Breaks"
+      },
+      "bpm": {
+        "rekordbox": 136.0,
+        "serato": 136.0
+      },
+      "key": {
+        "rekordbox": "2A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Cut the Chord",
+        "serato": "Cut the Chord"
+      },
+      "artist": {
+        "rekordbox": "Insomniast",
+        "serato": "Insomniast"
+      },
+      "album": {
+        "rekordbox": "W133008 - EP",
+        "serato": "W133008 - EP"
+      },
+      "genre": {
+        "rekordbox": "Electronic",
+        "serato": "Electronic"
+      },
+      "bpm": {
+        "rekordbox": 143.0,
+        "serato": 71.5
+      },
+      "key": {
+        "rekordbox": "5A",
+        "serato": "5A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 71.5,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Aida (AstroHertz Remix)",
+        "serato": "Aida (AstroHertz Remix)"
+      },
+      "artist": {
+        "rekordbox": "Jay Dunham",
+        "serato": "Jay Dunham"
+      },
+      "album": {
+        "rekordbox": "Aida (AstroHertz Remix) - Single",
+        "serato": "Aida (AstroHertz Remix) - Single"
+      },
+      "genre": {
+        "rekordbox": "Dance",
+        "serato": "Dance"
+      },
+      "bpm": {
+        "rekordbox": 128.0,
+        "serato": 128.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "4am Cycles (Doctor Jeep Remix)",
+        "serato": "4am Cycles (Doctor Jeep Remix)"
+      },
+      "artist": {
+        "rekordbox": "Yas Reven",
+        "serato": "Yas Reven"
+      },
+      "album": {
+        "rekordbox": "Pulse Cycles",
+        "serato": "Pulse Cycles"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "11A",
+        "serato": "11A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Power Plant",
+        "serato": "Power Plant"
+      },
+      "artist": {
+        "rekordbox": "sweater",
+        "serato": "sweater"
+      },
+      "album": {
+        "rekordbox": "Sweat.exe",
+        "serato": "Sweat.exe"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 127.0,
+        "serato": 127.0
+      },
+      "key": {
+        "rekordbox": "6A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Bona Fide",
+        "serato": "Bona Fide"
+      },
+      "artist": {
+        "rekordbox": "Pugilist, Mystic State",
+        "serato": "Pugilist, Mystic State"
+      },
+      "album": {
+        "rekordbox": "Maternal",
+        "serato": "Maternal"
+      },
+      "genre": {
+        "rekordbox": "Dub",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 132.0,
+        "serato": 132.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Twist Thumb",
+        "serato": "Twist Thumb"
+      },
+      "artist": {
+        "rekordbox": "Stones Taro",
+        "serato": "Stones Taro"
+      },
+      "album": {
+        "rekordbox": "Foglore#1",
+        "serato": "Foglore#1"
+      },
+      "genre": {
+        "rekordbox": "Dubwise",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 170.0,
+        "serato": 85.0
+      },
+      "key": {
+        "rekordbox": "5A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 85.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "TX01",
+        "serato": "TX01"
+      },
+      "artist": {
+        "rekordbox": "Andy Martin",
+        "serato": "Andy Martin"
+      },
+      "album": {
+        "rekordbox": "NECH033",
+        "serato": "NECH033"
+      },
+      "genre": {
+        "rekordbox": "Hypnotic",
+        "serato": "Hypnotic"
+      },
+      "bpm": {
+        "rekordbox": 142.0,
+        "serato": 71.0
+      },
+      "key": {
+        "rekordbox": "9A",
+        "serato": "9A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 71.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "2am Cycles",
+        "serato": "2am Cycles"
+      },
+      "artist": {
+        "rekordbox": "Yas Reven",
+        "serato": "Yas Reven"
+      },
+      "album": {
+        "rekordbox": "Pulse Cycles",
+        "serato": "Pulse Cycles"
+      },
+      "genre": {
+        "rekordbox": "Dembow",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 132.0,
+        "serato": 132.0
+      },
+      "key": {
+        "rekordbox": "5A",
+        "serato": "5A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Turbulence At The Orchestra",
+        "serato": "Turbulence At The Orchestra"
+      },
+      "artist": {
+        "rekordbox": "Human Safari",
+        "serato": "Human Safari"
+      },
+      "album": {
+        "rekordbox": "Children Of The Sea",
+        "serato": "Children Of The Sea"
+      },
+      "genre": {
+        "rekordbox": "Techno",
+        "serato": "Techno"
+      },
+      "bpm": {
+        "rekordbox": 144.0,
+        "serato": 72.0
+      },
+      "key": {
+        "rekordbox": "8B",
+        "serato": "8B"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 72.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Exit Glitch (Radio Edit)",
+        "serato": "Exit Glitch (Radio Edit)"
+      },
+      "artist": {
+        "rekordbox": "David Fritz",
+        "serato": "David Fritz"
+      },
+      "album": {
+        "rekordbox": "Exit Glitch (Radio Edit)",
+        "serato": "Exit Glitch (Radio Edit)"
+      },
+      "genre": {
+        "rekordbox": "Electro, Dance",
+        "serato": "rally house"
+      },
+      "bpm": {
+        "rekordbox": 126.0,
+        "serato": 126.0
+      },
+      "key": {
+        "rekordbox": "8B",
+        "serato": "8B"
+      },
+      "label": {
+        "rekordbox": "DF Originals Records",
+        "serato": "DF Originals Records"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Telling The Time",
+        "serato": "Telling The Time"
+      },
+      "artist": {
+        "rekordbox": "Stones Taro",
+        "serato": "Stones Taro"
+      },
+      "album": {
+        "rekordbox": "Telling The Time",
+        "serato": "Telling The Time"
+      },
+      "genre": {
+        "rekordbox": "Dubstep",
+        "serato": "Dubstep"
+      },
+      "bpm": {
+        "rekordbox": 138.0,
+        "serato": 138.0
+      },
+      "key": {
+        "rekordbox": "12A",
+        "serato": "12A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Theory",
+        "serato": "Theory"
+      },
+      "artist": {
+        "rekordbox": "Sub Basics",
+        "serato": "Sub Basics"
+      },
+      "album": {
+        "rekordbox": "Never Too Late",
+        "serato": "Never Too Late"
+      },
+      "genre": {
+        "rekordbox": "Autonomic",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 87.0,
+        "serato": 87.0
+      },
+      "key": {
+        "rekordbox": "12A",
+        "serato": "12A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Dr Feel Right",
+        "serato": "Dr Feel Right"
+      },
+      "artist": {
+        "rekordbox": "Josh Baker, The Egyptian Lover, Rome Fortune",
+        "serato": "Josh Baker, The Egyptian Lover, Rome Fortune"
+      },
+      "album": {
+        "rekordbox": "Dr Feel Right (Malugi remix)",
+        "serato": "Dr Feel Right (Malugi remix)"
+      },
+      "genre": {
+        "rekordbox": "Funky House",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 128.0,
+        "serato": 127.99
+      },
+      "key": {
+        "rekordbox": "3A",
+        "serato": "3A"
+      },
+      "label": {
+        "rekordbox": "Three Six Zero Recordings",
+        "serato": "Three Six Zero Recordings"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.010000000000005116,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Lido",
+        "serato": "Lido"
+      },
+      "artist": {
+        "rekordbox": "Human Safari",
+        "serato": "Human Safari"
+      },
+      "album": {
+        "rekordbox": "Children Of The Sea",
+        "serato": "Children Of The Sea"
+      },
+      "genre": {
+        "rekordbox": "Techno",
+        "serato": "Techno"
+      },
+      "bpm": {
+        "rekordbox": 145.0,
+        "serato": 72.5
+      },
+      "key": {
+        "rekordbox": "10B",
+        "serato": "10B"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 72.5,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Be Someone",
+        "serato": "Be Someone"
+      },
+      "artist": {
+        "rekordbox": "Retromigration, Bezzix, Mauricesax",
+        "serato": "Retromigration, Bezzix, Mauricesax"
+      },
+      "album": {
+        "rekordbox": "Straight Foxin' LP",
+        "serato": "Straight Foxin' LP"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 115.0,
+        "serato": 115.0
+      },
+      "key": {
+        "rekordbox": "5A",
+        "serato": "5A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Serious Music (La Chinesca Mix)",
+        "serato": "Serious Music (La Chinesca Mix)"
+      },
+      "artist": {
+        "rekordbox": "sweater",
+        "serato": "sweater"
+      },
+      "album": {
+        "rekordbox": "Sweat.exe",
+        "serato": "Sweat.exe"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 132.0,
+        "serato": 132.0
+      },
+      "key": {
+        "rekordbox": "2A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Helix",
+        "serato": "Helix"
+      },
+      "artist": {
+        "rekordbox": "Sub Basics",
+        "serato": "Sub Basics"
+      },
+      "album": {
+        "rekordbox": "Never Too Late",
+        "serato": "Never Too Late"
+      },
+      "genre": {
+        "rekordbox": "Dubstep",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "No Time for Treading Lightly",
+        "serato": "No Time for Treading Lightly"
+      },
+      "artist": {
+        "rekordbox": "Bits & Pieces",
+        "serato": "Bits & Pieces"
+      },
+      "album": {
+        "rekordbox": "The Isolation EP",
+        "serato": "The Isolation EP"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 150.07,
+        "serato": 132.0
+      },
+      "key": {
+        "rekordbox": "1A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 18.069999999999993,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Cyclic Wavez",
+        "serato": "Cyclic Wavez"
+      },
+      "artist": {
+        "rekordbox": "Piezo",
+        "serato": "Piezo"
+      },
+      "album": {
+        "rekordbox": "Cyclic Wavez",
+        "serato": "Cyclic Wavez"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": "Mutant Techno"
+      },
+      "bpm": {
+        "rekordbox": 138.0,
+        "serato": 138.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "4A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Cotton Club",
+        "serato": "Cotton Club"
+      },
+      "artist": {
+        "rekordbox": "Hamo",
+        "serato": "Hamo"
+      },
+      "album": {
+        "rekordbox": "The Cotton Club EP",
+        "serato": "The Cotton Club EP"
+      },
+      "genre": {
+        "rekordbox": "House",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 117.0,
+        "serato": 117.0
+      },
+      "key": {
+        "rekordbox": "9A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": "Splendor & Squalour"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": false,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Lime Tikka",
+        "serato": "Lime Tikka"
+      },
+      "artist": {
+        "rekordbox": "Baalti, Lapgan",
+        "serato": "Baalti, Lapgan"
+      },
+      "album": {
+        "rekordbox": "Ipa Ma",
+        "serato": "Ipa Ma"
+      },
+      "genre": {
+        "rekordbox": "Baalti",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 130.0,
+        "serato": 130.0
+      },
+      "key": {
+        "rekordbox": "1A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "New Mineral",
+        "serato": "New Mineral"
+      },
+      "artist": {
+        "rekordbox": "Stones Taro",
+        "serato": "Stones Taro"
+      },
+      "album": {
+        "rekordbox": "Foglore#1",
+        "serato": "Foglore#1"
+      },
+      "genre": {
+        "rekordbox": "Techno",
+        "serato": "Techno"
+      },
+      "bpm": {
+        "rekordbox": 136.0,
+        "serato": 136.0
+      },
+      "key": {
+        "rekordbox": "6A",
+        "serato": "6A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "All I Do",
+        "serato": "All I Do"
+      },
+      "artist": {
+        "rekordbox": "Retromigration, Mauricesax",
+        "serato": "Retromigration, Mauricesax"
+      },
+      "album": {
+        "rekordbox": "Straight Foxin' LP",
+        "serato": "Straight Foxin' LP"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 116.0,
+        "serato": 116.0
+      },
+      "key": {
+        "rekordbox": "7A",
+        "serato": "7A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Rain",
+        "serato": "Rain"
+      },
+      "artist": {
+        "rekordbox": "Breakage, David Rodigan",
+        "serato": "Breakage, David Rodigan"
+      },
+      "album": {
+        "rekordbox": "Together / Rain",
+        "serato": "Together / Rain"
+      },
+      "genre": {
+        "rekordbox": "Dubstep",
+        "serato": "Dubstep"
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "5A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Passenger",
+        "serato": "Passenger"
+      },
+      "artist": {
+        "rekordbox": "Sub Basics",
+        "serato": "Sub Basics"
+      },
+      "album": {
+        "rekordbox": "Never Too Late",
+        "serato": "Never Too Late"
+      },
+      "genre": {
+        "rekordbox": "Dubwise",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 120.0,
+        "serato": 120.0
+      },
+      "key": {
+        "rekordbox": "1A",
+        "serato": "1A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Arambha",
+        "serato": "Arambha"
+      },
+      "artist": {
+        "rekordbox": "Marco Borg",
+        "serato": "Marco Borg"
+      },
+      "album": {
+        "rekordbox": "Mystical Fields, Pt. 1",
+        "serato": "Mystical Fields, Pt. 1"
+      },
+      "genre": {
+        "rekordbox": "Hypnotic",
+        "serato": "House"
+      },
+      "bpm": {
+        "rekordbox": 128.0,
+        "serato": 128.0
+      },
+      "key": {
+        "rekordbox": "3A",
+        "serato": "3A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": "Aurora M\u00edstica Records"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": false,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "SPEAKERS (VIP MIX)",
+        "serato": "SPEAKERS (VIP MIX)"
+      },
+      "artist": {
+        "rekordbox": "Hyas, Pura Pura",
+        "serato": "Hyas, Pura Pura"
+      },
+      "album": {
+        "rekordbox": "NO MORE AFTERPARTIES",
+        "serato": "NO MORE AFTERPARTIES"
+      },
+      "genre": {
+        "rekordbox": "Jersey Club",
+        "serato": "Jersey Club"
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "4A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Wonky Sandals",
+        "serato": "Wonky Sandals"
+      },
+      "artist": {
+        "rekordbox": "Will Silver",
+        "serato": "Will Silver"
+      },
+      "album": {
+        "rekordbox": "Voyage EP",
+        "serato": "Voyage EP"
+      },
+      "genre": {
+        "rekordbox": "Breaks",
+        "serato": "Breaks"
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "7A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Lost In The New",
+        "serato": "Lost In The New"
+      },
+      "artist": {
+        "rekordbox": "DJ Psychiatre",
+        "serato": "DJ Psychiatre"
+      },
+      "album": {
+        "rekordbox": "Glad To Be Back",
+        "serato": "Glad To Be Back"
+      },
+      "genre": {
+        "rekordbox": "House",
+        "serato": "House"
+      },
+      "bpm": {
+        "rekordbox": 127.0,
+        "serato": 127.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "4am Cycles",
+        "serato": "4am Cycles"
+      },
+      "artist": {
+        "rekordbox": "Yas Reven",
+        "serato": "Yas Reven"
+      },
+      "album": {
+        "rekordbox": "Pulse Cycles",
+        "serato": "Pulse Cycles"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 132.0,
+        "serato": 132.0
+      },
+      "key": {
+        "rekordbox": "12B",
+        "serato": "12B"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "4 Me",
+        "serato": "4 Me"
+      },
+      "artist": {
+        "rekordbox": "Cameo Blush",
+        "serato": "Cameo Blush"
+      },
+      "album": {
+        "rekordbox": "Just Concentrate",
+        "serato": "Just Concentrate"
+      },
+      "genre": {
+        "rekordbox": "2-Step",
+        "serato": "2-Step"
+      },
+      "bpm": {
+        "rekordbox": 139.0,
+        "serato": 139.0
+      },
+      "key": {
+        "rekordbox": "2A",
+        "serato": "2A"
+      },
+      "label": {
+        "rekordbox": "Future Classic",
+        "serato": "Future Classic"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Bring The Beat Back",
+        "serato": "Bring The Beat Back"
+      },
+      "artist": {
+        "rekordbox": "Ive Lovers",
+        "serato": "Ive Lovers"
+      },
+      "album": {
+        "rekordbox": "UFO Radio Station",
+        "serato": "UFO Radio Station"
+      },
+      "genre": {
+        "rekordbox": "uk garage",
+        "serato": "uk garage"
+      },
+      "bpm": {
+        "rekordbox": 130.0,
+        "serato": 130.0
+      },
+      "key": {
+        "rekordbox": "5A",
+        "serato": "5A"
+      },
+      "label": {
+        "rekordbox": "Seven Dials Records",
+        "serato": "Seven Dials Records"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Change",
+        "serato": "Change"
+      },
+      "artist": {
+        "rekordbox": "Mala",
+        "serato": "Mala"
+      },
+      "album": {
+        "rekordbox": "Mala in Cuba",
+        "serato": "Mala in Cuba"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": "Dubstep"
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "4A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "ITW",
+        "serato": "ITW"
+      },
+      "artist": {
+        "rekordbox": "Retromigration, Mauricesax",
+        "serato": "Retromigration, Mauricesax"
+      },
+      "album": {
+        "rekordbox": "Straight Foxin' LP",
+        "serato": "Straight Foxin' LP"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 120.0,
+        "serato": 120.0
+      },
+      "key": {
+        "rekordbox": "7A",
+        "serato": "7A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Feelings Of The Future",
+        "serato": "Feelings Of The Future"
+      },
+      "artist": {
+        "rekordbox": "sweater",
+        "serato": "sweater"
+      },
+      "album": {
+        "rekordbox": "Sweat.exe",
+        "serato": "Sweat.exe"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 133.0,
+        "serato": 133.0
+      },
+      "key": {
+        "rekordbox": "10A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "6am Cycles",
+        "serato": "6am Cycles"
+      },
+      "artist": {
+        "rekordbox": "Yas Reven",
+        "serato": "Yas Reven"
+      },
+      "album": {
+        "rekordbox": "Pulse Cycles",
+        "serato": "Pulse Cycles"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 144.0,
+        "serato": 72.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 72.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Reflection (Extended Mix)",
+        "serato": "Reflection (Extended Mix)"
+      },
+      "artist": {
+        "rekordbox": "AstroHertz",
+        "serato": "AstroHertz"
+      },
+      "album": {
+        "rekordbox": "Reflection - EP",
+        "serato": "Reflection - EP"
+      },
+      "genre": {
+        "rekordbox": "Rally House",
+        "serato": "Rally House"
+      },
+      "bpm": {
+        "rekordbox": 128.0,
+        "serato": 128.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "4A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Thank God I'm a Lizard",
+        "serato": "Thank God I'm A Lizard"
+      },
+      "artist": {
+        "rekordbox": "Ross from Friends",
+        "serato": "Ross from Friends"
+      },
+      "album": {
+        "rekordbox": "Boiler Room: Ross From Friends in London, Oct 23, 2017",
+        "serato": "Boiler Room: Ross From Friends in London, Oct 23, 2017"
+      },
+      "genre": {
+        "rekordbox": "House",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 124.0,
+        "serato": 124.0
+      },
+      "key": {
+        "rekordbox": "12A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "Boiler Room",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": false,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": false,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Children Of The Sea",
+        "serato": "Children Of The Sea"
+      },
+      "artist": {
+        "rekordbox": "Human Safari",
+        "serato": "Human Safari"
+      },
+      "album": {
+        "rekordbox": "Children Of The Sea",
+        "serato": "Children Of The Sea"
+      },
+      "genre": {
+        "rekordbox": "Techno",
+        "serato": "Techno"
+      },
+      "bpm": {
+        "rekordbox": 144.0,
+        "serato": 72.0
+      },
+      "key": {
+        "rekordbox": "7A",
+        "serato": "7A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 72.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Bad Knees",
+        "serato": "Bad Knees"
+      },
+      "artist": {
+        "rekordbox": "Retromigration, Nephews",
+        "serato": "Retromigration, Nephews"
+      },
+      "album": {
+        "rekordbox": "Straight Foxin' LP",
+        "serato": "Straight Foxin' LP"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 85.0,
+        "serato": 85.0
+      },
+      "key": {
+        "rekordbox": "5A",
+        "serato": "5A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Splintered Soul Fragments",
+        "serato": "Splintered Soul Fragments"
+      },
+      "artist": {
+        "rekordbox": "Polygonia",
+        "serato": "Polygonia"
+      },
+      "album": {
+        "rekordbox": "Splintered Soul Fragments",
+        "serato": "Splintered Soul Fragments"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 126.0,
+        "serato": 126.0
+      },
+      "key": {
+        "rekordbox": "11A",
+        "serato": "11A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "No More",
+        "serato": "No More"
+      },
+      "artist": {
+        "rekordbox": "Retromigration",
+        "serato": "Retromigration"
+      },
+      "album": {
+        "rekordbox": "Can\u2019t Go",
+        "serato": "Can\u2019t Go"
+      },
+      "genre": {
+        "rekordbox": "Footwork",
+        "serato": "Footwork"
+      },
+      "bpm": {
+        "rekordbox": 152.0,
+        "serato": 76.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "4A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 76.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Fluro Biotica",
+        "serato": "Fluro Biotica"
+      },
+      "artist": {
+        "rekordbox": "Sub Basics, Headland",
+        "serato": "Sub Basics, Headland"
+      },
+      "album": {
+        "rekordbox": "Never Too Late",
+        "serato": "Never Too Late"
+      },
+      "genre": {
+        "rekordbox": "Dubstep",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 142.05,
+        "serato": 71.03
+      },
+      "key": {
+        "rekordbox": "11A",
+        "serato": "11A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 71.02000000000001,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "WALK OF SHAME",
+        "serato": "WALK OF SHAME"
+      },
+      "artist": {
+        "rekordbox": "Hyas, Pura Pura",
+        "serato": "Hyas, Pura Pura"
+      },
+      "album": {
+        "rekordbox": "NO MORE AFTERPARTIES",
+        "serato": "NO MORE AFTERPARTIES"
+      },
+      "genre": {
+        "rekordbox": "Hypnotic",
+        "serato": "Hypnotic"
+      },
+      "bpm": {
+        "rekordbox": 136.04,
+        "serato": 136.0
+      },
+      "key": {
+        "rekordbox": "11A",
+        "serato": "11A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.03999999999999204,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Marigold",
+        "serato": "Marigold"
+      },
+      "artist": {
+        "rekordbox": "Pugilist",
+        "serato": "Pugilist"
+      },
+      "album": {
+        "rekordbox": "Maternal",
+        "serato": "Maternal"
+      },
+      "genre": {
+        "rekordbox": "Jungle",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 160.0,
+        "serato": 80.0
+      },
+      "key": {
+        "rekordbox": "9A",
+        "serato": "9A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 80.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Do Ya Baby",
+        "serato": "Do Ya Baby"
+      },
+      "artist": {
+        "rekordbox": "Minista, Zefer",
+        "serato": "Minista, Zefer"
+      },
+      "album": {
+        "rekordbox": "Feel It",
+        "serato": "Feel It"
+      },
+      "genre": {
+        "rekordbox": "UK Garage",
+        "serato": "UK Garage"
+      },
+      "bpm": {
+        "rekordbox": 130.0,
+        "serato": 129.99
+      },
+      "key": {
+        "rekordbox": "1A",
+        "serato": "1A"
+      },
+      "label": {
+        "rekordbox": "Satori London",
+        "serato": "Satori London"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.009999999999990905,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Riding Zone",
+        "serato": "Riding Zone"
+      },
+      "artist": {
+        "rekordbox": "DJ Psychiatre",
+        "serato": "DJ Psychiatre"
+      },
+      "album": {
+        "rekordbox": "Glad To Be Back",
+        "serato": "Glad To Be Back"
+      },
+      "genre": {
+        "rekordbox": "House",
+        "serato": "House"
+      },
+      "bpm": {
+        "rekordbox": 124.0,
+        "serato": 124.0
+      },
+      "key": {
+        "rekordbox": "7A",
+        "serato": "7A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "One Step",
+        "serato": "One Step"
+      },
+      "artist": {
+        "rekordbox": "Sub Basics",
+        "serato": "Sub Basics"
+      },
+      "album": {
+        "rekordbox": "Never Too Late",
+        "serato": "Never Too Late"
+      },
+      "genre": {
+        "rekordbox": "Autonomic",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 87.0,
+        "serato": 87.0
+      },
+      "key": {
+        "rekordbox": "9A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "LET'S GET LOST",
+        "serato": "LET'S GET LOST"
+      },
+      "artist": {
+        "rekordbox": "Hyas, Pura Pura, DJ Swisha",
+        "serato": "Hyas, Pura Pura, DJ Swisha"
+      },
+      "album": {
+        "rekordbox": "NO MORE AFTERPARTIES",
+        "serato": "NO MORE AFTERPARTIES"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": "Speed Garage"
+      },
+      "bpm": {
+        "rekordbox": 137.0,
+        "serato": 137.0
+      },
+      "key": {
+        "rekordbox": "6A",
+        "serato": "6A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Outside",
+        "serato": "Outside"
+      },
+      "artist": {
+        "rekordbox": "Zenker Brothers",
+        "serato": "Zenker Brothers"
+      },
+      "album": {
+        "rekordbox": "Mad System",
+        "serato": "Mad System"
+      },
+      "genre": {
+        "rekordbox": "Ambient",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 136.0,
+        "serato": 103.55
+      },
+      "key": {
+        "rekordbox": "7B",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "Ilian Tape",
+        "serato": "Ilian Tape"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 32.45,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Can't Go",
+        "serato": "Can't Go"
+      },
+      "artist": {
+        "rekordbox": "Retromigration",
+        "serato": "Retromigration"
+      },
+      "album": {
+        "rekordbox": "Can\u2019t Go",
+        "serato": "Can\u2019t Go"
+      },
+      "genre": {
+        "rekordbox": "Footwork",
+        "serato": "Footwork"
+      },
+      "bpm": {
+        "rekordbox": 150.0,
+        "serato": 74.99
+      },
+      "key": {
+        "rekordbox": "9A",
+        "serato": "9A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 75.01,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Unbridled Ambition",
+        "serato": "Unbridled Ambition"
+      },
+      "artist": {
+        "rekordbox": "Bits & Pieces",
+        "serato": "Bits & Pieces"
+      },
+      "album": {
+        "rekordbox": "The Isolation EP",
+        "serato": "The Isolation EP"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 90.07,
+        "serato": 102.0
+      },
+      "key": {
+        "rekordbox": "5A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 11.930000000000007,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Romeo, Romeo",
+        "serato": "Romeo, Romeo"
+      },
+      "artist": {
+        "rekordbox": "Ross From Friends",
+        "serato": "Ross From Friends"
+      },
+      "album": {
+        "rekordbox": "The Outsiders",
+        "serato": "The Outsiders"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 125.0,
+        "serato": 125.0
+      },
+      "key": {
+        "rekordbox": "2A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Mahzooz",
+        "serato": "Mahzooz"
+      },
+      "artist": {
+        "rekordbox": "Hassan Abou Alam",
+        "serato": "Hassan Abou Alam"
+      },
+      "album": {
+        "rekordbox": "Insa EP",
+        "serato": "Insa EP"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": "Bass / Club"
+      },
+      "bpm": {
+        "rekordbox": 144.0,
+        "serato": 72.0
+      },
+      "key": {
+        "rekordbox": "2A",
+        "serato": "2A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 72.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "There and Gone",
+        "serato": "There and Gone"
+      },
+      "artist": {
+        "rekordbox": "Sub Basics, Geode",
+        "serato": "Sub Basics, Geode"
+      },
+      "album": {
+        "rekordbox": "Never Too Late",
+        "serato": "Never Too Late"
+      },
+      "genre": {
+        "rekordbox": "Dub Techno",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 120.0,
+        "serato": 120.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "False Alarm",
+        "serato": "False Alarm"
+      },
+      "artist": {
+        "rekordbox": "Stones Taro",
+        "serato": "Stones Taro"
+      },
+      "album": {
+        "rekordbox": "Telling The Time",
+        "serato": "Telling The Time"
+      },
+      "genre": {
+        "rekordbox": "Dubwise",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 132.0,
+        "serato": 132.0
+      },
+      "key": {
+        "rekordbox": "12A",
+        "serato": "12A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "The Long-Awaited Return",
+        "serato": "The Long-Awaited Return"
+      },
+      "artist": {
+        "rekordbox": "Bits & Pieces",
+        "serato": "Bits & Pieces"
+      },
+      "album": {
+        "rekordbox": "The Isolation EP",
+        "serato": "The Isolation EP"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 170.14,
+        "serato": 117.0
+      },
+      "key": {
+        "rekordbox": "7A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 53.139999999999986,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Show Me Your Colours",
+        "serato": "Show Me Your Colours"
+      },
+      "artist": {
+        "rekordbox": "Will Silver",
+        "serato": "Will Silver"
+      },
+      "album": {
+        "rekordbox": "Voyage EP",
+        "serato": "Voyage EP"
+      },
+      "genre": {
+        "rekordbox": "Breaks",
+        "serato": "Breaks"
+      },
+      "bpm": {
+        "rekordbox": 145.0,
+        "serato": 72.5
+      },
+      "key": {
+        "rekordbox": "10B",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 72.5,
+          "is_2x": true
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "What If",
+        "serato": "What If"
+      },
+      "artist": {
+        "rekordbox": "Retromigration",
+        "serato": "Retromigration"
+      },
+      "album": {
+        "rekordbox": "Straight Foxin' LP",
+        "serato": "Straight Foxin' LP"
+      },
+      "genre": {
+        "rekordbox": "Footwork",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 152.0,
+        "serato": 76.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 76.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Graver",
+        "serato": "Graver"
+      },
+      "artist": {
+        "rekordbox": "Al Wootton",
+        "serato": "Al Wootton"
+      },
+      "album": {
+        "rekordbox": "Body Healthy",
+        "serato": "Body Healthy"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": "Hypnotic"
+      },
+      "bpm": {
+        "rekordbox": 135.0,
+        "serato": 135.0
+      },
+      "key": {
+        "rekordbox": "7B",
+        "serato": "7B"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Vancouver (Rhyw's SKG Mix)",
+        "serato": "Vancouver (Rhyw's SKG Mix)"
+      },
+      "artist": {
+        "rekordbox": "Martyn",
+        "serato": "Martyn"
+      },
+      "album": {
+        "rekordbox": "Vancouver (Rhyw's SKG Mix)",
+        "serato": "Vancouver (Verraco & Rhyw Remixes)"
+      },
+      "genre": {
+        "rekordbox": "Dubstep",
+        "serato": "Dubstep"
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "4A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": "3024"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": false,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": false,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Twin",
+        "serato": "Twin"
+      },
+      "artist": {
+        "rekordbox": "Sami",
+        "serato": "Sami"
+      },
+      "album": {
+        "rekordbox": "Elevate",
+        "serato": "Elevate"
+      },
+      "genre": {
+        "rekordbox": "Rominimal",
+        "serato": "Rominimal"
+      },
+      "bpm": {
+        "rekordbox": 135.0,
+        "serato": 135.0
+      },
+      "key": {
+        "rekordbox": "10A",
+        "serato": "10A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Corners",
+        "serato": "Corners"
+      },
+      "artist": {
+        "rekordbox": "Sub Basics",
+        "serato": "Sub Basics"
+      },
+      "album": {
+        "rekordbox": "Never Too Late",
+        "serato": "Never Too Late"
+      },
+      "genre": {
+        "rekordbox": "Dubstep",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "2A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "WATCH ME",
+        "serato": "WATCH ME"
+      },
+      "artist": {
+        "rekordbox": "Hyas, Pura Pura",
+        "serato": "Hyas, Pura Pura"
+      },
+      "album": {
+        "rekordbox": "NO MORE AFTERPARTIES",
+        "serato": "NO MORE AFTERPARTIES"
+      },
+      "genre": {
+        "rekordbox": "Speed Garage",
+        "serato": "Speed Garage"
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "5A",
+        "serato": "5A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Abundance",
+        "serato": "Abundance"
+      },
+      "artist": {
+        "rekordbox": "Decoder",
+        "serato": "Decoder"
+      },
+      "album": {
+        "rekordbox": "Prakasa",
+        "serato": "Prakasa"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": "Techno"
+      },
+      "bpm": {
+        "rekordbox": 135.0,
+        "serato": 135.0
+      },
+      "key": {
+        "rekordbox": "2A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Chi Boost",
+        "serato": "Chi Boost"
+      },
+      "artist": {
+        "rekordbox": "Zenker Brothers",
+        "serato": "Zenker Brothers"
+      },
+      "album": {
+        "rekordbox": "Mad System",
+        "serato": "Mad System"
+      },
+      "genre": {
+        "rekordbox": "Techno",
+        "serato": "Electronic"
+      },
+      "bpm": {
+        "rekordbox": 136.0,
+        "serato": 136.0
+      },
+      "key": {
+        "rekordbox": "1A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "Ilian Tape",
+        "serato": "Ilian Tape"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Playskool Rave",
+        "serato": "Playskool Rave"
+      },
+      "artist": {
+        "rekordbox": "Will Silver",
+        "serato": "Will Silver"
+      },
+      "album": {
+        "rekordbox": "Voyage EP",
+        "serato": "Voyage EP"
+      },
+      "genre": {
+        "rekordbox": "Breaks",
+        "serato": "Breaks"
+      },
+      "bpm": {
+        "rekordbox": 135.0,
+        "serato": 135.0
+      },
+      "key": {
+        "rekordbox": "9A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Black Spot",
+        "serato": "Black Spot"
+      },
+      "artist": {
+        "rekordbox": "Jafu",
+        "serato": "Jafu"
+      },
+      "album": {
+        "rekordbox": "Growing Pains",
+        "serato": "Growing Pains"
+      },
+      "genre": {
+        "rekordbox": "Dubstep",
+        "serato": "Electronic"
+      },
+      "bpm": {
+        "rekordbox": 138.0,
+        "serato": 138.0
+      },
+      "key": {
+        "rekordbox": "2A",
+        "serato": "2A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "De Som Vet",
+        "serato": "De Som Vet"
+      },
+      "artist": {
+        "rekordbox": "Bror Havnes",
+        "serato": "Bror Havnes"
+      },
+      "album": {
+        "rekordbox": "De Som Vet",
+        "serato": "De Som Vet"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": "World"
+      },
+      "bpm": {
+        "rekordbox": 128.33,
+        "serato": 96.2
+      },
+      "key": {
+        "rekordbox": "6A",
+        "serato": "6A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 32.13000000000001,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Bouncer",
+        "serato": "Bouncer"
+      },
+      "artist": {
+        "rekordbox": "Retromigration, Mauricesax",
+        "serato": "Retromigration, Mauricesax"
+      },
+      "album": {
+        "rekordbox": "Straight Foxin' LP",
+        "serato": "Straight Foxin' LP"
+      },
+      "genre": {
+        "rekordbox": "House",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 120.0,
+        "serato": 121.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 1.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Mild Fever",
+        "serato": "Mild Fever"
+      },
+      "artist": {
+        "rekordbox": "Retromigration",
+        "serato": "Retromigration"
+      },
+      "album": {
+        "rekordbox": "Straight Foxin' LP",
+        "serato": "Straight Foxin' LP"
+      },
+      "genre": {
+        "rekordbox": "Jungle",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 85.0,
+        "serato": 85.0
+      },
+      "key": {
+        "rekordbox": "1A",
+        "serato": "1A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Shuffle Boogie",
+        "serato": "Shuffle Boogie"
+      },
+      "artist": {
+        "rekordbox": "Alien Nosejob",
+        "serato": "Alien Nosejob"
+      },
+      "album": {
+        "rekordbox": "Stained Glass",
+        "serato": "Stained Glass"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 142.07,
+        "serato": 70.99
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 71.08,
+          "is_2x": true
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Kush Love",
+        "serato": "Kush Love"
+      },
+      "artist": {
+        "rekordbox": "Retromigration, Passion Deez",
+        "serato": "Retromigration, Passion Deez"
+      },
+      "album": {
+        "rekordbox": "Straight Foxin' LP",
+        "serato": "Straight Foxin' LP"
+      },
+      "genre": {
+        "rekordbox": "Footwork",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 152.0,
+        "serato": 76.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 76.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Inuti",
+        "serato": "Inuti"
+      },
+      "artist": {
+        "rekordbox": "Arkajo",
+        "serato": "Arkajo"
+      },
+      "album": {
+        "rekordbox": "Rymdkollo",
+        "serato": "Rymdkollo"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 127.02,
+        "serato": 127.01
+      },
+      "key": {
+        "rekordbox": "10A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.009999999999990905,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "New Cribs",
+        "serato": "New Cribs"
+      },
+      "artist": {
+        "rekordbox": "Retromigration, Mauricesax, Bezzix",
+        "serato": "Retromigration, Mauricesax, Bezzix"
+      },
+      "album": {
+        "rekordbox": "Straight Foxin' LP",
+        "serato": "Straight Foxin' LP"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 114.0,
+        "serato": 113.99
+      },
+      "key": {
+        "rekordbox": "12A",
+        "serato": "12A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.010000000000005116,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Kunta",
+        "serato": "Kunta"
+      },
+      "artist": {
+        "rekordbox": "Retromigration, Mauricesax",
+        "serato": "Retromigration, Mauricesax"
+      },
+      "album": {
+        "rekordbox": "Straight Foxin' LP",
+        "serato": "Straight Foxin' LP"
+      },
+      "genre": {
+        "rekordbox": "Downtempo",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 92.0,
+        "serato": 92.01
+      },
+      "key": {
+        "rekordbox": "6B",
+        "serato": "6B"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.010000000000005116,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Desire Path",
+        "serato": "Desire Path"
+      },
+      "artist": {
+        "rekordbox": "Breaka",
+        "serato": "Breaka"
+      },
+      "album": {
+        "rekordbox": "Mangled",
+        "serato": "Mangled"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": "Bass / Club"
+      },
+      "bpm": {
+        "rekordbox": 134.0,
+        "serato": 134.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "4A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) (Basement Boy Strip To The Bone Mix)",
+        "serato": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) (Basement Boy Strip To The Bone Mix)"
+      },
+      "artist": {
+        "rekordbox": "Crystal Waters",
+        "serato": "Crystal Waters"
+      },
+      "album": {
+        "rekordbox": "Surprise",
+        "serato": "Surprise"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": "House"
+      },
+      "bpm": {
+        "rekordbox": 120.0,
+        "serato": 120.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Flashing Red",
+        "serato": "Flashing Red"
+      },
+      "artist": {
+        "rekordbox": "Andre Zimmer",
+        "serato": "Andre Zimmer"
+      },
+      "album": {
+        "rekordbox": "Swamp Circuit EP",
+        "serato": "Swamp Circuit EP"
+      },
+      "genre": {
+        "rekordbox": "Breaks",
+        "serato": "Breaks"
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Nima",
+        "serato": "Nima"
+      },
+      "artist": {
+        "rekordbox": "Retromigration",
+        "serato": "Retromigration"
+      },
+      "album": {
+        "rekordbox": "Straight Foxin' LP",
+        "serato": "Straight Foxin' LP"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 90.0,
+        "serato": 90.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "BOOM...BOOM ?",
+        "serato": "BOOM...BOOM ?"
+      },
+      "artist": {
+        "rekordbox": "Hyas, Pura Pura",
+        "serato": "Hyas, Pura Pura"
+      },
+      "album": {
+        "rekordbox": "NO MORE AFTERPARTIES",
+        "serato": "NO MORE AFTERPARTIES"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 75.0,
+        "serato": 75.0
+      },
+      "key": {
+        "rekordbox": "6A",
+        "serato": "6A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Half Full",
+        "serato": "Half Full"
+      },
+      "artist": {
+        "rekordbox": "Sub Basics",
+        "serato": "Sub Basics"
+      },
+      "album": {
+        "rekordbox": "Never Too Late",
+        "serato": "Never Too Late"
+      },
+      "genre": {
+        "rekordbox": "Dubwise",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 170.0,
+        "serato": 85.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 85.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Transmutation",
+        "serato": "Transmutation"
+      },
+      "artist": {
+        "rekordbox": "Andy Martin",
+        "serato": "Andy Martin"
+      },
+      "album": {
+        "rekordbox": "NECH033",
+        "serato": "NECH033"
+      },
+      "genre": {
+        "rekordbox": "Hypnotic Techno",
+        "serato": "Hypnotic Techno"
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "12A",
+        "serato": "12A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Yes",
+        "serato": "Yes"
+      },
+      "artist": {
+        "rekordbox": "Breaka, Stones Taro",
+        "serato": "Breaka, Stones Taro"
+      },
+      "album": {
+        "rekordbox": "Mangled",
+        "serato": "Mangled"
+      },
+      "genre": {
+        "rekordbox": "2-Step",
+        "serato": "2-Step"
+      },
+      "bpm": {
+        "rekordbox": 138.0,
+        "serato": 138.0
+      },
+      "key": {
+        "rekordbox": "1A",
+        "serato": "1A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Reclaiming What Was Ours",
+        "serato": "Reclaiming What Was Ours"
+      },
+      "artist": {
+        "rekordbox": "Bits & Pieces",
+        "serato": "Bits & Pieces"
+      },
+      "album": {
+        "rekordbox": "The Isolation EP",
+        "serato": "The Isolation EP"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 160.09,
+        "serato": 139.0
+      },
+      "key": {
+        "rekordbox": "5A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 21.090000000000003,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "March",
+        "serato": "March"
+      },
+      "artist": {
+        "rekordbox": "Al Wootton",
+        "serato": "Al Wootton"
+      },
+      "album": {
+        "rekordbox": "Rhythm Archives",
+        "serato": "Rhythm Archives"
+      },
+      "genre": {
+        "rekordbox": "Ambient",
+        "serato": "Ambient"
+      },
+      "bpm": {
+        "rekordbox": 136.8,
+        "serato": 136.81
+      },
+      "key": {
+        "rekordbox": "1A",
+        "serato": "1A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.009999999999990905,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Youthful Dub",
+        "serato": "Youthful Dub"
+      },
+      "artist": {
+        "rekordbox": "Will Silver",
+        "serato": "Will Silver"
+      },
+      "album": {
+        "rekordbox": "Voyage EP",
+        "serato": "Voyage EP"
+      },
+      "genre": {
+        "rekordbox": "Breaks",
+        "serato": "Breaks"
+      },
+      "bpm": {
+        "rekordbox": 131.0,
+        "serato": 131.0
+      },
+      "key": {
+        "rekordbox": "6A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Love Or Lust",
+        "serato": "Love Or Lust"
+      },
+      "artist": {
+        "rekordbox": "D'Monk",
+        "serato": "D'Monk"
+      },
+      "album": {
+        "rekordbox": "Love Or Lust",
+        "serato": "Love Or Lust"
+      },
+      "genre": {
+        "rekordbox": "Techno",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 131.0,
+        "serato": 131.0
+      },
+      "key": {
+        "rekordbox": "9A",
+        "serato": "9A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Moths",
+        "serato": "Moths"
+      },
+      "artist": {
+        "rekordbox": "Ila Brugal",
+        "serato": "Ila Brugal"
+      },
+      "album": {
+        "rekordbox": "WZY4.5",
+        "serato": "WZY4.5"
+      },
+      "genre": {
+        "rekordbox": "Dubstep",
+        "serato": "Dubstep"
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "11A",
+        "serato": "11A"
+      },
+      "label": {
+        "rekordbox": "Woozy",
+        "serato": "Woozy"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Up Too Late",
+        "serato": "Up Too Late"
+      },
+      "artist": {
+        "rekordbox": "Carr\u00e9, Danny Goliger",
+        "serato": "Carr\u00e9, Danny Goliger"
+      },
+      "album": {
+        "rekordbox": "Up Too Late",
+        "serato": "Up Too Late"
+      },
+      "genre": {
+        "rekordbox": "Faux",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "11A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "HOOLIGANG",
+        "serato": "HOOLIGANG"
+      },
+      "artist": {
+        "rekordbox": "Joey Valence & Brae",
+        "serato": "Joey Valence & Brae"
+      },
+      "album": {
+        "rekordbox": "PUNK TACTICS",
+        "serato": "PUNK TACTICS"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": "Halftime"
+      },
+      "bpm": {
+        "rekordbox": 95.0,
+        "serato": 94.99
+      },
+      "key": {
+        "rekordbox": "9A",
+        "serato": "9A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.010000000000005116,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Each Story",
+        "serato": "Each Story"
+      },
+      "artist": {
+        "rekordbox": "Facta, K-LONE",
+        "serato": "Facta, K-LONE"
+      },
+      "album": {
+        "rekordbox": "(=o_o=) / Each Story",
+        "serato": "(=o_o=) / Each Story"
+      },
+      "genre": {
+        "rekordbox": "Dubby Tech",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 120.0,
+        "serato": 0.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 120.0
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Jilter",
+        "serato": "Jilter"
+      },
+      "artist": {
+        "rekordbox": "Retromigration",
+        "serato": "Retromigration"
+      },
+      "album": {
+        "rekordbox": "Straight Foxin' LP",
+        "serato": "Straight Foxin' LP"
+      },
+      "genre": {
+        "rekordbox": "House",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 123.0,
+        "serato": 123.0
+      },
+      "key": {
+        "rekordbox": "10B",
+        "serato": "10B"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Ipa Ma",
+        "serato": "Ipa Ma"
+      },
+      "artist": {
+        "rekordbox": "Baalti, Lapgan",
+        "serato": "Baalti, Lapgan"
+      },
+      "album": {
+        "rekordbox": "Ipa Ma",
+        "serato": "Ipa Ma"
+      },
+      "genre": {
+        "rekordbox": "Baalti",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 125.48,
+        "serato": 125.5
+      },
+      "key": {
+        "rekordbox": "1A",
+        "serato": "1A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.01999999999999602,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Equation",
+        "serato": "Equation"
+      },
+      "artist": {
+        "rekordbox": "Palms Trax",
+        "serato": "Palms Trax"
+      },
+      "album": {
+        "rekordbox": "Lobster Deep Classics",
+        "serato": "Lobster Deep Classics"
+      },
+      "genre": {
+        "rekordbox": "House",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 124.0,
+        "serato": 124.0
+      },
+      "key": {
+        "rekordbox": "6A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "Lobster Theremin",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": false,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Maternal",
+        "serato": "Maternal"
+      },
+      "artist": {
+        "rekordbox": "Pugilist",
+        "serato": "Pugilist"
+      },
+      "album": {
+        "rekordbox": "Maternal",
+        "serato": "Maternal"
+      },
+      "genre": {
+        "rekordbox": "House",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 130.0,
+        "serato": 130.0
+      },
+      "key": {
+        "rekordbox": "5A",
+        "serato": "5A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Listen",
+        "serato": "Listen"
+      },
+      "artist": {
+        "rekordbox": "Half Dead Dave",
+        "serato": "Half Dead Dave"
+      },
+      "album": {
+        "rekordbox": "Values",
+        "serato": "Values"
+      },
+      "genre": {
+        "rekordbox": "Electro",
+        "serato": "Electro"
+      },
+      "bpm": {
+        "rekordbox": 127.0,
+        "serato": 127.0
+      },
+      "key": {
+        "rekordbox": "9A",
+        "serato": "9A"
+      },
+      "label": {
+        "rekordbox": "Aterral",
+        "serato": "Aterral"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Triskele",
+        "serato": "Triskele"
+      },
+      "artist": {
+        "rekordbox": "Andy Martin",
+        "serato": "Andy Martin"
+      },
+      "album": {
+        "rekordbox": "NECH033",
+        "serato": "NECH033"
+      },
+      "genre": {
+        "rekordbox": "Hypnotic Techno",
+        "serato": "Hypnotic Techno"
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "7B",
+        "serato": "7B"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Formant",
+        "serato": "Formant"
+      },
+      "artist": {
+        "rekordbox": "Retromigration",
+        "serato": "Retromigration"
+      },
+      "album": {
+        "rekordbox": "Straight Foxin' LP",
+        "serato": "Straight Foxin' LP"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 80.0,
+        "serato": 80.0
+      },
+      "key": {
+        "rekordbox": "3B",
+        "serato": "3B"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Lady (Hear Me Tonight)",
+        "serato": "Lady (Hear Me Tonight)"
+      },
+      "artist": {
+        "rekordbox": "Modjo",
+        "serato": "Modjo"
+      },
+      "album": {
+        "rekordbox": "Retro Dance Masters: 1987\u20132000 Revisited",
+        "serato": "Retro Dance Masters: 1987\u20132000 Revisited"
+      },
+      "genre": {
+        "rekordbox": "House",
+        "serato": "House"
+      },
+      "bpm": {
+        "rekordbox": 126.02,
+        "serato": 126.02
+      },
+      "key": {
+        "rekordbox": "3B",
+        "serato": "3B"
+      },
+      "label": {
+        "rekordbox": "Virgin",
+        "serato": "Virgin"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "artist": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "album": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 0.0,
+        "serato": 82.44
+      },
+      "key": {
+        "rekordbox": "Unknown",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": true
+        },
+        "artist": {
+          "match": true,
+          "both_missing": true
+        },
+        "album": {
+          "match": true,
+          "both_missing": true
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 82.44
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Later",
+        "serato": "Later"
+      },
+      "artist": {
+        "rekordbox": "Sub Basics, Dr Dr",
+        "serato": "Sub Basics, Dr Dr"
+      },
+      "album": {
+        "rekordbox": "Never Too Late",
+        "serato": "Never Too Late"
+      },
+      "genre": {
+        "rekordbox": "Dub",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 124.0,
+        "serato": 124.0
+      },
+      "key": {
+        "rekordbox": "9A",
+        "serato": "9A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Heart Shaped Moon",
+        "serato": "Heart Shaped Moon"
+      },
+      "artist": {
+        "rekordbox": "9west",
+        "serato": "9west"
+      },
+      "album": {
+        "rekordbox": "Heart Shaped Moon",
+        "serato": "Heart Shaped Moon"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": "Rominimal"
+      },
+      "bpm": {
+        "rekordbox": 122.0,
+        "serato": 122.0
+      },
+      "key": {
+        "rekordbox": "5A",
+        "serato": "5A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Pushing My Buttons",
+        "serato": "Pushing My Buttons"
+      },
+      "artist": {
+        "rekordbox": "Andre Zimmer",
+        "serato": "Andre Zimmer"
+      },
+      "album": {
+        "rekordbox": "Swamp Circuit EP",
+        "serato": "Swamp Circuit EP"
+      },
+      "genre": {
+        "rekordbox": "Techno",
+        "serato": "Electro"
+      },
+      "bpm": {
+        "rekordbox": 133.0,
+        "serato": 133.0
+      },
+      "key": {
+        "rekordbox": "11A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Bell Toll Bounce",
+        "serato": "Bell Toll Bounce"
+      },
+      "artist": {
+        "rekordbox": "Breaka",
+        "serato": "Breaka"
+      },
+      "album": {
+        "rekordbox": "Mangled",
+        "serato": "Mangled"
+      },
+      "genre": {
+        "rekordbox": "Club",
+        "serato": "Club"
+      },
+      "bpm": {
+        "rekordbox": 133.0,
+        "serato": 133.0
+      },
+      "key": {
+        "rekordbox": "1A",
+        "serato": "1A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Automata",
+        "serato": "Automata"
+      },
+      "artist": {
+        "rekordbox": "Andy Martin",
+        "serato": "Andy Martin"
+      },
+      "album": {
+        "rekordbox": "NECH033",
+        "serato": "NECH033"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 142.0,
+        "serato": 71.0
+      },
+      "key": {
+        "rekordbox": "2A",
+        "serato": "2A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 71.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Joni Indo",
+        "serato": "Joni Indo"
+      },
+      "artist": {
+        "rekordbox": "Batavia Collective",
+        "serato": "Batavia Collective"
+      },
+      "album": {
+        "rekordbox": "BTVC",
+        "serato": "BTVC"
+      },
+      "genre": {
+        "rekordbox": "Space Jazz",
+        "serato": "Space Jazz"
+      },
+      "bpm": {
+        "rekordbox": 102.24,
+        "serato": 102.03
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.20999999999999375,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Insight",
+        "serato": "Insight"
+      },
+      "artist": {
+        "rekordbox": "Sub Basics",
+        "serato": "Sub Basics"
+      },
+      "album": {
+        "rekordbox": "Never Too Late",
+        "serato": "Never Too Late"
+      },
+      "genre": {
+        "rekordbox": "Dubwise",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 115.0,
+        "serato": 115.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Jazz Affair",
+        "serato": "Jazz Affair"
+      },
+      "artist": {
+        "rekordbox": "Human Safari",
+        "serato": "Human Safari"
+      },
+      "album": {
+        "rekordbox": "Children Of The Sea",
+        "serato": "Children Of The Sea"
+      },
+      "genre": {
+        "rekordbox": "Techno",
+        "serato": "Techno"
+      },
+      "bpm": {
+        "rekordbox": 144.0,
+        "serato": 145.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 1.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Night",
+        "serato": "Night"
+      },
+      "artist": {
+        "rekordbox": "Benga, Coki",
+        "serato": "Benga, Coki"
+      },
+      "album": {
+        "rekordbox": "Diary of an Afro Warrior (Expanded Edition)",
+        "serato": "Diary of an Afro Warrior (Expanded Edition)"
+      },
+      "genre": {
+        "rekordbox": "Dubstep",
+        "serato": "Dubstep"
+      },
+      "bpm": {
+        "rekordbox": 139.97,
+        "serato": 69.99
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 69.98,
+          "is_2x": true
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Riding The Blade",
+        "serato": "Riding The Blade"
+      },
+      "artist": {
+        "rekordbox": "Erik Luebs",
+        "serato": "Erik Luebs"
+      },
+      "album": {
+        "rekordbox": "Speicher 136",
+        "serato": "Speicher 136"
+      },
+      "genre": {
+        "rekordbox": "Dubby Tech",
+        "serato": "Dubby Tech"
+      },
+      "bpm": {
+        "rekordbox": 135.0,
+        "serato": 135.0
+      },
+      "key": {
+        "rekordbox": "10B",
+        "serato": "10B"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Nang Like This",
+        "serato": "Nang Like This"
+      },
+      "artist": {
+        "rekordbox": "Zefer, Kibo, Chesqua",
+        "serato": "Zefer, Kibo, Chesqua"
+      },
+      "album": {
+        "rekordbox": "Before It Gets Too Late",
+        "serato": "Before It Gets Too Late"
+      },
+      "genre": {
+        "rekordbox": "UK Garage",
+        "serato": "UK Garage"
+      },
+      "bpm": {
+        "rekordbox": 130.0,
+        "serato": 129.99
+      },
+      "key": {
+        "rekordbox": "9A",
+        "serato": "9A"
+      },
+      "label": {
+        "rekordbox": "Steppers Club",
+        "serato": "Steppers Club"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.009999999999990905,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Move That Body",
+        "serato": "Move That Body"
+      },
+      "artist": {
+        "rekordbox": "sweater",
+        "serato": "sweater"
+      },
+      "album": {
+        "rekordbox": "Sweat.exe",
+        "serato": "Sweat.exe"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 126.0,
+        "serato": 128.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 2.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Distant",
+        "serato": "Distant"
+      },
+      "artist": {
+        "rekordbox": "Retromigration",
+        "serato": "Retromigration"
+      },
+      "album": {
+        "rekordbox": "Can\u2019t Go",
+        "serato": "Can\u2019t Go"
+      },
+      "genre": {
+        "rekordbox": "Bass / Club",
+        "serato": "Bass / Club"
+      },
+      "bpm": {
+        "rekordbox": 152.0,
+        "serato": 76.0
+      },
+      "key": {
+        "rekordbox": "1A",
+        "serato": "1A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 76.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "In Orbit",
+        "serato": "In Orbit"
+      },
+      "artist": {
+        "rekordbox": "Will Silver",
+        "serato": "Will Silver"
+      },
+      "album": {
+        "rekordbox": "Voyage EP",
+        "serato": "Voyage EP"
+      },
+      "genre": {
+        "rekordbox": "Breaks",
+        "serato": "Breaks"
+      },
+      "bpm": {
+        "rekordbox": 138.0,
+        "serato": 138.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Stereogram",
+        "serato": "Stereogram"
+      },
+      "artist": {
+        "rekordbox": "Sub Basics",
+        "serato": "Sub Basics"
+      },
+      "album": {
+        "rekordbox": "Never Too Late",
+        "serato": "Never Too Late"
+      },
+      "genre": {
+        "rekordbox": "Autonomic",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 158.0,
+        "serato": 79.0
+      },
+      "key": {
+        "rekordbox": "1A",
+        "serato": "1A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 79.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Introduction",
+        "serato": "Introduction"
+      },
+      "artist": {
+        "rekordbox": "Mala",
+        "serato": "Mala"
+      },
+      "album": {
+        "rekordbox": "Mala in Cuba",
+        "serato": "Mala in Cuba"
+      },
+      "genre": {
+        "rekordbox": "Dubstep",
+        "serato": "Dubstep"
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "5B",
+        "serato": "5B"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Make Time",
+        "serato": "Make Time"
+      },
+      "artist": {
+        "rekordbox": "Shanti Celeste",
+        "serato": "Shanti Celeste"
+      },
+      "album": {
+        "rekordbox": "Make Time",
+        "serato": "Make Time"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 135.01,
+        "serato": 135.01
+      },
+      "key": {
+        "rekordbox": "12A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "Idle Hands",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": false,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Swamp Circuit",
+        "serato": "Swamp Circuit"
+      },
+      "artist": {
+        "rekordbox": "Andre Zimmer",
+        "serato": "Andre Zimmer"
+      },
+      "album": {
+        "rekordbox": "Swamp Circuit EP",
+        "serato": "Swamp Circuit EP"
+      },
+      "genre": {
+        "rekordbox": "Electro",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 134.0,
+        "serato": 134.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Desaturation",
+        "serato": "Desaturation"
+      },
+      "artist": {
+        "rekordbox": "Stones Taro",
+        "serato": "Stones Taro"
+      },
+      "album": {
+        "rekordbox": "Telling The Time",
+        "serato": "Telling The Time"
+      },
+      "genre": {
+        "rekordbox": "Dubwise",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 136.0,
+        "serato": 136.0
+      },
+      "key": {
+        "rekordbox": "5A",
+        "serato": "5A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Senopati Shuffle",
+        "serato": "Senopati Shuffle"
+      },
+      "artist": {
+        "rekordbox": "Batavia Collective",
+        "serato": "Batavia Collective"
+      },
+      "album": {
+        "rekordbox": "BTVC",
+        "serato": "BTVC"
+      },
+      "genre": {
+        "rekordbox": "Space Jazz",
+        "serato": "Space Jazz"
+      },
+      "bpm": {
+        "rekordbox": 105.9,
+        "serato": 104.98
+      },
+      "key": {
+        "rekordbox": "6A",
+        "serato": "6A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 0.9200000000000017,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Berry Baby Cheeto",
+        "serato": "Berry Baby Cheeto"
+      },
+      "artist": {
+        "rekordbox": "Breaka",
+        "serato": "Breaka"
+      },
+      "album": {
+        "rekordbox": "Mangled",
+        "serato": "Mangled"
+      },
+      "genre": {
+        "rekordbox": "Bass",
+        "serato": "Bass"
+      },
+      "bpm": {
+        "rekordbox": 131.0,
+        "serato": 131.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "4A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Proximity Warning",
+        "serato": "Proximity Warning"
+      },
+      "artist": {
+        "rekordbox": "Stones Taro",
+        "serato": "Stones Taro"
+      },
+      "album": {
+        "rekordbox": "Telling The Time",
+        "serato": "Telling The Time"
+      },
+      "genre": {
+        "rekordbox": "Dub",
+        "serato": "Dub"
+      },
+      "bpm": {
+        "rekordbox": 138.0,
+        "serato": 138.0
+      },
+      "key": {
+        "rekordbox": "12A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "DX Heaven",
+        "serato": "DX Heaven"
+      },
+      "artist": {
+        "rekordbox": "sweater, Dj Dre",
+        "serato": "sweater, Dj Dre"
+      },
+      "album": {
+        "rekordbox": "Sweat.exe",
+        "serato": "Sweat.exe"
+      },
+      "genre": {
+        "rekordbox": "Breaks",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 155.0,
+        "serato": 110.0
+      },
+      "key": {
+        "rekordbox": "10A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 45.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "6am Cycles (Dj Babatr Remix)",
+        "serato": "6am Cycles (Dj Babatr Remix)"
+      },
+      "artist": {
+        "rekordbox": "Yas Reven",
+        "serato": "Yas Reven"
+      },
+      "album": {
+        "rekordbox": "Pulse Cycles",
+        "serato": "Pulse Cycles"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 138.0,
+        "serato": 138.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Music Is Moving",
+        "serato": "Music Is Moving"
+      },
+      "artist": {
+        "rekordbox": "Tsvi",
+        "serato": "TSVI"
+      },
+      "album": {
+        "rekordbox": "Music Is Moving / Kataklisma",
+        "serato": "Music Is Moving / Kataklisma"
+      },
+      "genre": {
+        "rekordbox": "Speed Garage",
+        "serato": "Speed Garage"
+      },
+      "bpm": {
+        "rekordbox": 136.0,
+        "serato": 136.0
+      },
+      "key": {
+        "rekordbox": "6A",
+        "serato": "6A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": false,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Keep It Rising",
+        "serato": "Keep It Rising"
+      },
+      "artist": {
+        "rekordbox": "Supershy",
+        "serato": "Supershy"
+      },
+      "album": {
+        "rekordbox": "Happy Music",
+        "serato": "Happy Music"
+      },
+      "genre": {
+        "rekordbox": "House",
+        "serato": "House"
+      },
+      "bpm": {
+        "rekordbox": 120.0,
+        "serato": 121.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "Beyond the Groove",
+        "serato": "Beyond the Groove"
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 1.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Riot On Friday",
+        "serato": "Riot On Friday"
+      },
+      "artist": {
+        "rekordbox": "Batavia Collective",
+        "serato": "Batavia Collective"
+      },
+      "album": {
+        "rekordbox": "BTVC",
+        "serato": "BTVC"
+      },
+      "genre": {
+        "rekordbox": "Space Jazz",
+        "serato": "Space Jazz"
+      },
+      "bpm": {
+        "rekordbox": 95.04,
+        "serato": 94.98
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.060000000000002274,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Nice Up",
+        "serato": "Nice Up"
+      },
+      "artist": {
+        "rekordbox": "Sub Basics",
+        "serato": "Sub Basics"
+      },
+      "album": {
+        "rekordbox": "Never Too Late",
+        "serato": "Never Too Late"
+      },
+      "genre": {
+        "rekordbox": "Dubwise",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 174.0,
+        "serato": 87.0
+      },
+      "key": {
+        "rekordbox": "9A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 87.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Mangled",
+        "serato": "Mangled"
+      },
+      "artist": {
+        "rekordbox": "Breaka",
+        "serato": "Breaka"
+      },
+      "album": {
+        "rekordbox": "Mangled",
+        "serato": "Mangled"
+      },
+      "genre": {
+        "rekordbox": "Mutant Techno",
+        "serato": "Mutant Techno"
+      },
+      "bpm": {
+        "rekordbox": 134.0,
+        "serato": 134.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "4A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Broken News",
+        "serato": "Broken News"
+      },
+      "artist": {
+        "rekordbox": "Andre Zimmer",
+        "serato": "Andre Zimmer"
+      },
+      "album": {
+        "rekordbox": "Swamp Circuit EP",
+        "serato": "Swamp Circuit EP"
+      },
+      "genre": {
+        "rekordbox": "Electro",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 125.0,
+        "serato": 125.0
+      },
+      "key": {
+        "rekordbox": "11A",
+        "serato": "11A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "(=o_o=)",
+        "serato": "(=o_o=)"
+      },
+      "artist": {
+        "rekordbox": "Polygonia",
+        "serato": "Polygonia"
+      },
+      "album": {
+        "rekordbox": "(=o_o=) / Each Story",
+        "serato": "(=o_o=) / Each Story"
+      },
+      "genre": {
+        "rekordbox": "Dubby Tech",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 135.0,
+        "serato": 0.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "4A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": false,
+          "both_missing": false,
+          "diff": 135.0
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Vacuum Boogie",
+        "serato": "Vacuum Boogie"
+      },
+      "artist": {
+        "rekordbox": "Floating Points",
+        "serato": "Floating Points"
+      },
+      "album": {
+        "rekordbox": "Eglo Records, Volume 1",
+        "serato": "Eglo Records, Volume 1"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 116.0,
+        "serato": 116.0
+      },
+      "key": {
+        "rekordbox": "7A",
+        "serato": "Unknown"
+      },
+      "label": {
+        "rekordbox": "Eglo Records",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": true
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": false,
+          "both_missing": false,
+          "adjacent": false
+        },
+        "label": {
+          "match": false,
+          "both_missing": false
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Rascal",
+        "serato": "Rascal"
+      },
+      "artist": {
+        "rekordbox": "Sami",
+        "serato": "Sami"
+      },
+      "album": {
+        "rekordbox": "Bright Blue",
+        "serato": "Bright Blue"
+      },
+      "genre": {
+        "rekordbox": "Rominimal",
+        "serato": "Rominimal"
+      },
+      "bpm": {
+        "rekordbox": 120.0,
+        "serato": 120.0
+      },
+      "key": {
+        "rekordbox": "8A",
+        "serato": "8A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Inuti (Live Cut)",
+        "serato": "Inuti (Live Cut)"
+      },
+      "artist": {
+        "rekordbox": "Arkajo",
+        "serato": "Arkajo"
+      },
+      "album": {
+        "rekordbox": "Arkajo 1",
+        "serato": "Arkajo 1"
+      },
+      "genre": {
+        "rekordbox": "",
+        "serato": "Faux House"
+      },
+      "bpm": {
+        "rekordbox": 128.0,
+        "serato": 128.0
+      },
+      "key": {
+        "rekordbox": "9A",
+        "serato": "9A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Mada",
+        "serato": "Mada"
+      },
+      "artist": {
+        "rekordbox": "Retromigration",
+        "serato": "Retromigration"
+      },
+      "album": {
+        "rekordbox": "Straight Foxin' LP",
+        "serato": "Straight Foxin' LP"
+      },
+      "genre": {
+        "rekordbox": "House",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 118.0,
+        "serato": 118.0
+      },
+      "key": {
+        "rekordbox": "4A",
+        "serato": "4A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "CLOSE THE DOOR",
+        "serato": "CLOSE THE DOOR"
+      },
+      "artist": {
+        "rekordbox": "Hyas, Pura Pura",
+        "serato": "Hyas, Pura Pura"
+      },
+      "album": {
+        "rekordbox": "NO MORE AFTERPARTIES",
+        "serato": "NO MORE AFTERPARTIES"
+      },
+      "genre": {
+        "rekordbox": "Footwork",
+        "serato": "Footwork"
+      },
+      "bpm": {
+        "rekordbox": 168.0,
+        "serato": 84.0
+      },
+      "key": {
+        "rekordbox": "11A",
+        "serato": "11A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 84.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Anomaly",
+        "serato": "Anomaly"
+      },
+      "artist": {
+        "rekordbox": "Pugilist",
+        "serato": "Pugilist"
+      },
+      "album": {
+        "rekordbox": "Maternal",
+        "serato": "Maternal"
+      },
+      "genre": {
+        "rekordbox": "2-Step",
+        "serato": ""
+      },
+      "bpm": {
+        "rekordbox": 140.0,
+        "serato": 70.0
+      },
+      "key": {
+        "rekordbox": "6A",
+        "serato": "6A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": false,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 70.0,
+          "is_2x": true
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    },
+    {
+      "title": {
+        "rekordbox": "Nevermind",
+        "serato": "Nevermind"
+      },
+      "artist": {
+        "rekordbox": "Sub Basics",
+        "serato": "Sub Basics"
+      },
+      "album": {
+        "rekordbox": "Never Too Late",
+        "serato": "Never Too Late"
+      },
+      "genre": {
+        "rekordbox": "Dubwise",
+        "serato": "Dubwise"
+      },
+      "bpm": {
+        "rekordbox": 124.0,
+        "serato": 124.0
+      },
+      "key": {
+        "rekordbox": "3A",
+        "serato": "3A"
+      },
+      "label": {
+        "rekordbox": "",
+        "serato": ""
+      },
+      "field_results": {
+        "title": {
+          "match": true,
+          "both_missing": false
+        },
+        "artist": {
+          "match": true,
+          "both_missing": false
+        },
+        "album": {
+          "match": true,
+          "both_missing": false
+        },
+        "genre": {
+          "match": true,
+          "both_missing": false
+        },
+        "bpm": {
+          "match": true,
+          "both_missing": false,
+          "diff": 0.0,
+          "is_2x": false
+        },
+        "key": {
+          "match": true,
+          "both_missing": false,
+          "adjacent": true
+        },
+        "label": {
+          "match": true,
+          "both_missing": true
+        }
+      }
+    }
+  ]
+}

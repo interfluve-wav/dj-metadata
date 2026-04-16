@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "UDMS - Unified DJ Metadata Schema",
+  "description": "Canonical metadata schema for cross-platform DJ library interoperability",
+  "type": "object",
+  "required": ["title", "artist", "bpm", "key", "file_path"],
+  "properties": {
+    "title": { "type": "string", "description": "Track title" },
+    "artist": { "type": "string", "description": "Primary artist name" },
+    "album": { "type": "string", "description": "Album name" },
+    "genre": { "type": "string", "description": "Genre classification (normalized title case)" },
+    "bpm": { "type": "number", "minimum": 20, "maximum": 300, "description": "Tempo in BPM (1 decimal place)" },
+    "key": { "type": "string", "pattern": "^[1-9][0-2]?[AB]$", "description": "Musical key in Camelot notation (e.g., 8A, 12B)" },
+    "key_numeric": { "type": "integer", "minimum": 0, "maximum": 11, "description": "Numeric key ID (0=C, 1=C#, ..., 11=B)" },
+    "rating": { "type": "integer", "minimum": 0, "maximum": 5, "description": "Star rating (0-5)" },
+    "energy": { "type": "integer", "minimum": 1, "maximum": 10, "description": "Energy level (1-10)" },
+    "mood": { "type": "integer", "minimum": 1, "maximum": 10, "description": "Mood level (1-10)" },
+    "label": { "type": "string", "description": "Record label" },
+    "catalog_no": { "type": "string", "description": "Catalog number" },
+    "duration_sec": { "type": "integer", "minimum": 0, "description": "Track duration in seconds" },
+    "bitrate": { "type": "integer", "minimum": 0, "description": "Audio bitrate in kbps" },
+    "sample_rate": { "type": "integer", "minimum": 0, "description": "Sample rate in Hz" },
+    "file_path": { "type": "string", "description": "Absolute path to audio file" },
+    "isrc": { "type": "string", "pattern": "^[A-Z]{2}[A-Z0-9]{3}[0-9]{7}$", "description": "International Standard Recording Code" },
+    "playlist_name": { "type": "string", "description": "Playlist or crate name" }
+  },
+  "additionalProperties": false
+}

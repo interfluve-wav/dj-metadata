@@ -1,0 +1,56 @@
+{
+  "platform": "VirtualDJ",
+  "parser": "parse_virtualdj.py (BPM=Scan.Bpm*282, 190 tracks from 2026-04-16 backup)",
+  "total_tracks": 190,
+  "rekordbox_matched": 24,
+  "coverage": {
+    "bpm": "77.9%",
+    "key": "99.5%",
+    "genre": "28.9%"
+  },
+  "bpm_stats": {
+    "min": 105.75,
+    "max": 265.08,
+    "mean": 130.2,
+    "count": 148
+  },
+  "key_distribution": {
+    "4B": 19,
+    "8A": 17,
+    "3B": 14,
+    "11B": 12,
+    "6A": 11,
+    "7B": 10,
+    "1A": 9,
+    "2B": 9,
+    "6B": 8,
+    "5A": 8,
+    "12B": 7,
+    "10A": 7
+  },
+  "genre_distribution": {
+    "tagged": 31,
+    "House": 8,
+    "Minimal / Deep Tech": 4,
+    "Breaks": 4,
+    "Techno": 4,
+    "Baalti": 3,
+    "Tech House": 3,
+    "UKG": 2,
+    "Dubstep": 2,
+    "Techno (Raw / Deep / Hypnotic)": 2,
+    "Bass / Club": 2
+  },
+  "top_artists": {
+    "Arapu": 2,
+    "DVS1": 2,
+    "Baalti": 2,
+    "SOSA": 2,
+    "Stillhead": 2,
+    "Blocklab": 2,
+    "DJ Sprinter": 2,
+    "Kenji Hina": 2,
+    "Fadi Mohem": 2,
+    "Nic Baker": 2
+  }
+}
