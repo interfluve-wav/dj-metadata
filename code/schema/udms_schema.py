@@ -28,8 +28,8 @@ class KeyNotation(Enum):
 
 # Platform field name mappings
 REKORDBOX_FIELDS = {
-    "TrackName": "title", "Artist": "artist", "Album": "album", "Genre": "genre",
-    "AverageBpm": "bpm", "Tonality": "key", "RatingByte": "rating",
+    "Name": "title", "Artist": "artist", "Album": "album", "Genre": "genre",
+    "AverageBpm": "bpm", "Tonality": "key", "Rating": "rating",
     "Energy": "energy", "Mood": "mood", "Label": "label",
     "CatalogNo": "catalog_no", "TotalTime": "duration_sec",
     "BitRate": "bitrate", "SampleRate": "sample_rate", "Location": "file_path",
