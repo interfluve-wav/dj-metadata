@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.10)  16 APR 2026 15:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.10)  16 APR 2026 15:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -492,54 +492,53 @@ x (Pi-o-neer
 
 [2] [3{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1
 .enc}] [4] [5] [6] [7]
-<fig_field_coverage.pdf, id=35, 386.46526pt x 254.23357pt>
+<fig_field_coverage.pdf, id=34, 386.46526pt x 254.23357pt>
 File: fig_field_coverage.pdf Graphic file (type pdf)
 <use fig_field_coverage.pdf>
 Package pdftex.def Info: fig_field_coverage.pdf  used on input line 148.
 (pdftex.def)             Requested size: 360.0pt x 236.8382pt.
-<fig_completeness_tiers.pdf, id=36, 310.168pt x 219.72527pt>
+<fig_completeness_tiers.pdf, id=35, 310.168pt x 219.72527pt>
 File: fig_completeness_tiers.pdf Graphic file (type pdf)
 <use fig_completeness_tiers.pdf>
 Package pdftex.def Info: fig_completeness_tiers.pdf  used on input line 159.
 (pdftex.def)             Requested size: 360.0pt x 255.03233pt.
- [8 <./fig_field_coverage.pdf>] [9 <./fig_completeness_tiers.pdf>]
-<fig_bpm_distribution.pdf, id=147, 343.368pt x 226.26846pt>
+ [8 <./fig_field_coverage.pdf>]
+<fig_bpm_distribution.pdf, id=96, 343.368pt x 226.26846pt>
 File: fig_bpm_distribution.pdf Graphic file (type pdf)
 <use fig_bpm_distribution.pdf>
 Package pdftex.def Info: fig_bpm_distribution.pdf  used on input line 172.
 (pdftex.def)             Requested size: 360.0pt x 237.24362pt.
- [10 <./fig_bpm_distribution.pdf>]
-<fig_key_distribution.pdf, id=189, 356.0207pt x 247.56226pt>
+ [9 <./fig_completeness_tiers.pdf>]
+<fig_key_distribution.pdf, id=148, 356.0207pt x 247.56226pt>
 File: fig_key_distribution.pdf Graphic file (type pdf)
 <use fig_key_distribution.pdf>
 Package pdftex.def Info: fig_key_distribution.pdf  used on input line 185.
 (pdftex.def)             Requested size: 360.0pt x 250.34187pt.
- [11 <./fig_key_distribution.pdf>]
-<fig_source_heatmap.pdf, id=239, 444.68477pt x 225.69981pt>
+ [10 <./fig_bpm_distribution.pdf>]
+<fig_source_heatmap.pdf, id=190, 444.68477pt x 225.69981pt>
 File: fig_source_heatmap.pdf Graphic file (type pdf)
 <use fig_source_heatmap.pdf>
 Package pdftex.def Info: fig_source_heatmap.pdf  used on input line 203.
 (pdftex.def)             Requested size: 360.0pt x 182.72629pt.
-
-[12 <./fig_source_heatmap.pdf>]
-<fig_cross_platform_bpm.pdf, id=312, 353.50821pt x 209.0497pt>
+ [11 <./fig_key_distribution.pdf>]
+<fig_cross_platform_bpm.pdf, id=240, 353.50821pt x 209.0497pt>
 File: fig_cross_platform_bpm.pdf Graphic file (type pdf)
 <use fig_cross_platform_bpm.pdf>
 Package pdftex.def Info: fig_cross_platform_bpm.pdf  used on input line 239.
 (pdftex.def)             Requested size: 360.0pt x 212.89291pt.
- [13]
+
+[12 <./fig_source_heatmap.pdf>] [13]
 <fig_cross_platform_key.pdf, id=319, 353.50821pt x 209.16394pt>
 File: fig_cross_platform_key.pdf Graphic file (type pdf)
 <use fig_cross_platform_key.pdf>
 Package pdftex.def Info: fig_cross_platform_key.pdf  used on input line 283.
 (pdftex.def)             Requested size: 360.0pt x 213.00925pt.
- [14 <./fig_cross_platform_bpm.pdf>]
-<fig_genre_entropy.pdf, id=382, 498.80666pt x 208.20222pt>
+<fig_genre_entropy.pdf, id=320, 498.80666pt x 208.20222pt>
 File: fig_genre_entropy.pdf Graphic file (type pdf)
 <use fig_genre_entropy.pdf>
 Package pdftex.def Info: fig_genre_entropy.pdf  used on input line 292.
 (pdftex.def)             Requested size: 360.0pt x 150.27081pt.
-
+ [14 <./fig_cross_platform_bpm.pdf>]
 [15] [16 <./fig_cross_platform_key.pdf>]
 Overfull \hbox (28.5896pt too wide) in paragraph at lines 315--330
  [][] 
@@ -557,7 +556,7 @@ Underfull \hbox (badness 1292) in paragraph at lines 410--411
 a / udms _ schema . py$ \OT1/cmr/m/n/10.95 (+20) con-tains the
  []
 
-[23] (./main.bbl [24]
+(./main.bbl [23] [24]
 Underfull \hbox (badness 4303) in paragraph at lines 101--107
 []\OT1/cmr/m/n/10.95 (+20) DJ.Studio.  The 2026 dj soft-ware in-dex: Real user 
 pref-
@@ -569,25 +568,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--107
  https : / / dj . studio / blog /
  []
 
-[25] [26]) [27]
+[25] [26])
 
 Package caption Warning: Unused \captionsetup[sub] on input line 8.
 See the caption package documentation for explanation.
 
-[28] (./main.aux)
+[27] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14884 strings out of 467525
- 311688 string characters out of 5418982
- 738944 words of memory out of 5000000
+ 14890 strings out of 467525
+ 311738 string characters out of 5418982
+ 740944 words of memory out of 5000000
  43474 multiletter control sequences out of 15000+600000
- 644376 words of font info for 180 fonts, out of 8000000 for 9000
+ 644529 words of font info for 183 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,10n,80p,2638b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,10n,80p,2164b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -600,10 +599,10 @@ al/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
 texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/t
 exlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/te
 xlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on main.pdf (28 pages, 387329 bytes).
+Output written on main.pdf (27 pages, 385191 bytes).
 PDF statistics:
- 621 PDF objects out of 1000 (max. 8388607)
- 154 compressed objects within 2 object streams
+ 618 PDF objects out of 1000 (max. 8388607)
+ 152 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31273 words of extra memory for PDF output out of 35830 (max. 10000000)
 
