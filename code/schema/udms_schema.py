@@ -35,11 +35,16 @@ REKORDBOX_FIELDS = {
     "BitRate": "bitrate", "SampleRate": "sample_rate", "Location": "file_path",
 }
 
+# Serato "database V2" binary format field mappings to UDMS
+# Parsed from /Users/suhaas/Music/_Serato_/database V2 (382 tracks)
+# Fields: tsng=title, tart=artist, talb=album, tgen=genre, tbpm=bpm,
+#         tkey=key, tlbl=label, tlen=duration (HH:MM:SS.ms), tbit=bitrate (kbps),
+#         tsmp=sample_rate (kHz), ttyp=filetype, pfil=filepath
 SERATO_FIELDS = {
-    "title": "title", "artist": "artist", "album": "album", "genre": "genre",
-    "bpm": "bpm", "key": "key", "rating": "rating", "label": "label",
-    "length": "duration_sec", "bit_rate": "bitrate", "sample_rate": "sample_rate",
-    "path": "file_path",
+    "tsng": "title", "tart": "artist", "talb": "album", "tgen": "genre",
+    "tbpm": "bpm", "tkey": "key", "tlbl": "label",
+    "tbit": "bitrate", "tsmp": "sample_rate", "tlen": "duration_sec",
+    "ttyp": "file_type", "pfil": "file_path",
 }
 
 TRAKTOR_FIELDS = {
@@ -87,9 +92,17 @@ class UDMS:
 
 # ── Normalizers ──────────────────────────────────────────────────────────────
 
-def normalize_bpm(value) -> float:
+def normalize_bpm(value, platform: Platform = None) -> float:
+    """Parse BPM from various formats: float, string, or Rekordbox integer."""
     try:
-        return float(value)
+        if isinstance(value, float):
+            return float(value)
+        if isinstance(value, int):
+            return float(value)
+        if isinstance(value, str):
+            # Serato stores BPM as string like "96.78"
+            return float(value.strip())
+        return 0.0
     except (TypeError, ValueError):
         return 0.0
 
@@ -151,7 +164,18 @@ def key_to_numeric(key_camelot: str) -> int:
 
 
 def normalize_duration(value, platform: Platform) -> int:
+    """Parse duration: Rekordbox=seconds (int), Traktor=milliseconds (int), Serato='HH:MM:SS.ms' (str)."""
     try:
+        if platform == Platform.SERATO:
+            # Serato stores as "06:10.09" or "1:23:45.67"
+            parts = str(value).split(':')
+            if len(parts) == 3:  # HH:MM:SS.ms
+                h, m, s = parts
+                return int(h) * 3600 + int(m) * 60 + float(s)
+            elif len(parts) == 2:  # MM:SS.ms
+                m, s = parts
+                return int(m) * 60 + float(s)
+            return int(float(value))
         val = float(value)
         return int(val / 1000) if platform == Platform.TRAKTOR else int(val)
     except (TypeError, ValueError):
@@ -171,7 +195,7 @@ def _apply_normalization(udms: UDMS, raw: dict, field_map: dict, platform: Platf
             continue
         val = raw[native_key]
         if udms_key == "bpm":
-            setattr(udms, udms_key, normalize_bpm(val))
+            setattr(udms, udms_key, normalize_bpm(val, platform))
         elif udms_key == "rating":
             setattr(udms, udms_key, normalize_rating(val, platform))
         elif udms_key == "key":
@@ -179,6 +203,22 @@ def _apply_normalization(udms: UDMS, raw: dict, field_map: dict, platform: Platf
             udms.key_numeric = key_to_numeric(udms.key)
         elif udms_key == "duration_sec":
             setattr(udms, udms_key, normalize_duration(val, platform))
+        elif udms_key == "bitrate":
+            # Serato: "1411.2kbps" -> 1411, Traktor/Rekordbox: int
+            if isinstance(val, str):
+                import re
+                m = re.match(r"([\d.]+)", val)
+                setattr(udms, udms_key, int(float(m.group(1))) if m else 0)
+            else:
+                setattr(udms, udms_key, int(val))
+        elif udms_key == "sample_rate":
+            # Serato: "44.1k" -> 44100, Traktor/Rekordbox: int Hz
+            if isinstance(val, str):
+                import re
+                m = re.match(r"([\d.]+)", val)
+                setattr(udms, udms_key, int(float(m.group(1)) * 1000) if m else 44100)
+            else:
+                setattr(udms, udms_key, int(val))
         else:
             setattr(udms, udms_key, val)
     return udms
