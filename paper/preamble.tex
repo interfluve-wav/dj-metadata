@@ -1,7 +1,6 @@
 % Professional LaTeX preamble — arXiv compatible
 % No ISMIR style dependency; all packages loaded directly in main.tex
 
-\usepackage{microtype}
 \usepackage{booktabs}
 \usepackage{siunitx}
 \usepackage{subcaption}
@@ -9,6 +8,11 @@
 \usepackage[ruled,vlined]{algorithm2e}
 \usepackage{cleveref}
 \let\citep\cite  % ISMIR cite.sty only defines \cite; provide \citep as alias
+
+% Tight float spacing (save ~0.5 page)
+\setlength{\floatsep}{6pt}
+\setlength{\textfloatsep}{6pt}
+\setlength{\intextsep}{6pt}
 
 % Okabe-Ito colorblind-safe palette (recommended by ISMIR style guide)
 \definecolor{okblue}{HTML}{0072B2}
