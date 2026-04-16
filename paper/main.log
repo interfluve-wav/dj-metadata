@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.10)  16 APR 2026 08:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.10)  16 APR 2026 10:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**main.tex
+**main
 (./main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -545,6 +545,9 @@ ocal/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
  <./cc_by.pdf>]
+Underfull \vbox (badness 5787) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -556,12 +559,12 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 <fig_field_coverage.pdf, id=20, 386.46526pt x 254.23357pt>
 File: fig_field_coverage.pdf Graphic file (type pdf)
 <use fig_field_coverage.pdf>
-Package pdftex.def Info: fig_field_coverage.pdf  used on input line 144.
+Package pdftex.def Info: fig_field_coverage.pdf  used on input line 146.
 (pdftex.def)             Requested size: 233.31259pt x 153.48396pt.
 <fig_completeness_tiers.pdf, id=21, 310.168pt x 219.72527pt>
 File: fig_completeness_tiers.pdf Graphic file (type pdf)
 <use fig_completeness_tiers.pdf>
-Package pdftex.def Info: fig_completeness_tiers.pdf  used on input line 155.
+Package pdftex.def Info: fig_completeness_tiers.pdf  used on input line 157.
 (pdftex.def)             Requested size: 233.31259pt x 165.28304pt.
 
 
@@ -571,22 +574,17 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
 
-[3 <./fig_field_coverage.pdf>]
-<fig_bpm_distribution.pdf, id=83, 343.368pt x 226.26846pt>
+[3]
+<fig_bpm_distribution.pdf, id=26, 343.368pt x 226.26846pt>
 File: fig_bpm_distribution.pdf Graphic file (type pdf)
 <use fig_bpm_distribution.pdf>
-Package pdftex.def Info: fig_bpm_distribution.pdf  used on input line 166.
+Package pdftex.def Info: fig_bpm_distribution.pdf  used on input line 170.
 (pdftex.def)             Requested size: 233.31259pt x 153.74657pt.
-<fig_key_distribution.pdf, id=84, 356.0207pt x 247.56226pt>
+<fig_key_distribution.pdf, id=27, 356.0207pt x 247.56226pt>
 File: fig_key_distribution.pdf Graphic file (type pdf)
 <use fig_key_distribution.pdf>
-Package pdftex.def Info: fig_key_distribution.pdf  used on input line 179.
+Package pdftex.def Info: fig_key_distribution.pdf  used on input line 183.
 (pdftex.def)             Requested size: 233.31259pt x 162.23567pt.
-<fig_source_heatmap.pdf, id=85, 444.68477pt x 225.69981pt>
-File: fig_source_heatmap.pdf Graphic file (type pdf)
-<use fig_source_heatmap.pdf>
-Package pdftex.def Info: fig_source_heatmap.pdf  used on input line 197.
-(pdftex.def)             Requested size: 233.31259pt x 118.4184pt.
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -595,26 +593,32 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
 
-[4 <./fig_completeness_tiers.pdf> <./fig_bpm_distribution.pdf> <./fig_key_distr
-ibution.pdf> <./fig_source_heatmap.pdf>]
-Overfull \hbox (0.80101pt too wide) in paragraph at lines 209--222
+[4 <./fig_field_coverage.pdf> <./fig_completeness_tiers.pdf> <./fig_bpm_distrib
+ution.pdf> <./fig_key_distribution.pdf>]
+<fig_source_heatmap.pdf, id=220, 444.68477pt x 225.69981pt>
+File: fig_source_heatmap.pdf Graphic file (type pdf)
+<use fig_source_heatmap.pdf>
+Package pdftex.def Info: fig_source_heatmap.pdf  used on input line 201.
+(pdftex.def)             Requested size: 233.31259pt x 118.4184pt.
+
+Overfull \hbox (0.80101pt too wide) in paragraph at lines 214--227
  [][] 
  []
 
-<fig_cross_platform_bpm.pdf, id=290, 353.50821pt x 209.0497pt>
+<fig_cross_platform_bpm.pdf, id=221, 353.50821pt x 209.0497pt>
 File: fig_cross_platform_bpm.pdf Graphic file (type pdf)
 <use fig_cross_platform_bpm.pdf>
-Package pdftex.def Info: fig_cross_platform_bpm.pdf  used on input line 232.
+Package pdftex.def Info: fig_cross_platform_bpm.pdf  used on input line 237.
 (pdftex.def)             Requested size: 233.31259pt x 137.9732pt.
-<fig_cross_platform_key.pdf, id=291, 353.50821pt x 209.16394pt>
+<fig_cross_platform_key.pdf, id=222, 353.50821pt x 209.16394pt>
 File: fig_cross_platform_key.pdf Graphic file (type pdf)
 <use fig_cross_platform_key.pdf>
-Package pdftex.def Info: fig_cross_platform_key.pdf  used on input line 241.
+Package pdftex.def Info: fig_cross_platform_key.pdf  used on input line 246.
 (pdftex.def)             Requested size: 233.31259pt x 138.0486pt.
-<fig_genre_entropy.pdf, id=292, 498.80666pt x 208.20222pt>
+<fig_genre_entropy.pdf, id=223, 498.80666pt x 208.20222pt>
 File: fig_genre_entropy.pdf Graphic file (type pdf)
 <use fig_genre_entropy.pdf>
-Package pdftex.def Info: fig_genre_entropy.pdf  used on input line 250.
+Package pdftex.def Info: fig_genre_entropy.pdf  used on input line 255.
 (pdftex.def)             Requested size: 233.31259pt x 97.38487pt.
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -623,7 +627,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
 
-[5 <./fig_cross_platform_bpm.pdf> <./fig_cross_platform_key.pdf>]
+[5 <./fig_source_heatmap.pdf> <./fig_cross_platform_bpm.pdf>]
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -631,37 +635,66 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
 
-[6 <./fig_genre_entropy.pdf>]
-Underfull \hbox (badness 1635) in paragraph at lines 310--311
+[6 <./fig_cross_platform_key.pdf> <./fig_genre_entropy.pdf>]
+Underfull \hbox (badness 1635) in paragraph at lines 315--316
 []\OT1/ptm/b/n/10 (+20) UDMS Schema and Python Im-ple-men-ta-tion:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
 \OT1/pcr/m/n/10 https : / / github . com / interfluve-[]wav /
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 311--312
-\OT1/ptm/m/n/10 (+20) file-names and paths are anonymized; meta-data
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+[]\OT1/ptm/b/n/10 (+20) rekordbox-smart-mcp (MCP Server):
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+\OT1/pcr/m/n/10 https : / / github . com / interfluve-[]wav /
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 317--318
+[]\OT1/ptm/b/n/10 (+20) Bonk! (Desk-top Ap-pli-ca-tion): $\OT1/pcr/m/n/10 https
+ : / /
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 318--319
+\OT1/ptm/m/n/10 (+20) is at $\OT1/pcr/m/n/10 data / cross _ platform _ comparis
+on .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
 []\OT1/ptm/b/n/10 (+20) Analysis Scripts: $\OT1/pcr/m/n/10 code / schema / udms
  _
  []
 
 
-Underfull \hbox (badness 2057) in paragraph at lines 312--313
+Underfull \hbox (badness 2057) in paragraph at lines 319--320
 \OT1/pcr/m/n/10 schema . py$ \OT1/ptm/m/n/10 (+20) con-tains the UDMS schema an
 d
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
 \OT1/ptm/m/n/10 (+20) adapters; $\OT1/pcr/m/n/10 code / analyze . py$ \OT1/ptm/
 m/n/10 (+20) con-tains the
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 320--321
+[]\OT1/ptm/b/n/10 (+20) BPM Val-i-da-tion: \OT1/ptm/m/n/10 (+20) Au-dio anal-y-
+sis scripts and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+\OT1/ptm/m/n/10 (+20) re-sults ($\OT1/pcr/m/n/10 code / bpm _ validation _ 20 .
+ py$\OT1/ptm/m/n/10 (+20) ,
  []
 
 (./main.bbl
@@ -672,7 +705,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
 
-[7])
+[7]
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -680,20 +713,30 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
 
-[8] (./main.aux)
+[8])
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+[9
+
+] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15605 strings out of 467525
- 323100 string characters out of 5418982
- 770985 words of memory out of 5000000
- 44045 multiletter control sequences out of 15000+600000
- 669684 words of font info for 296 fonts, out of 8000000 for 9000
+ 15619 strings out of 467525
+ 323282 string characters out of 5418982
+ 772985 words of memory out of 5000000
+ 44050 multiletter control sequences out of 15000+600000
+ 670202 words of font info for 302 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,14n,83p,1924b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,14n,83p,1920b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 ></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
 /usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
@@ -704,10 +747,10 @@ cal/texlive/2026/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texl
 ive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2026/t
 exmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2026/texmf-dist/
 fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (8 pages, 306841 bytes).
+Output written on main.pdf (9 pages, 312115 bytes).
 PDF statistics:
- 554 PDF objects out of 1000 (max. 8388607)
- 110 compressed objects within 2 object streams
+ 557 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  59950 words of extra memory for PDF output out of 61914 (max. 10000000)
 

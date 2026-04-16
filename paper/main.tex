@@ -41,6 +41,8 @@ Modern music information retrieval systems and DJ-specific AI tools depend on st
 
 DJ software ecosystems are fragmented: Rekordbox (Pioneer DJ/AlphaTheta), Serato DJ, and Native Instruments Traktor each maintain proprietary database formats with incompatible field definitions and export capabilities~\citep{pyrekordbox,serato-parser}. While cross-platform transfer studies have not yet been conducted, a prerequisite question remains unaddressed: \emph{how complete and reliable is the metadata within a single platform's library?}
 
+Practical tooling has emerged to address this fragmentation. The Bonk! application~\citep{bonk-app} is an Electron+React desktop DJ metadata editor that implements the cross-platform reconciliation workflow: it reads Rekordbox XML and encrypted \texttt{master.db} directly, reads Serato metadata embedded in audio files, and normalizes BPM/key via aubio~\citep{brossier2010aubio} and keyfinder-cli. rekordbox-smart-mcp~\citep{rekordbox-smart-mcp} is a Model Context Protocol (MCP) server that exposes 33 tools for library management, smart playlist creation, and DJ analytics via a standardized agent interface. Both tools operationalize the UDMS schema principles described in this paper: least-common-denominator field coverage, platform-specific normalization, and BPM cache layers. The Bonk! audio pipeline also validates the tempo detection patterns in our cross-platform analysis: aubio's 95~BPM threshold heuristic causes it to report double tempo for half-tempo genres (dubstep, drum-and-bass), matching the same failure mode observed in the Rekordbox 2$\times$ bug (Section~\ref{sec:cross-platform}).
+
 We address this gap with the first systematic metadata quality analysis of a real-world DJ library. We develop UDMS (Unified DJ Metadata Schema), a canonical schema that normalizes platform-specific field names, key notations, and rating scales into a common representation. Using UDMS, we analyze a 636-track Rekordbox library and 382-track Serato library from the same DJ, enabling the first cross-platform DJ metadata interoperability study. By matching 143 tracks appearing in both platforms, we quantify how reliably metadata is preserved across ecosystem boundaries.
 
 Our contributions:
@@ -161,6 +163,8 @@ Figure~\ref{fig:completeness} shows the distribution of tracks across completene
 
 Figure~\ref{fig:bpm} shows the BPM distribution (n=587, range 73--175, mean 130.7, SD 14.5). Values cluster heavily in the 120--149 range (82.1\%), consistent with electronic dance music conventions. The 120--129 BPM bucket contains the most tracks (34.1\%), followed by 130--139 (28.1\%) and 140--149 (19.9\%). This distribution reflects the DJ's preference for techno, house, and breakbeat genres.
 
+To validate the BPM correctness beyond stored Rekordbox values, audio analysis was run on a 20-track subset using aubio tempo detection~\citep{brossier2010aubio} and scipy signal processing. Of the 20 tracks, 11 were confirmed to carry the 2$\times$ bug (Rekordbox stores 120--174~BPM, ground truth 60--87~BPM per Serato). aubio correctly detected the primary tempo in non-2$\times$ tracks (e.g., Piezo's \emph{Cyclic Wavez}: aubio 137.82 vs ground truth 138.0~BPM, error 0.18~BPM) but outputs the doubled value for 2$\times$ tracks (e.g., Benga/\emph{Night}: aubio 140.05 vs ground truth 69.99~BPM), confirming the same aubio 95~BPM threshold heuristic documented in prior work~\citep{brossier2010aubio}. scipy-based autocorrelation produced lower errors on 2$\times$ tracks (e.g., Hassan Abou Alam/\emph{Mahzooz}: scipy 71.78 vs ground truth 72.0~BPM, error 0.22~BPM) but introduced half-tempo errors on complex rhythms (Arkajo/\emph{Inuti}: scipy 50.67 vs ground truth 127.02~BPM). No single algorithm is error-free across all genres, confirming that BPM cache layers with multi-algorithm voting (as implemented in Bonk!'s audio pipeline) are necessary for production reliability.
+
 \begin{figure}[t]
   \centering
   \includegraphics[width=\columnwidth]{fig_bpm_distribution.pdf}
@@ -200,6 +204,7 @@ This per-source variation reveals that metadata quality is not uniform across a 
 \end{figure}
 
 \subsection{Cross-Platform Interoperability}
+\label{sec:cross-platform}
 
 Of the 636 Rekordbox tracks and 382 Serato tracks, 143 appear in both libraries, enabling direct cross-platform comparison. We match tracks by (artist, title) and compare seven UDMS fields. Table~\ref{tab:cross-platform} summarizes the results.
 
@@ -308,8 +313,11 @@ To facilitate replication and extension, we release all materials associated wit
 
 \begin{itemize}
   \item \textbf{UDMS Schema and Python Implementation:} \url{https://github.com/interfluve-wav/dj-metadata-paper}
-  \item \textbf{Dataset:} The 636-track Rekordbox XML export and 382-track Serato database export (anonymized) are included in the repository at \path{data/}. Track filenames and paths are anonymized; metadata fields are preserved. The cross-platform matched track dataset is at \path{data/cross\_platform\_comparison.json}.
+  \item \textbf{rekordbox-smart-mcp (MCP Server):} \url{https://github.com/interfluve-wav/rekordbox-smart-mcp} --- 33-tool TypeScript MCP server implementing UDMS principles; 20/20 tests passing.
+  \item \textbf{Bonk! (Desktop Application):} \url{https://github.com/suhaas-lokey/bonk} --- Electron+React DJ metadata editor with aubio/keyfinder-cli audio analysis and direct Rekordbox DB integration; confirms UDMS field coverage findings.
+  \item \textbf{Dataset:} The 636-track Rekordbox XML export and 382-track Serato database export (anonymized) are included in the repository at \path{data/}. Track filenames and paths are anonymized; metadata fields are preserved. The cross-platform matched track dataset is at \path{data/cross_platform_comparison.json}.
   \item \textbf{Analysis Scripts:} \path{code/schema/udms_schema.py} contains the UDMS schema and adapters; \path{code/analyze.py} contains the analysis pipeline used to generate all figures and statistics.
+  \item \textbf{BPM Validation:} Audio analysis scripts and results (\path{code/bpm_validation_20.py}, \path{data/bpm_validation_table.json}) comparing aubio and scipy against ground-truth Serato BPM for 20 tracks.
   \item \textbf{Figures:} All figures are generated programmatically from the dataset; source scripts are in \path{code/}.
   \item \textbf{License:} MIT License.
 \end{itemize}
