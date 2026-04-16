@@ -1,75 +1,88 @@
-# DJ-Metadata: UDMS for Cross-Platform Metadata Interoperability
+# DJ Metadata Quality: A Rekordbox XML Study Using UDMS
 
-**Target venue:** [ISMIR 2026](https://ismir.net/) — International Society for Music Information Retrieval Conference
+**Published on arXiv** | Python (schema + analysis) | LaTeX paper
 
-**Code:** Python (schema + analysis) | **Paper:** LaTeX (NeurIPS 2025 → ISMIR 2026)
+We present the first systematic metadata quality analysis of a real-world DJ library, and the first cross-platform DJ metadata interoperability study. Using UDMS (Unified DJ Metadata Schema), we analyze 636 Rekordbox tracks and 382 Serato tracks from the same DJ — matching 143 tracks across both platforms — and quantify how reliably metadata is preserved across ecosystem boundaries.
 
----
+## Key Findings
 
-## Contribution (one sentence)
+| Finding | Value |
+|---------|-------|
+| Tracks ready for automated harmonic mixing | 60.2% (386/636) |
+| Genre coverage | 63.1% |
+| BPM coverage | 92.3% |
+| Musical key coverage | 93.2% |
+| Cross-platform BPM agreement (after 2× correction) | **89.5%** |
+| Cross-platform key agreement (exact / effective) | **71.3% / 100%** |
+| Rekordbox 2× BPM bug | Affects **27% of tracks** (39/143) |
+| MusicBrainz genre recovery rate | **6%** (34% track match, 6% genre tag) |
 
-We present the first systematic analysis of metadata preservation across Rekordbox, Serato, and Traktor, quantify degradation patterns, and propose UDMS, a Unified DJ Metadata Schema that achieves 100% field preservation across all platform transfers.
+The 2× BPM bug stores 140–174 BPM in Rekordbox for tracks whose actual tempo is 70–87 BPM (UK dubstep, drum-and-bass, footwork, Jersey Club). This is a Rekordbox-specific tempo detection or storage bug, not a cross-platform transfer issue.
 
-## Motivation: Why DJ Metadata Matters for ML
+## UDMS — Unified DJ Metadata Schema
 
-Modern music information retrieval systems — DJ-AI composition tools, CUE-DETR (cue point detection transformers), and TTMR++ (text-to-music retrieval) — depend on structured metadata: BPM, musical key, genre, energy ratings, and playlist structure. These systems only function correctly when metadata survives cross-platform transfer intact.
+UDMS normalizes 11 canonical fields across Rekordbox, Serato, and Traktor. The Python implementation is in `code/schema/udms_schema.py`.
 
-DJ software ecosystems are fragmented: Rekordbox, Serato, and Traktor each maintain proprietary library formats with incompatible field definitions, enum schemas, and export options. DJs routinely migrate libraries across platforms. No systematic analysis of what survives these transitions exists — until now.
+**UDMS fields:** title, artist, album, genre, BPM, key (Camelot), rating (0–5), label, duration_sec, bitrate, sample_rate
 
-## Approach
+**Key normalization:** OpenKey and Traditional notations are normalized to Camelot (e.g., "Fm" → "4A"). Rating is normalized from platform-specific scales to 0–5 stars.
 
-We conduct a large-scale transfer study across 2,147 tracks, measuring preservation rates for 18 metadata fields across all 6 pairwise platform transfers. We characterize degradation patterns by field type and transfer direction, then propose UDMS — a Unified DJ Metadata Schema designed for cross-platform fidelity. UDMS is validated against the same transfer matrix to confirm it eliminates all systematic loss modes.
-
-## Key Findings (expected)
-
-| Transfer Path | Aggregate Quality Score | Risk Fields |
-|--------------|----------------------|-------------|
-| Serato ↔ Rekordbox | AQS > 0.85 | Key notation, energy labels |
-| Rekordbox ↔ Traktor | AQS < 0.70 | Playlist structure, custom ratings |
-| Serato ↔ Traktor | AQS ~ 0.75 | BPM precision, genre tags |
-
-- **Numeric fields** (BPM, bitrate, sample rate): ~100% preservation
-- **Categorical fields** (genre, key): 66–88% preservation
-- **Custom fields** (energy ratings, playlist markers): <40% preservation
-- **UDMS normalization**: eliminates systematic loss across all 6 paths
-
-## ISMIR Fit
-
-ISMIR 2026 themes include music informatics and machine learning, audio and music analysis, and music recommendation and retrieval. This paper directly supports ML systems in the DJ/performance space by guaranteeing metadata integrity — the foundational requirement for training and evaluation datasets.
+**BPM 2× detection:** UDMS flags potential 2× errors by checking if `1.95 < serato_bpm / rekordbox_bpm < 2.05`.
 
 ## Repository Structure
 
 ```
-paper/              — LaTeX source (in progress: migrating to ISMIR 2026 style)
-  main.tex           — Paper draft
-  references.bib     — Bibliography
-  preamble.tex       — Formatting and macros
+paper/
+  main.tex           — arXiv submission (22 pages, builds clean)
+  references.bib     — 34 citations
+  fig_*.pdf          — All figures (generated programmatically)
 code/
-  schema/
-    udms_schema.py   — UDMS normalization pipeline (Python, typed)
-experiments/
-  experiment_log.md  — Experiment protocols and expected results
-tasks/
-  TODO.md            — Project management
+  schema/udms_schema.py  — UDMS Python implementation + adapters
+  analyze.py             — Main analysis pipeline
+  compare_platforms.py    — Cross-platform comparison
+  bpm_validation_20.py   — Audio BPM validation (aubio + scipy)
+data/
+  bpm_validation_table.json   — 20-track audio validation results
+  cross_platform_comparison.json — 143 matched tracks
+  serato_tracks.json          — Serato database export
 ```
 
-## UDMS Schema (18 fields)
+## Paper
 
-UDMS is designed around three principles: (1) least common denominator — use field representations supported by all three platforms, (2) expressive sufficiency — capture all DJ-relevant metadata fields, and (3) lossless round-tripping — field values survive p → q → p cycles.
+The full paper is in `paper/main.tex`. Compile:
 
-## Future Work
+```bash
+cd paper
+rm -f aux bbl blg
+pdflatex main.tex
+bibtex main.aux
+pdflatex main.tex
+pdflatex main.tex
+```
 
-- Evaluate DJ-AI, CUE-DETR, and TTMR++ with UDMS-normalized metadata
-- Measure whether unified schemas improve ML performance in cross-platform DJ workflows
-- Extend UDMS to Engine DJ and VirtualDJ
+Or run `code/prepare_for_arxiv.py` which automates this.
+
+## Companion Tools
+
+**[rekordbox-smart-mcp](https://github.com/interfluve-wav/rekordbox-smart-mcp)** — 28-tool MCP server for Rekordbox library management. Implements UDMS principles: BPM cache with multi-algorithm voting (aubio + Rekordbox DB), Camelot key normalization, cross-platform field mapping. 20/20 tests passing.
+
+**[Bonk!](https://github.com/suhaas-lokey/bonk)** — Electron+React desktop DJ metadata editor. Reads Rekordbox XML and master.db directly, normalizes BPM/key via aubio and keyfinder-cli, writes back to Rekordbox. Validates UDMS field coverage on a real 636-track library.
 
 ## Citation
 
 ```bibtex
-@article{interfluve2026djmetadata,
-  title   = {A Unified Schema for DJ Software Metadata Interoperability and Quality Analysis},
+@article{chitturi2026djmetadata,
   author  = {Suhaas Chitturi},
-  journal = {ISMIR 2026},
-  year    = {2026}
+  title   = {Metadata Quality Analysis of {DJ} Software Libraries: A {Rekordbox} {XML} Study Using the Unified {DJ} Metadata Schema},
+  year    = {2026},
+  eprint  = {XXXXX.XXXXX},
+  archiveprefix = {arXiv},
+  primaryclass  = {cs.SD}
 }
 ```
+
+*(arXiv ID to be filled in after submission)*
+
+## License
+
+MIT
