@@ -1,6 +1,6 @@
 # UDMS: A Canonical Schema and Assessment Framework for DJ Metadata Quality
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19617667.svg)](https://doi.org/10.5281/zenodo.19617667)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19617883.svg)](https://doi.org/10.5281/zenodo.19617883)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
@@ -106,8 +106,8 @@ Requirements: Python 3.10+.
              Across {DJ} Ecosystems},
   year    = {2026},
   publisher = {Zenodo},
-  doi     = {10.5281/zenodo.19617667},
-  url     = {https://doi.org/10.5281/zenodo.19617667}
+  doi     = {10.5281/zenodo.19617883},
+  url     = {https://doi.org/10.5281/zenodo.19617883}
 }
 ```
 
