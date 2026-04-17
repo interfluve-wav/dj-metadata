@@ -1,0 +1,37 @@
+{
+  "title": "UDMS: A canonical schema and assessment framework for DJ metadata quality",
+  "description": "<p>Replication package for a cross-platform study of real-world DJ library metadata. Defines <strong>UDMS</strong> (Unified DJ Metadata Schema), Python adapters for Rekordbox, Serato, Engine DJ, and VirtualDJ, comparison tooling, parsed datasets (anonymized paths), a 27-page LaTeX paper, and JSON schema in <code>schema/udms_schema.json</code>.</p><p>Findings include sparse genre and editorial fields, strong key coverage, a systematic Rekordbox half-tempo BPM doubling heuristic versus other platforms, and perfect preservation of title, artist, and album text across matched tracks.</p>",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "publication_date": "2026-04-16",
+  "creators": [
+    {
+      "name": "Suhaas Chitturi"
+    }
+  ],
+  "keywords": [
+    "DJ software",
+    "DJ metadata",
+    "UDMS",
+    "Rekordbox",
+    "Serato",
+    "Engine DJ",
+    "VirtualDJ",
+    "music information retrieval",
+    "metadata quality",
+    "cross-platform interoperability",
+    "Camelot",
+    "BPM",
+    "JSON schema",
+    "LaTeX"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/interfluve-wav/dj-metadata",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ]
+}
