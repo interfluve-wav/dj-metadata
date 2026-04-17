@@ -3,9 +3,13 @@ message: "If you use this repository, software, or datasets, please cite it usin
 type: software
 title: "UDMS: A canonical schema and assessment framework for DJ metadata quality"
 abstract: >-
-  Cross-platform metadata quality analysis of real-world DJ libraries using UDMS
-  (Unified DJ Metadata Schema), with Python tooling, anonymized parsed exports,
-  and a companion LaTeX paper.
+  Replication package for a cross-platform study of DJ library metadata quality.
+  UDMS (Unified DJ Metadata Schema) normalizes eleven fields across Rekordbox,
+  Serato, Engine DJ, and VirtualDJ; this archive ships adapters, comparison code,
+  anonymized parsed datasets, a 27-page LaTeX paper, and JSON Schema. Key results:
+  sparse genre and editorial coverage; strong key coverage with high agreement after
+  normalization; systematic Rekordbox half-tempo BPM doubling versus other stacks;
+  perfect agreement on title, artist, and album for matched tracks.
 authors:
   - family-names: Chitturi
     given-names: Suhaas

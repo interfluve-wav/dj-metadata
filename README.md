@@ -6,7 +6,7 @@
 
 **Python (schema + analysis)** | **LaTeX paper (27 pages)** | **4 DJ platforms**
 
-*UDMS normalizes and compares DJ library metadata across Rekordbox, Serato, Engine DJ, and VirtualDJ — schema, anonymized datasets, analysis scripts, and paper in one repository.*
+*Replication bundle: UDMS (eleven canonical fields) plus adapters for Rekordbox, Serato, Engine DJ, and VirtualDJ, cross-platform comparison code, anonymized parsed exports, JSON Schema, and a 27-page LaTeX paper.*
 
 We present the first cross-platform metadata quality analysis of real-world DJ libraries. Using UDMS (Unified DJ Metadata Schema), we analyze 636 Rekordbox tracks, 382 Serato tracks, 112 Engine DJ tracks, and 190 VirtualDJ tracks — matching 143 tracks across Rekordbox and Serato, and 22 tracks across Rekordbox and VirtualDJ — quantifying how reliably metadata is preserved across ecosystem boundaries.
 
