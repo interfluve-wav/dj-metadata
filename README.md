@@ -1,4 +1,4 @@
-# UDMS: A Canonical Schema and Assessment Framework for DJ Metadata Quality
+# UDMS: A canonical schema and assessment framework for DJ metadata quality
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19617883.svg)](https://doi.org/10.5281/zenodo.19617883)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
@@ -102,8 +102,8 @@ Requirements: Python 3.10+.
 ```bibtex
 @article{chitturi2026djmetadata,
   author  = {Suhaas Chitturi},
-  title   = {UDMS: A Unified Schema for Assessing Metadata Quality
-             Across {DJ} Ecosystems},
+  title   = {UDMS: A canonical schema and assessment framework for {DJ}
+             metadata quality},
   year    = {2026},
   publisher = {Zenodo},
   doi     = {10.5281/zenodo.19617883},

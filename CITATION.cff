@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, software, or datasets, please cite it using the metadata below."
 type: software
-title: "UDMS: A unified schema for assessing metadata quality across DJ ecosystems"
+title: "UDMS: A canonical schema and assessment framework for DJ metadata quality"
 abstract: >-
   Cross-platform metadata quality analysis of real-world DJ libraries using UDMS
   (Unified DJ Metadata Schema), with Python tooling, anonymized parsed exports,
