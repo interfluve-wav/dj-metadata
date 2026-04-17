@@ -27,3 +27,8 @@ keywords:
   - VirtualDJ
   - music information retrieval
   - metadata quality
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19618271"
+    description: "Zenodo archive."

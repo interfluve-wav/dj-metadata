@@ -1,5 +1,6 @@
 # UDMS: A canonical schema and assessment framework for DJ metadata quality
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19618271.svg)](https://doi.org/10.5281/zenodo.19618271)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
@@ -131,8 +132,9 @@ Requirements: Python 3.10+.
   title   = {UDMS: A canonical schema and assessment framework for {DJ}
              metadata quality},
   year    = {2026},
-  url     = {https://github.com/interfluve-wav/dj-metadata},
-  note    = {Zenodo DOI to be added after the archive is republished}
+  publisher = {Zenodo},
+  doi     = {10.5281/zenodo.19618271},
+  url     = {https://doi.org/10.5281/zenodo.19618271},
 }
 ```
 
