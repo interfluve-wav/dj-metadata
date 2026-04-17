@@ -12,6 +12,8 @@ paper/*.blg
 paper/*.log
 paper/texput.log
 paper/main.pdf
+# Frozen PDF for Zenodo/GitHub releases (optional; commit when you cut a version)
+!paper/Chitturi2026_UDMS_preprint.pdf
 main.log
 
 # OS
