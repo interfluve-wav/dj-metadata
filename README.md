@@ -82,32 +82,6 @@ pdflatex main.tex
 
 The paper compiles to 27 pages with no errors.
 
-## Archiving on Zenodo (code + PDF)
-
-Zenodo’s [GitHub integration](https://zenodo.org/) archives the **git tree at your release tag**. `paper/main.pdf` is gitignored, so a local build is **not** uploaded unless you add a tracked copy.
-
-**One DOI (recommended if the paper is part of the replication bundle)**  
-Keep the deposit type **Software** (as in `.zenodo.json`). Before tagging a release:
-
-1. Produce `paper/main.pdf` with your usual LaTeX workflow.
-2. Copy it to the tracked filename and commit:
-
-   ```bash
-   cp paper/main.pdf paper/Chitturi2026_UDMS_preprint.pdf
-   git add paper/Chitturi2026_UDMS_preprint.pdf
-   git commit -m "Add frozen PDF for Zenodo release"
-   ```
-
-3. Publish a **GitHub Release** on that commit. The Zenodo snapshot will include the PDF alongside code and data.
-
-**Separate DOI for the PDF only**  
-If you want a **publication-style** record (conference paper / preprint / article) with its own DOI:
-
-1. On Zenodo choose **New upload** → **Resource type: Publication** → pick a subtype (e.g. **Conference paper** for ISMIR, or **Preprint**).
-2. Upload **only** the PDF (and optional LaTeX source as a zip if you like).
-3. Under **Related works**, link to the **software** DOI and the GitHub repository so both records stay connected.
-
-Use one strategy or both; two DOIs are fine if you want citations to distinguish “paper” vs “full replication archive.”
 
 ## Running the Analysis
 
