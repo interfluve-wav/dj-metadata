@@ -1,12 +1,15 @@
 # UDMS: A canonical schema and assessment framework for DJ metadata quality
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19618271.svg)](https://doi.org/10.5281/zenodo.19618271)
+[![Zenodo record](https://img.shields.io/badge/Zenodo-record-blue)](https://zenodo.org/records/19618271)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
-**Python (schema + analysis)** | **LaTeX paper (27 pages)** | **4 DJ platforms**
+**Python (schema + analysis)** · **LaTeX paper** · **Four DJ platforms (Rekordbox, Serato, Engine DJ, VirtualDJ)**
 
-*Replication bundle: UDMS (eleven canonical fields) plus adapters for Rekordbox, Serato, Engine DJ, and VirtualDJ, cross-platform comparison code, anonymized parsed exports, JSON Schema, and a 27-page LaTeX paper.*
+**Preprint (archived PDF):** [Zenodo record 19618271](https://zenodo.org/records/19618271) · [https://doi.org/10.5281/zenodo.19618271](https://doi.org/10.5281/zenodo.19618271)
+
+*Replication bundle: UDMS (eleven canonical fields) plus adapters for Rekordbox, Serato, Engine DJ, and VirtualDJ, cross-platform comparison code, anonymized parsed exports, JSON Schema, and the LaTeX paper in `paper/`.*
 
 We present the first cross-platform metadata quality analysis of real-world DJ libraries. Using UDMS (Unified DJ Metadata Schema), we analyze 636 Rekordbox tracks, 382 Serato tracks, 112 Engine DJ tracks, and 190 VirtualDJ tracks — matching 143 tracks across Rekordbox and Serato, and 22 tracks across Rekordbox and VirtualDJ — quantifying how reliably metadata is preserved across ecosystem boundaries.
 
@@ -122,7 +125,7 @@ Requirements: Python 3.10+.
 
 **[rekordbox-smart-mcp](https://github.com/interfluve-wav/rekordbox-smart-mcp)** — MCP server for Rekordbox library management. 33 tools covering library queries, smart playlists, BPM cache with multi-algorithm voting, Camelot key normalization, and safe mutations with full audit logging. 20/20 tests passing.
 
-**[Bonk!](https://github.com/suhaas-lokey/bonk)** — Electron+React desktop DJ metadata editor. Reads Rekordbox XML and master.db directly, normalizes BPM/key via aubio and keyfinder-cli, writes back to Rekordbox.
+**[Bonk!](https://github.com/interfluve-wav/bonk-app)** — Electron+React desktop DJ metadata editor. Reads Rekordbox XML and master.db directly, normalizes BPM/key via aubio and keyfinder-cli, writes back to Rekordbox.
 
 ## Citation
 
