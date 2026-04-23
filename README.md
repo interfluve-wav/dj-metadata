@@ -122,16 +122,14 @@ Requirements: Python 3.10+.
 ```bibtex
 @article{chitturi2026djmetadata,
   author  = {Suhaas Chitturi},
-  title   = {UDMS: A Canonical Schema and Assessment Framework for
-             Measuring and Maintaining {DJ} Metadata Quality
-             Across Ecosystems},
+  title   = {UDMS: A Unified Schema for Assessing Metadata Quality
+             Across {DJ} Ecosystems},
   year    = {2026},
   publisher = {Zenodo},
-  doi     = {10.5281/zenodo.XXXXXXX}
+  doi     = {10.5281/zenodo.19618271},
+  url     = {https://doi.org/10.5281/zenodo.19618271}
 }
 ```
-
-*(Zenodo DOI to be filled in after upload)*
 
 ## License
 
